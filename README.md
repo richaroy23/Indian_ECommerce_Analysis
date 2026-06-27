@@ -148,6 +148,12 @@ Business Insights Report (.docx)
 | Executive Summary | ![Executive Summary](screenshots/executive_summary.png) |
 | Story | ![Story](screenshots/story.png) |
 
+## 🔗 Live Dashboard
+
+View the interactive dashboard on Power BI:
+
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/3f9osctVoC?ctid=f471b67a-c3c8-44df-8d36-5652865ad709&pbi_source=linkShare)
+
 ### 📱 Mobile View
 A dedicated mobile layout has been designed for the dashboard, optimised for portrait viewing with KPI cards prioritised at the top.
 
