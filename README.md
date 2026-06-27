@@ -135,6 +135,14 @@ Business Insights Report (.docx)
 | **Executive Summary** | Leadership view — big KPIs + trend + written callouts |
 | **Story** | Narrative page — 3 mini charts + business story text |
 
+### 📱 Mobile View
+A dedicated mobile layout has been designed for the dashboard, optimised for portrait viewing with KPI cards prioritised at the top.
+
+To view on mobile:
+1. Download the **Power BI Mobile App** (iOS / Android)
+2. Sign in with your Microsoft account
+3. Open the report — the mobile layout loads automatically
+
 ### Features Implemented
 - ✅ Data model with relationships across 12 tables
 - ✅ `_Measures` DAX table with 15+ custom measures
@@ -145,7 +153,7 @@ Business Insights Report (.docx)
 - ✅ Sales Forecasting — 3 months, 95% confidence interval (Analytics pane)
 - ✅ Conditional formatting — red for slow movers, risk-color bars
 - ✅ Mobile layout — portrait view, KPI cards prioritised
-- ✅ Row-Level Security — role per region (optional)
+
 
 ### DAX Measures (Selected)
 ```dax
