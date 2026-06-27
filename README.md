@@ -135,6 +135,19 @@ Business Insights Report (.docx)
 | **Executive Summary** | Leadership view — big KPIs + trend + written callouts |
 | **Story** | Narrative page — 3 mini charts + business story text |
 
+> 📥 To view the dashboard, download `Ecommerce_Analytics_Dashboard_Final.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free). All data is embedded — no additional setup required.
+
+
+### 📸 Dashboard Preview
+
+| Page | Preview |
+|------|---------|
+| Dashboard | ![Dashboard](screenshots/dashboard.png) |
+| Churn Risk | ![Churn Risk](screenshots/churn_risk.png) |
+| Slow Movers | ![Slow Movers](screenshots/slow_movers.png) |
+| Executive Summary | ![Executive Summary](screenshots/executive_summary.png) |
+| Story | ![Story](screenshots/story.png) |
+
 ### 📱 Mobile View
 A dedicated mobile layout has been designed for the dashboard, optimised for portrait viewing with KPI cards prioritised at the top.
 
