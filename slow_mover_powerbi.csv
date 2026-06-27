@@ -1,0 +1,786 @@
+product_id,product_name,product_category,brand,total_revenue,units_sold,order_count,stock_qty,slow_mover_flag,revenue_vs_avg_pct
+PROD00001,Hair Oil Pro,Beauty & Personal,Tata,74791.12,6,2,409,Normal,227.1
+PROD00014,Novel Elite,Books,Boat,57294.33,3,1,42,Normal,173.9
+PROD00025,Dupatta Max,Clothing,Amul,19258.18,1,1,144,Normal,58.5
+PROD00036,Charger Elite,Electronics,Amul,24382.07,4,1,468,Normal,74.0
+PROD00038,Skipping Rope Pro,Sports & Fitness,Bata,19273.03,1,1,115,Normal,58.5
+PROD00047,Dupatta Pro,Clothing,Peter England,64379.6,4,1,120,Normal,195.5
+PROD00053,Saree Max,Clothing,Bajaj,11704.73,2,1,53,Slow Mover,35.5
+PROD00054,Cookbook Lite,Books,Wildcraft,22863.6,1,1,300,Normal,69.4
+PROD00055,Organic Ghee Max,Grocery & Food,Amul,54940.48,4,1,240,Normal,166.8
+PROD00056,Atta Max,Grocery & Food,Noise,8567.19,3,1,9,Slow Mover,26.0
+PROD00060,Serum Pro,Beauty & Personal,Amul,390106.46,2,1,146,Normal,1184.4
+PROD00064,Board Game Elite,Toys & Baby,Bajaj,935.5,1,1,99,Slow Mover,2.8
+PROD00066,Sunscreen Max,Beauty & Personal,Peter England,66090.6,4,1,150,Normal,200.7
+PROD00071,Compact Max,Beauty & Personal,Peter England,4588.71,1,1,284,Slow Mover,13.9
+PROD00075,Earbuds Max,Electronics,Dabur,17531.01,4,1,272,Normal,53.2
+PROD00076,Drawing Kit Lite,Toys & Baby,Unbranded,11645.46,3,1,290,Slow Mover,35.4
+PROD00085,Lipstick Elite,Beauty & Personal,Samsung India,16620.72,1,1,495,Normal,50.5
+PROD00088,Mixer Grinder Lite,Home & Kitchen,Samsung India,7230.09,1,1,152,Slow Mover,22.0
+PROD00090,Curtain Lite,Home & Kitchen,Bata,11844.28,1,1,50,Slow Mover,36.0
+PROD00105,Skipping Rope Max,Sports & Fitness,Whirlpool,45646.58,2,1,50,Normal,138.6
+PROD00109,Board Game Standard,Toys & Baby,Patanjali,29978.63,3,1,269,Normal,91.0
+PROD00123,Lehenga Plus,Clothing,Dabur,343254.48,4,1,138,Normal,1042.1
+PROD00124,Hair Oil Lite,Beauty & Personal,Reliance,4913.59,1,1,0,Slow Mover,14.9
+PROD00132,Stuffed Animal Max,Toys & Baby,Peter England,126954.62,7,2,457,Normal,385.4
+PROD00137,Curtain Standard,Home & Kitchen,OnePlus,40500.25,3,2,481,Normal,123.0
+PROD00144,Green Tea Standard,Grocery & Food,Noise,19150.6,4,1,108,Normal,58.1
+PROD00149,Tiffin Box Plus,Home & Kitchen,FabIndia,21492.21,1,1,378,Normal,65.3
+PROD00162,Puzzle Standard,Toys & Baby,Noise,35546.94,2,1,69,Normal,107.9
+PROD00164,Curtain Lite,Home & Kitchen,Boat,15345.51,2,1,441,Slow Mover,46.6
+PROD00178,Pickle Pro,Grocery & Food,Tata,8675.01,1,1,7,Slow Mover,26.3
+PROD00185,Laptop Plus,Electronics,Peter England,86811.32,4,1,113,Normal,263.6
+PROD00186,Dupatta Max,Clothing,Reliance,88040.04,4,1,174,Normal,267.3
+PROD00188,Shampoo Plus,Beauty & Personal,Bata,1356.43,4,1,469,Slow Mover,4.1
+PROD00189,Cricket Bat Max,Sports & Fitness,Amul,22162.82,5,2,153,Normal,67.3
+PROD00197,Smart TV Plus,Electronics,W for Woman,22039.26,3,1,248,Normal,66.9
+PROD00216,Body Lotion Elite,Beauty & Personal,Bata,749.91,2,1,410,Slow Mover,2.3
+PROD00222,Protein Bar Pro,Grocery & Food,Samsung India,16862.27,1,1,426,Normal,51.2
+PROD00237,Sports Shoes Plus,Sports & Fitness,Bata,53892.6,4,1,137,Normal,163.6
+PROD00244,Saree Pro,Clothing,W for Woman,77853.2,4,1,165,Normal,236.4
+PROD00254,Badminton Racket Pro,Sports & Fitness,Godrej,44096.1,3,1,144,Normal,133.9
+PROD00255,Salwar Suit Max,Clothing,Peter England,9300.32,3,1,482,Slow Mover,28.2
+PROD00278,Dal Pro,Grocery & Food,Boat,560.12,4,1,96,Slow Mover,1.7
+PROD00281,T-Shirt Pro,Clothing,Bajaj,20598.04,1,1,325,Normal,62.5
+PROD00282,Kajal Standard,Beauty & Personal,Godrej,10344.54,3,1,467,Slow Mover,31.4
+PROD00285,Pressure Cooker Max,Home & Kitchen,Boat,16398.33,2,1,414,Slow Mover,49.8
+PROD00289,Kurta Standard,Clothing,Whirlpool,37712.82,2,1,271,Normal,114.5
+PROD00313,Children Book Lite,Books,Bata,26329.9,2,1,497,Normal,79.9
+PROD00316,Bedsheet Standard,Home & Kitchen,Dabur,34308.84,2,1,62,Normal,104.2
+PROD00319,Shirt Max,Clothing,Patanjali,27022.6,2,1,274,Normal,82.0
+PROD00336,Action Figure Elite,Toys & Baby,Boat,32098.37,4,1,340,Normal,97.5
+PROD00341,Cycling Helmet Max,Sports & Fitness,Amul,8600.6,3,1,438,Slow Mover,26.1
+PROD00348,Dumbbell Standard,Sports & Fitness,Bata,15371.18,3,1,7,Slow Mover,46.7
+PROD00351,Power Bank Standard,Electronics,Peter England,14729.3,2,1,411,Slow Mover,44.7
+PROD00356,Self Help Book Pro,Books,Reliance,58343.73,3,1,124,Normal,177.1
+PROD00358,Body Lotion Max,Beauty & Personal,FabIndia,11438.67,3,1,498,Slow Mover,34.7
+PROD00368,Badminton Racket Standard,Sports & Fitness,Bajaj,61041.96,3,1,449,Normal,185.3
+PROD00370,Cushion Cover Lite,Home & Kitchen,Unbranded,63436.88,4,1,0,Normal,192.6
+PROD00378,Speaker Lite,Electronics,Bata,23911.32,2,1,354,Normal,72.6
+PROD00390,Salwar Suit Elite,Clothing,Amul,3284.99,1,1,276,Slow Mover,10.0
+PROD00394,Cookbook Lite,Books,W for Woman,14201.66,1,1,0,Slow Mover,43.1
+PROD00395,Green Tea Max,Grocery & Food,Patanjali,40337.97,3,1,410,Normal,122.5
+PROD00402,Stuffed Animal Lite,Toys & Baby,Marico,37496.34,2,1,156,Normal,113.8
+PROD00406,Hair Oil Lite,Beauty & Personal,Tata,20625.08,4,1,231,Normal,62.6
+PROD00407,Yoga Mat Max,Sports & Fitness,OnePlus,26202.78,2,1,114,Normal,79.6
+PROD00412,Cookbook Max,Books,Unbranded,68762.16,3,1,411,Normal,208.8
+PROD00414,Smartphone Standard,Electronics,Peter England,1881.42,2,1,440,Slow Mover,5.7
+PROD00421,Sunscreen Elite,Beauty & Personal,Bajaj,62073.46,4,1,167,Normal,188.5
+PROD00423,Lehenga Max,Clothing,Godrej,11887.5,1,1,92,Slow Mover,36.1
+PROD00439,Atlas Lite,Books,Godrej,57154.9,3,1,170,Normal,173.5
+PROD00442,Laptop Elite,Electronics,Unbranded,15637.08,2,1,243,Slow Mover,47.5
+PROD00446,Mixer Grinder Elite,Home & Kitchen,Boat,23537.49,3,1,135,Normal,71.5
+PROD00447,Smart TV Lite,Electronics,Bata,11648.12,1,1,150,Slow Mover,35.4
+PROD00451,NCERT Guide Lite,Books,Havells,14253.87,1,1,202,Slow Mover,43.3
+PROD00453,Competitive Exam Book Plus,Books,OnePlus,23235.879999999997,3,2,440,Normal,70.5
+PROD00457,Protein Bar Pro,Grocery & Food,Whirlpool,20267.28,4,1,462,Normal,61.5
+PROD00472,Tracksuit Lite,Clothing,W for Woman,32452.53,2,1,228,Normal,98.5
+PROD00476,Comic Max,Books,Unbranded,6721.77,1,1,180,Slow Mover,20.4
+PROD00482,Jacket Plus,Clothing,Patanjali,35789.64,3,1,210,Normal,108.7
+PROD00496,Shampoo Lite,Beauty & Personal,Marico,16424.2,1,1,296,Slow Mover,49.9
+PROD00501,Lehenga Plus,Clothing,Godrej,13801.24,3,1,0,Slow Mover,41.9
+PROD00505,Hair Oil Lite,Beauty & Personal,Wildcraft,22092.05,2,1,296,Normal,67.1
+PROD00506,Jacket Max,Clothing,Tata,14578.57,1,1,116,Slow Mover,44.3
+PROD00509,Shampoo Elite,Beauty & Personal,OnePlus,15844.74,2,1,293,Slow Mover,48.1
+PROD00510,Cookbook Lite,Books,Wildcraft,63578.56,4,1,253,Normal,193.0
+PROD00521,Cycling Helmet Pro,Sports & Fitness,Tata,34922.25,3,1,372,Normal,106.0
+PROD00532,Protein Bar Elite,Grocery & Food,Bajaj,34136.28,4,1,0,Normal,103.6
+PROD00562,Lego Set Elite,Toys & Baby,Bata,1151.98,1,1,319,Slow Mover,3.5
+PROD00574,Earbuds Pro,Electronics,Samsung India,9856.02,2,1,394,Slow Mover,29.9
+PROD00603,Mixer Grinder Standard,Home & Kitchen,Whirlpool,68233.33,4,1,397,Normal,207.2
+PROD00612,Charger Standard,Electronics,Whirlpool,48838.56,4,1,315,Normal,148.3
+PROD00614,Smart Watch Plus,Electronics,Noise,36359.62,2,1,191,Normal,110.4
+PROD00624,Webcam Elite,Electronics,Unbranded,28166.85,5,2,140,Normal,85.5
+PROD00625,Speaker Standard,Electronics,Havells,21574.85,2,1,29,Normal,65.5
+PROD00632,Pickle Pro,Grocery & Food,Unbranded,1939.71,1,1,341,Slow Mover,5.9
+PROD00640,Face Wash Elite,Beauty & Personal,Samsung India,69621.14,4,1,412,Normal,211.4
+PROD00645,Salwar Suit Plus,Clothing,FabIndia,8794.03,3,1,101,Slow Mover,26.7
+PROD00646,Novel Plus,Books,Samsung India,9346.43,1,1,83,Slow Mover,28.4
+PROD00648,Cycling Helmet Standard,Sports & Fitness,Samsung India,26956.25,2,1,219,Normal,81.8
+PROD00653,Shirt Standard,Clothing,Tata,38358.78,2,1,269,Normal,116.5
+PROD00669,Yoga Mat Standard,Sports & Fitness,OnePlus,13484.4,4,1,198,Slow Mover,40.9
+PROD00674,Children Book Pro,Books,Tata,28587.37,3,1,92,Normal,86.8
+PROD00683,Cricket Bat Plus,Sports & Fitness,Amul,24645.44,2,1,395,Normal,74.8
+PROD00703,Curtain Elite,Home & Kitchen,Unbranded,13031.04,2,1,309,Slow Mover,39.6
+PROD00713,Yoga Mat Standard,Sports & Fitness,Patanjali,4374.87,2,1,437,Slow Mover,13.3
+PROD00720,Dry Fruits Max,Grocery & Food,Dabur,381.81,3,1,211,Slow Mover,1.2
+PROD00721,Atlas Max,Books,Godrej,12448.88,1,1,146,Slow Mover,37.8
+PROD00722,Cushion Cover Standard,Home & Kitchen,Unbranded,17349.5,2,1,184,Normal,52.7
+PROD00727,Drawing Kit Elite,Toys & Baby,Samsung India,14382.32,2,1,430,Slow Mover,43.7
+PROD00735,Sunscreen Max,Beauty & Personal,Dabur,4320.01,4,1,477,Slow Mover,13.1
+PROD00739,T-Shirt Elite,Clothing,Havells,14340.2,6,2,430,Slow Mover,43.5
+PROD00748,Smart Watch Plus,Electronics,Bata,172.8,1,1,154,Slow Mover,0.5
+PROD00766,Tablet Pro,Electronics,Tata,39585.62,2,1,141,Normal,120.2
+PROD00767,Cycling Helmet Standard,Sports & Fitness,FabIndia,50712.78,4,1,0,Normal,154.0
+PROD00770,Tracksuit Lite,Clothing,Peter England,46426.2,4,1,80,Normal,141.0
+PROD00772,Comic Plus,Books,Tata,73123.03,3,1,416,Normal,222.0
+PROD00777,Bedsheet Max,Home & Kitchen,OnePlus,39189.49,2,1,292,Normal,119.0
+PROD00789,Bedsheet Elite,Home & Kitchen,Bajaj,43741.36,2,1,313,Normal,132.8
+PROD00791,Tracksuit Max,Clothing,Reliance,17955.34,2,1,455,Normal,54.5
+PROD00794,Serum Pro,Beauty & Personal,Godrej,75974.78,4,1,175,Normal,230.7
+PROD00795,Children Book Max,Books,OnePlus,17242.83,1,1,415,Normal,52.4
+PROD00796,Kurta Standard,Clothing,Samsung India,22123.97,1,1,71,Normal,67.2
+PROD00798,Cookbook Pro,Books,Reliance,24189.42,2,2,251,Normal,73.4
+PROD00799,Saree Standard,Clothing,Dabur,21990.72,4,1,171,Normal,66.8
+PROD00802,Organic Ghee Pro,Grocery & Food,Samsung India,21650.1,2,1,98,Normal,65.7
+PROD00808,Webcam Standard,Electronics,W for Woman,22383.79,1,1,95,Normal,68.0
+PROD00810,Children Book Pro,Books,Wildcraft,5513.01,6,2,165,Slow Mover,16.7
+PROD00813,Protein Bar Pro,Grocery & Food,Bata,67681.86,3,1,140,Normal,205.5
+PROD00814,Sports Shoes Max,Sports & Fitness,Tata,37343.04,2,1,390,Normal,113.4
+PROD00817,Smart Watch Standard,Electronics,Reliance,16653.12,3,1,454,Normal,50.6
+PROD00828,Power Bank Plus,Electronics,Amul,22346.65,1,1,154,Normal,67.8
+PROD00830,Tablet Max,Electronics,Peter England,6438.84,1,1,209,Slow Mover,19.5
+PROD00847,Puzzle Lite,Toys & Baby,W for Woman,59792.43,3,1,366,Normal,181.5
+PROD00855,Face Cream Plus,Beauty & Personal,Havells,66674.37,4,1,201,Normal,202.4
+PROD00863,Honey Elite,Grocery & Food,Samsung India,32116.03,2,1,437,Normal,97.5
+PROD00885,Smartphone Pro,Electronics,Patanjali,19716.66,8,2,481,Normal,59.9
+PROD00888,Non-stick Pan Lite,Home & Kitchen,Marico,3346.65,2,1,408,Slow Mover,10.2
+PROD00892,Tracksuit Plus,Clothing,Havells,76768.32,4,1,293,Normal,233.1
+PROD00907,Smart Watch Standard,Electronics,Peter England,5266.68,3,1,0,Slow Mover,16.0
+PROD00911,Cushion Cover Pro,Home & Kitchen,Marico,5492.3,2,1,232,Slow Mover,16.7
+PROD00920,Smart Watch Lite,Electronics,FabIndia,1302.02,1,1,98,Slow Mover,4.0
+PROD00921,Earbuds Max,Electronics,Boat,52723.08,4,1,20,Normal,160.1
+PROD00926,Sunscreen Max,Beauty & Personal,Peter England,96217.67,4,1,211,Normal,292.1
+PROD00931,Atta Lite,Grocery & Food,W for Woman,37166.98,2,1,95,Normal,112.8
+PROD00934,Smart Watch Pro,Electronics,Havells,24383.26,3,1,283,Normal,74.0
+PROD00935,Puzzle Pro,Toys & Baby,Reliance,19411.19,1,1,250,Normal,58.9
+PROD00936,Lehenga Standard,Clothing,Bata,12540.63,1,1,470,Slow Mover,38.1
+PROD00942,Dal Standard,Grocery & Food,Patanjali,15303.92,3,1,467,Slow Mover,46.5
+PROD00947,Tiffin Box Plus,Home & Kitchen,Patanjali,9349.3,1,1,79,Slow Mover,28.4
+PROD00949,Competitive Exam Book Elite,Books,FabIndia,2449.94,1,1,289,Slow Mover,7.4
+PROD00950,Cycling Helmet Plus,Sports & Fitness,Havells,47008.07,2,1,269,Normal,142.7
+PROD00953,NCERT Guide Max,Books,Noise,9559.56,3,1,0,Slow Mover,29.0
+PROD00958,Badminton Racket Max,Sports & Fitness,Amul,15574.17,1,1,187,Slow Mover,47.3
+PROD00962,Green Tea Standard,Grocery & Food,Patanjali,85711.8,4,1,410,Normal,260.2
+PROD00964,Smart Watch Standard,Electronics,Samsung India,34151.72,3,1,15,Normal,103.7
+PROD00968,Green Tea Pro,Grocery & Food,FabIndia,35935.48,4,1,430,Normal,109.1
+PROD00970,Charger Elite,Electronics,Whirlpool,21984.64,2,1,20,Normal,66.7
+PROD00974,Dupatta Lite,Clothing,Unbranded,32288.15,2,1,105,Normal,98.0
+PROD00979,Spice Set Pro,Grocery & Food,Bajaj,17041.93,1,1,214,Normal,51.7
+PROD00987,Smart Watch Pro,Electronics,Wildcraft,736.4,1,1,58,Slow Mover,2.2
+PROD01002,Yoga Mat Lite,Sports & Fitness,Amul,87162.63,5,2,442,Normal,264.6
+PROD01009,Action Figure Standard,Toys & Baby,Patanjali,48115.82,3,2,145,Normal,146.1
+PROD01011,Curtain Pro,Home & Kitchen,Peter England,22530.48,3,1,198,Normal,68.4
+PROD01015,Hair Oil Standard,Beauty & Personal,Dabur,43622.56,4,1,122,Normal,132.4
+PROD01019,Tablet Pro,Electronics,Tata,9984.45,3,1,443,Slow Mover,30.3
+PROD01025,Cookbook Max,Books,Reliance,6663.93,3,1,269,Slow Mover,20.2
+PROD01026,NCERT Guide Plus,Books,W for Woman,14824.48,2,1,336,Slow Mover,45.0
+PROD01036,Tracksuit Pro,Clothing,Bajaj,93006.51000000001,5,2,229,Normal,282.4
+PROD01040,Lego Set Plus,Toys & Baby,Havells,9619.6,2,1,103,Slow Mover,29.2
+PROD01041,Kurta Standard,Clothing,Boat,4093.74,3,1,0,Slow Mover,12.4
+PROD01044,Body Lotion Lite,Beauty & Personal,Tata,53074.5,3,1,308,Normal,161.1
+PROD01047,Mixer Grinder Plus,Home & Kitchen,W for Woman,13830.9,3,1,233,Slow Mover,42.0
+PROD01050,Badminton Racket Elite,Sports & Fitness,Godrej,42435.36,3,1,394,Normal,128.8
+PROD01052,Honey Elite,Grocery & Food,Tata,13893.36,4,1,363,Slow Mover,42.2
+PROD01054,Pressure Cooker Plus,Home & Kitchen,Bata,12170.35,1,1,330,Slow Mover,36.9
+PROD01060,Stuffed Animal Lite,Toys & Baby,Wildcraft,7693.1,2,1,352,Slow Mover,23.4
+PROD01062,Puzzle Pro,Toys & Baby,Amul,65211.32,3,1,90,Normal,198.0
+PROD01063,Dumbbell Lite,Sports & Fitness,Amul,29693.24,4,1,66,Normal,90.2
+PROD01064,Competitive Exam Book Plus,Books,Whirlpool,18632.81,4,1,330,Normal,56.6
+PROD01073,Atta Elite,Grocery & Food,Noise,15716.82,3,1,450,Slow Mover,47.7
+PROD01074,Baby Rattle Pro,Toys & Baby,Wildcraft,37587.45,4,1,384,Normal,114.1
+PROD01075,Smart Watch Pro,Electronics,Tata,19627.56,4,1,256,Normal,59.6
+PROD01082,Shirt Standard,Clothing,Godrej,48605.24,4,1,210,Normal,147.6
+PROD01092,Dry Fruits Pro,Grocery & Food,FabIndia,22877.96,4,1,225,Normal,69.5
+PROD01094,NCERT Guide Lite,Books,Samsung India,16921.6,2,1,364,Normal,51.4
+PROD01098,Cricket Bat Plus,Sports & Fitness,FabIndia,24104.56,1,1,477,Normal,73.2
+PROD01100,Puzzle Lite,Toys & Baby,Wildcraft,45226.78,3,1,430,Normal,137.3
+PROD01103,Cushion Cover Lite,Home & Kitchen,FabIndia,6877.46,2,1,289,Slow Mover,20.9
+PROD01105,Hair Oil Max,Beauty & Personal,Peter England,6771.41,1,1,62,Slow Mover,20.6
+PROD01124,Earbuds Standard,Electronics,Havells,35614.34,3,1,347,Normal,108.1
+PROD01128,Children Book Max,Books,W for Woman,79862.88,4,1,0,Normal,242.5
+PROD01137,Mixer Grinder Pro,Home & Kitchen,Unbranded,15533.02,2,1,202,Slow Mover,47.2
+PROD01141,T-Shirt Pro,Clothing,Noise,101660.75,5,2,337,Normal,308.6
+PROD01145,Bedsheet Elite,Home & Kitchen,Dabur,20686.6,4,1,437,Normal,62.8
+PROD01152,NCERT Guide Pro,Books,Bajaj,7131.66,2,1,210,Slow Mover,21.7
+PROD01155,Dupatta Pro,Clothing,Godrej,42986.75,2,1,133,Normal,130.5
+PROD01158,Smart Watch Max,Electronics,Unbranded,23607.41,1,1,278,Normal,71.7
+PROD01161,Honey Max,Grocery & Food,Whirlpool,30801.32,5,2,74,Normal,93.5
+PROD01176,Remote Car Plus,Toys & Baby,FabIndia,25042.78,1,1,342,Normal,76.0
+PROD01178,Comic Max,Books,Whirlpool,5048.68,3,1,289,Slow Mover,15.3
+PROD01180,Dumbbell Max,Sports & Fitness,Godrej,2302.11,3,1,64,Slow Mover,7.0
+PROD01192,Atlas Elite,Books,Peter England,4690.64,1,1,62,Slow Mover,14.2
+PROD01193,Laptop Plus,Electronics,Godrej,21950.88,1,1,366,Normal,66.6
+PROD01204,Dupatta Standard,Clothing,Patanjali,18171.65,1,1,227,Normal,55.2
+PROD01205,Bedsheet Standard,Home & Kitchen,OnePlus,46424.26,3,1,219,Normal,140.9
+PROD01236,Lehenga Lite,Clothing,Havells,66863.12,4,1,361,Normal,203.0
+PROD01241,Self Help Book Pro,Books,Havells,30637.12,2,1,246,Normal,93.0
+PROD01243,Children Book Pro,Books,W for Woman,41868.82,6,2,457,Normal,127.1
+PROD01260,Water Bottle Plus,Home & Kitchen,OnePlus,57114.3,3,1,116,Normal,173.4
+PROD01266,Cricket Bat Plus,Sports & Fitness,Unbranded,43633.02,4,1,259,Normal,132.5
+PROD01268,Mixer Grinder Lite,Home & Kitchen,W for Woman,23457.23,1,1,17,Normal,71.2
+PROD01286,Dal Max,Grocery & Food,Unbranded,10113.6,1,1,229,Slow Mover,30.7
+PROD01291,Salwar Suit Plus,Clothing,Marico,122821.16,8,2,203,Normal,372.9
+PROD01294,Salwar Suit Standard,Clothing,Amul,159174.12,8,2,92,Normal,483.3
+PROD01305,Remote Car Max,Toys & Baby,W for Woman,20571.91,1,1,267,Normal,62.5
+PROD01308,Sunscreen Pro,Beauty & Personal,Peter England,15052.52,4,1,77,Slow Mover,45.7
+PROD01310,Power Bank Max,Electronics,Tata,16462.91,1,1,319,Slow Mover,50.0
+PROD01318,Smartphone Standard,Electronics,Havells,93400.7,5,2,323,Normal,283.6
+PROD01320,Basmati Rice Plus,Grocery & Food,Godrej,13641.72,3,1,427,Slow Mover,41.4
+PROD01331,Cushion Cover Elite,Home & Kitchen,Bata,8347.96,2,1,60,Slow Mover,25.3
+PROD01332,Badminton Racket Elite,Sports & Fitness,Whirlpool,19763.36,2,1,411,Normal,60.0
+PROD01333,Kurta Elite,Clothing,Samsung India,24454.7,2,1,302,Normal,74.2
+PROD01334,Face Cream Plus,Beauty & Personal,Samsung India,56364.3,7,2,199,Normal,171.1
+PROD01337,Novel Standard,Books,Patanjali,11497.88,4,1,468,Slow Mover,34.9
+PROD01341,Webcam Max,Electronics,Marico,16496.32,2,1,257,Normal,50.1
+PROD01347,Dupatta Plus,Clothing,OnePlus,58707.36,4,1,414,Normal,178.2
+PROD01352,Tiffin Box Lite,Home & Kitchen,Tata,39559.04,4,1,232,Normal,120.1
+PROD01353,Lego Set Standard,Toys & Baby,Noise,5440.48,1,1,265,Slow Mover,16.5
+PROD01357,Drawing Kit Pro,Toys & Baby,Patanjali,47216.38,4,1,143,Normal,143.4
+PROD01358,Cricket Bat Standard,Sports & Fitness,Amul,18057.98,4,2,41,Normal,54.8
+PROD01361,Cricket Bat Elite,Sports & Fitness,Unbranded,6348.8,1,1,338,Slow Mover,19.3
+PROD01365,Gym Gloves Plus,Sports & Fitness,OnePlus,9018.81,3,1,50,Slow Mover,27.4
+PROD01366,Water Bottle Max,Home & Kitchen,W for Woman,12279.45,3,1,284,Slow Mover,37.3
+PROD01370,Dumbbell Lite,Sports & Fitness,FabIndia,7955.88,4,1,214,Slow Mover,24.2
+PROD01377,Shirt Elite,Clothing,Whirlpool,9621.74,1,1,208,Slow Mover,29.2
+PROD01379,Smart Watch Pro,Electronics,Marico,29107.37,2,1,427,Normal,88.4
+PROD01392,Remote Car Pro,Toys & Baby,Bajaj,52876.55,3,1,53,Normal,160.5
+PROD01397,Tablet Lite,Electronics,Bajaj,23407.88,3,1,280,Normal,71.1
+PROD01399,Jeans Max,Clothing,Marico,14044.64,2,1,443,Slow Mover,42.6
+PROD01402,Action Figure Standard,Toys & Baby,Tata,8706.04,4,1,282,Slow Mover,26.4
+PROD01403,NCERT Guide Lite,Books,FabIndia,21427.61,4,2,475,Normal,65.1
+PROD01404,Water Bottle Standard,Home & Kitchen,Bata,96438.20999999999,5,2,469,Normal,292.8
+PROD01406,Mixer Grinder Standard,Home & Kitchen,Godrej,53979.520000000004,5,2,395,Normal,163.9
+PROD01410,Lego Set Elite,Toys & Baby,Havells,23007.89,1,1,196,Normal,69.9
+PROD01413,T-Shirt Elite,Clothing,Noise,20966.33,1,1,291,Normal,63.7
+PROD01418,Board Game Max,Toys & Baby,Boat,16880.74,1,1,348,Normal,51.3
+PROD01435,Shampoo Max,Beauty & Personal,OnePlus,8707.28,4,1,406,Slow Mover,26.4
+PROD01439,Badminton Racket Max,Sports & Fitness,Peter England,7169.42,1,1,109,Slow Mover,21.8
+PROD01442,Webcam Elite,Electronics,Marico,708.79,6,2,26,Slow Mover,2.2
+PROD01443,Dumbbell Max,Sports & Fitness,Amul,9701.7,3,1,142,Slow Mover,29.5
+PROD01446,Smart Watch Lite,Electronics,Godrej,57679.28,3,1,346,Normal,175.1
+PROD01458,Bedsheet Plus,Home & Kitchen,Havells,43346.07,4,1,457,Normal,131.6
+PROD01465,Skipping Rope Elite,Sports & Fitness,Dabur,13285.42,1,1,0,Slow Mover,40.3
+PROD01472,Speaker Max,Electronics,Whirlpool,2183.96,1,1,399,Slow Mover,6.6
+PROD01473,Self Help Book Elite,Books,Unbranded,3835.18,1,1,105,Slow Mover,11.6
+PROD01474,Green Tea Pro,Grocery & Food,Bata,87800.73,4,1,418,Normal,266.6
+PROD01478,Speaker Lite,Electronics,Peter England,5646.93,3,1,320,Slow Mover,17.1
+PROD01487,Webcam Lite,Electronics,Godrej,103797.0,6,2,498,Normal,315.1
+PROD01499,Tracksuit Elite,Clothing,Patanjali,136764.56,6,2,321,Normal,415.2
+PROD01501,Honey Max,Grocery & Food,Bata,66059.27,3,1,76,Normal,200.6
+PROD01502,T-Shirt Standard,Clothing,Patanjali,54446.45,3,1,151,Normal,165.3
+PROD01511,Charger Elite,Electronics,Amul,20785.36,1,1,35,Normal,63.1
+PROD01516,Dry Fruits Plus,Grocery & Food,FabIndia,25240.6,2,1,457,Normal,76.6
+PROD01532,Kajal Elite,Beauty & Personal,Whirlpool,44685.91,2,1,33,Normal,135.7
+PROD01533,Earbuds Lite,Electronics,OnePlus,53647.7,3,1,381,Normal,162.9
+PROD01536,Dupatta Max,Clothing,Dabur,19526.22,1,1,257,Normal,59.3
+PROD01549,Stuffed Animal Plus,Toys & Baby,Bata,27385.120000000003,5,2,48,Normal,83.1
+PROD01551,Shampoo Pro,Beauty & Personal,Reliance,15647.78,2,1,267,Slow Mover,47.5
+PROD01554,Jeans Elite,Clothing,Havells,87335.58,4,1,250,Normal,265.2
+PROD01582,Jacket Pro,Clothing,Amul,36427.84,4,1,289,Normal,110.6
+PROD01585,Earbuds Plus,Electronics,Bata,73014.33,3,1,361,Normal,221.7
+PROD01594,Remote Car Elite,Toys & Baby,Dabur,14569.02,3,1,322,Slow Mover,44.2
+PROD01605,Smart Watch Pro,Electronics,Tata,14030.49,1,1,441,Slow Mover,42.6
+PROD01615,Tablet Pro,Electronics,Boat,11471.5,1,1,80,Slow Mover,34.8
+PROD01617,Kurta Plus,Clothing,Noise,31865.92,2,1,492,Normal,96.7
+PROD01623,Stuffed Animal Lite,Toys & Baby,W for Woman,18747.72,4,1,305,Normal,56.9
+PROD01625,Dupatta Lite,Clothing,Dabur,45357.96,4,1,447,Normal,137.7
+PROD01627,Tracksuit Max,Clothing,Peter England,54890.14,4,1,94,Normal,166.6
+PROD01631,Lipstick Lite,Beauty & Personal,Unbranded,23053.65,3,1,454,Normal,70.0
+PROD01641,Power Bank Plus,Electronics,Tata,973.36,4,1,217,Slow Mover,3.0
+PROD01649,Laptop Max,Electronics,Dabur,46543.96,2,1,385,Normal,141.3
+PROD01650,Jacket Plus,Clothing,Patanjali,44658.96,4,1,216,Normal,135.6
+PROD01660,Organic Ghee Max,Grocery & Food,Unbranded,49985.7,3,1,154,Normal,151.8
+PROD01661,NCERT Guide Elite,Books,Dabur,28627.88,4,1,321,Normal,86.9
+PROD01671,Speaker Max,Electronics,Patanjali,21013.86,1,1,96,Normal,63.8
+PROD01675,Atta Lite,Grocery & Food,FabIndia,35718.26,2,1,167,Normal,108.4
+PROD01678,Tracksuit Plus,Clothing,Amul,52031.64,4,1,246,Normal,158.0
+PROD01681,Webcam Lite,Electronics,Havells,61311.92,4,1,259,Normal,186.1
+PROD01689,Kurta Lite,Clothing,Tata,48694.56,3,1,383,Normal,147.8
+PROD01692,Face Cream Pro,Beauty & Personal,Godrej,55389.24,3,1,39,Normal,168.2
+PROD01702,Shirt Standard,Clothing,W for Woman,8163.21,3,1,360,Slow Mover,24.8
+PROD01716,Green Tea Elite,Grocery & Food,W for Woman,15637.96,2,1,69,Slow Mover,47.5
+PROD01720,T-Shirt Standard,Clothing,Noise,2890.22,1,1,339,Slow Mover,8.8
+PROD01721,Tiffin Box Lite,Home & Kitchen,Samsung India,30650.16,3,1,0,Normal,93.1
+PROD01728,Honey Pro,Grocery & Food,Samsung India,77383.12,4,1,190,Normal,234.9
+PROD01747,Atta Standard,Grocery & Food,Godrej,44182.32,3,1,329,Normal,134.1
+PROD01756,Kurta Plus,Clothing,Samsung India,6908.24,4,1,142,Slow Mover,21.0
+PROD01758,Smart TV Lite,Electronics,OnePlus,80443.37,4,1,234,Normal,244.2
+PROD01779,Cookbook Elite,Books,Wildcraft,24459.7,2,1,488,Normal,74.3
+PROD01786,Charger Lite,Electronics,Bata,6477.7,1,1,195,Slow Mover,19.7
+PROD01800,Comic Max,Books,Tata,14736.64,1,1,203,Slow Mover,44.7
+PROD01807,Water Bottle Pro,Home & Kitchen,Tata,4785.76,1,1,196,Slow Mover,14.5
+PROD01826,Baby Rattle Elite,Toys & Baby,Boat,12636.84,2,1,195,Slow Mover,38.4
+PROD01827,Earbuds Lite,Electronics,Wildcraft,42343.76,4,1,195,Normal,128.6
+PROD01829,Skipping Rope Plus,Sports & Fitness,Marico,24925.5,1,1,15,Normal,75.7
+PROD01835,Salwar Suit Lite,Clothing,Godrej,7426.31,5,2,259,Slow Mover,22.5
+PROD01841,Shirt Elite,Clothing,Patanjali,78834.3,4,1,476,Normal,239.3
+PROD01846,Honey Lite,Grocery & Food,OnePlus,30324.73,4,1,122,Normal,92.1
+PROD01855,Tracksuit Standard,Clothing,Marico,18417.39,2,1,101,Normal,55.9
+PROD01866,Smart TV Lite,Electronics,Amul,71802.7,4,1,301,Normal,218.0
+PROD01872,Skipping Rope Elite,Sports & Fitness,Patanjali,16067.33,1,1,227,Slow Mover,48.8
+PROD01874,Face Wash Lite,Beauty & Personal,Noise,16961.73,3,1,276,Normal,51.5
+PROD01875,Curtain Max,Home & Kitchen,Tata,35512.9,3,1,19,Normal,107.8
+PROD01876,Cushion Cover Standard,Home & Kitchen,Bata,60792.16,4,1,317,Normal,184.6
+PROD01877,Face Cream Elite,Beauty & Personal,Dabur,31003.55,2,1,313,Normal,94.1
+PROD01881,Face Cream Plus,Beauty & Personal,Bajaj,21891.78,2,1,266,Normal,66.5
+PROD01887,Protein Bar Standard,Grocery & Food,Havells,77832.49,4,1,46,Normal,236.3
+PROD01888,Dal Standard,Grocery & Food,W for Woman,18531.37,2,1,409,Normal,56.3
+PROD01892,Power Bank Max,Electronics,Unbranded,17470.36,3,1,157,Normal,53.0
+PROD01895,Jacket Lite,Clothing,W for Woman,13626.84,3,1,20,Slow Mover,41.4
+PROD01897,Shirt Pro,Clothing,Peter England,4022.56,1,1,244,Slow Mover,12.2
+PROD01902,Non-stick Pan Lite,Home & Kitchen,Tata,55569.92,3,1,227,Normal,168.7
+PROD01909,Cycling Helmet Plus,Sports & Fitness,Unbranded,56118.63,3,1,0,Normal,170.4
+PROD01912,Speaker Plus,Electronics,W for Woman,36801.96,2,1,105,Normal,111.7
+PROD01924,Self Help Book Lite,Books,Samsung India,9841.89,3,1,165,Slow Mover,29.9
+PROD01935,Body Lotion Elite,Beauty & Personal,Tata,30342.68,3,1,140,Normal,92.1
+PROD01950,Charger Max,Electronics,Dabur,75108.36,4,1,246,Normal,228.0
+PROD01956,Cookbook Standard,Books,Patanjali,8172.38,1,1,176,Slow Mover,24.8
+PROD01969,Comic Plus,Books,FabIndia,51575.060000000005,5,2,42,Normal,156.6
+PROD01970,Cookbook Lite,Books,FabIndia,4989.3,3,1,307,Slow Mover,15.1
+PROD01975,Board Game Lite,Toys & Baby,Noise,89734.52,4,1,82,Normal,272.4
+PROD01976,Board Game Standard,Toys & Baby,Unbranded,7003.08,4,1,144,Slow Mover,21.3
+PROD01988,Tablet Pro,Electronics,Boat,40313.16,4,1,36,Normal,122.4
+PROD02002,Drawing Kit Plus,Toys & Baby,Dabur,61502.32,4,1,49,Normal,186.7
+PROD02004,Skipping Rope Elite,Sports & Fitness,W for Woman,661.31,3,1,460,Slow Mover,2.0
+PROD02008,Comic Lite,Books,Patanjali,8666.46,2,1,46,Slow Mover,26.3
+PROD02016,Jeans Max,Clothing,Unbranded,27450.97,4,1,71,Normal,83.3
+PROD02025,Tablet Plus,Electronics,Patanjali,60766.77,4,1,245,Normal,184.5
+PROD02036,Children Book Pro,Books,Dabur,9102.32,1,1,19,Slow Mover,27.6
+PROD02047,Tiffin Box Lite,Home & Kitchen,Reliance,3827.9399999999996,7,2,390,Slow Mover,11.6
+PROD02048,Smart TV Lite,Electronics,Boat,14374.96,2,1,432,Slow Mover,43.6
+PROD02053,Bedsheet Elite,Home & Kitchen,OnePlus,42261.84,3,1,298,Normal,128.3
+PROD02055,Comic Pro,Books,Peter England,40099.17,3,1,343,Normal,121.7
+PROD02060,Hair Oil Max,Beauty & Personal,Boat,24082.52,4,1,394,Normal,73.1
+PROD02066,Yoga Mat Pro,Sports & Fitness,Amul,13963.82,1,1,362,Slow Mover,42.4
+PROD02071,Cushion Cover Pro,Home & Kitchen,Whirlpool,20585.47,1,1,445,Normal,62.5
+PROD02083,Remote Car Max,Toys & Baby,Dabur,42672.15,3,1,301,Normal,129.6
+PROD02097,Lipstick Pro,Beauty & Personal,Amul,131627.56,6,2,147,Normal,399.6
+PROD02101,Water Bottle Plus,Home & Kitchen,Peter England,37898.7,2,1,73,Normal,115.1
+PROD02103,Dumbbell Standard,Sports & Fitness,Noise,1787.78,2,1,76,Slow Mover,5.4
+PROD02113,Baby Rattle Max,Toys & Baby,Godrej,5428.95,3,1,50,Slow Mover,16.5
+PROD02127,Pressure Cooker Standard,Home & Kitchen,Wildcraft,3314.74,1,1,348,Slow Mover,10.1
+PROD02129,Curtain Elite,Home & Kitchen,Whirlpool,5782.82,1,1,18,Slow Mover,17.6
+PROD02134,Tiffin Box Elite,Home & Kitchen,Wildcraft,12236.55,1,1,437,Slow Mover,37.2
+PROD02139,Smartphone Plus,Electronics,Marico,9465.82,1,1,227,Slow Mover,28.7
+PROD02143,Smartphone Standard,Electronics,OnePlus,28760.24,4,1,272,Normal,87.3
+PROD02150,Gym Gloves Lite,Sports & Fitness,Whirlpool,4102.97,1,1,377,Slow Mover,12.5
+PROD02154,Cushion Cover Plus,Home & Kitchen,Marico,72945.15,4,1,385,Normal,221.5
+PROD02162,Lipstick Standard,Beauty & Personal,Peter England,96793.66,4,1,397,Normal,293.9
+PROD02166,Laptop Standard,Electronics,Noise,54237.39,3,1,78,Normal,164.7
+PROD02171,Compact Lite,Beauty & Personal,Whirlpool,5893.45,1,1,333,Slow Mover,17.9
+PROD02173,Stuffed Animal Standard,Toys & Baby,Samsung India,57117.04,4,1,249,Normal,173.4
+PROD02174,Jacket Plus,Clothing,Havells,20589.42,3,1,444,Normal,62.5
+PROD02175,Atta Pro,Grocery & Food,Bajaj,5611.08,1,1,495,Slow Mover,17.0
+PROD02179,Compact Elite,Beauty & Personal,Whirlpool,10345.58,1,1,324,Slow Mover,31.4
+PROD02189,Dupatta Pro,Clothing,Wildcraft,51832.59,5,2,329,Normal,157.4
+PROD02193,Atlas Plus,Books,Boat,81998.36,4,2,321,Normal,249.0
+PROD02201,Dupatta Lite,Clothing,Boat,31937.95,2,1,51,Normal,97.0
+PROD02206,Green Tea Plus,Grocery & Food,Havells,24922.73,1,1,45,Normal,75.7
+PROD02208,Atta Elite,Grocery & Food,Dabur,8445.39,1,1,429,Slow Mover,25.6
+PROD02213,Pressure Cooker Standard,Home & Kitchen,Unbranded,42270.85,3,1,255,Normal,128.3
+PROD02223,Smart Watch Max,Electronics,Tata,31966.6,4,1,487,Normal,97.1
+PROD02229,Lehenga Plus,Clothing,Bata,11270.72,2,1,219,Slow Mover,34.2
+PROD02237,Sports Shoes Pro,Sports & Fitness,Patanjali,77367.6,4,1,410,Normal,234.9
+PROD02241,Atta Pro,Grocery & Food,Noise,82764.64,4,1,239,Normal,251.3
+PROD02245,Self Help Book Standard,Books,Bata,29101.04,5,2,330,Normal,88.4
+PROD02251,Badminton Racket Pro,Sports & Fitness,Amul,17626.68,1,1,74,Normal,53.5
+PROD02259,Laptop Max,Electronics,Bajaj,10653.33,1,1,245,Slow Mover,32.3
+PROD02269,NCERT Guide Pro,Books,Peter England,47084.979999999996,6,2,5,Normal,143.0
+PROD02270,Drawing Kit Lite,Toys & Baby,Tata,11599.55,4,1,430,Slow Mover,35.2
+PROD02272,Non-stick Pan Lite,Home & Kitchen,FabIndia,7482.46,1,1,3,Slow Mover,22.7
+PROD02285,Cricket Bat Max,Sports & Fitness,OnePlus,74535.85,3,1,31,Normal,226.3
+PROD02287,Body Lotion Pro,Beauty & Personal,Reliance,4560.06,3,1,161,Slow Mover,13.8
+PROD02293,Lehenga Pro,Clothing,Dabur,26527.9,3,1,411,Normal,80.5
+PROD02298,NCERT Guide Pro,Books,Godrej,181.63,1,1,442,Slow Mover,0.6
+PROD02315,Tablet Plus,Electronics,Noise,68833.64,4,1,411,Normal,209.0
+PROD02326,Self Help Book Lite,Books,Boat,19827.73,1,1,425,Normal,60.2
+PROD02333,Lehenga Pro,Clothing,Havells,18200.58,1,1,221,Normal,55.3
+PROD02341,Saree Lite,Clothing,Boat,23361.13,1,1,45,Normal,70.9
+PROD02355,Water Bottle Standard,Home & Kitchen,Dabur,6804.6,2,1,324,Slow Mover,20.7
+PROD02372,Sports Shoes Lite,Sports & Fitness,FabIndia,4868.15,1,1,237,Slow Mover,14.8
+PROD02382,Gym Gloves Lite,Sports & Fitness,W for Woman,20664.62,2,1,228,Normal,62.7
+PROD02391,Lipstick Pro,Beauty & Personal,W for Woman,6250.32,2,1,94,Slow Mover,19.0
+PROD02394,Non-stick Pan Pro,Home & Kitchen,Tata,2990.99,1,1,208,Slow Mover,9.1
+PROD02403,Lipstick Lite,Beauty & Personal,OnePlus,3905.78,1,1,186,Slow Mover,11.9
+PROD02407,Skipping Rope Plus,Sports & Fitness,Amul,59676.22,4,1,206,Normal,181.2
+PROD02413,Puzzle Pro,Toys & Baby,Godrej,28316.79,3,1,37,Normal,86.0
+PROD02416,Puzzle Pro,Toys & Baby,Marico,18900.34,2,1,402,Normal,57.4
+PROD02424,Face Cream Lite,Beauty & Personal,Unbranded,57068.16,4,1,151,Normal,173.3
+PROD02440,Kurta Plus,Clothing,Bata,6231.47,1,1,0,Slow Mover,18.9
+PROD02448,Basmati Rice Elite,Grocery & Food,OnePlus,66611.34,3,1,104,Normal,202.2
+PROD02455,Body Lotion Standard,Beauty & Personal,Samsung India,15283.27,2,1,297,Slow Mover,46.4
+PROD02467,Webcam Elite,Electronics,Boat,22964.28,3,1,384,Normal,69.7
+PROD02471,T-Shirt Max,Clothing,Havells,35392.14,4,1,93,Normal,107.5
+PROD02474,Cricket Bat Max,Sports & Fitness,Reliance,26991.91,2,1,478,Normal,81.9
+PROD02483,Baby Rattle Pro,Toys & Baby,Unbranded,16613.11,4,1,490,Normal,50.4
+PROD02484,Skipping Rope Max,Sports & Fitness,Havells,13621.38,2,1,15,Slow Mover,41.4
+PROD02503,Dry Fruits Elite,Grocery & Food,Tata,4233.77,1,1,261,Slow Mover,12.9
+PROD02522,Basmati Rice Pro,Grocery & Food,OnePlus,4576.4,4,1,308,Slow Mover,13.9
+PROD02523,Board Game Standard,Toys & Baby,Tata,6234.42,3,1,261,Slow Mover,18.9
+PROD02526,Water Bottle Standard,Home & Kitchen,Samsung India,64058.76,4,1,165,Normal,194.5
+PROD02533,Body Lotion Plus,Beauty & Personal,Patanjali,21840.58,2,1,482,Normal,66.3
+PROD02544,Dumbbell Elite,Sports & Fitness,Whirlpool,7587.56,1,1,95,Slow Mover,23.0
+PROD02546,Honey Elite,Grocery & Food,Unbranded,2885.82,6,2,444,Slow Mover,8.8
+PROD02556,Cookbook Standard,Books,Havells,15150.27,1,1,143,Slow Mover,46.0
+PROD02558,Drawing Kit Pro,Toys & Baby,Tata,32762.01,4,1,129,Normal,99.5
+PROD02563,Body Lotion Max,Beauty & Personal,Unbranded,43594.21,3,1,171,Normal,132.4
+PROD02581,Self Help Book Plus,Books,Bata,20312.96,1,1,63,Normal,61.7
+PROD02588,Board Game Pro,Toys & Baby,Wildcraft,10894.6,1,1,268,Slow Mover,33.1
+PROD02612,Remote Car Elite,Toys & Baby,Patanjali,21800.7,2,1,348,Normal,66.2
+PROD02625,Lehenga Lite,Clothing,Tata,27616.14,2,1,491,Normal,83.8
+PROD02627,Dumbbell Plus,Sports & Fitness,Wildcraft,187.79,1,1,71,Slow Mover,0.6
+PROD02628,Cushion Cover Lite,Home & Kitchen,Amul,28569.05,2,1,94,Normal,86.7
+PROD02657,Sunscreen Lite,Beauty & Personal,W for Woman,17174.08,4,1,10,Normal,52.1
+PROD02664,Smartphone Standard,Electronics,Reliance,10149.81,1,1,232,Slow Mover,30.8
+PROD02683,Shirt Plus,Clothing,W for Woman,256675.0,4,1,317,Normal,779.3
+PROD02689,Sports Shoes Elite,Sports & Fitness,Peter England,73036.72,4,1,328,Normal,221.7
+PROD02693,Compact Lite,Beauty & Personal,Dabur,14246.41,3,2,375,Slow Mover,43.3
+PROD02701,Spice Set Pro,Grocery & Food,Boat,5881.88,3,1,4,Slow Mover,17.9
+PROD02706,Non-stick Pan Standard,Home & Kitchen,Reliance,54813.36,4,1,217,Normal,166.4
+PROD02719,Smart Watch Pro,Electronics,Havells,23430.79,4,1,327,Normal,71.1
+PROD02720,Curtain Lite,Home & Kitchen,Havells,22902.27,3,1,408,Normal,69.5
+PROD02723,Laptop Standard,Electronics,FabIndia,4725.84,4,1,0,Slow Mover,14.3
+PROD02724,Sunscreen Pro,Beauty & Personal,Wildcraft,12618.69,1,1,283,Slow Mover,38.3
+PROD02729,Comic Max,Books,OnePlus,4268.86,1,1,310,Slow Mover,13.0
+PROD02730,Lego Set Pro,Toys & Baby,FabIndia,29377.94,2,1,462,Normal,89.2
+PROD02738,Salwar Suit Max,Clothing,Whirlpool,92638.52,4,1,126,Normal,281.3
+PROD02745,Tablet Standard,Electronics,Tata,12189.42,3,1,341,Slow Mover,37.0
+PROD02750,NCERT Guide Max,Books,Peter England,15301.75,2,1,37,Slow Mover,46.5
+PROD02751,Cushion Cover Elite,Home & Kitchen,OnePlus,23656.68,1,1,185,Normal,71.8
+PROD02752,Skipping Rope Plus,Sports & Fitness,Boat,55387.71,3,1,332,Normal,168.2
+PROD02755,Cricket Bat Pro,Sports & Fitness,Marico,45731.76,4,1,208,Normal,138.8
+PROD02770,Novel Max,Books,Bata,47362.84,4,1,8,Normal,143.8
+PROD02772,Mixer Grinder Elite,Home & Kitchen,Bajaj,7430.5,1,1,36,Slow Mover,22.6
+PROD02786,Tablet Max,Electronics,Reliance,24044.77,4,1,330,Normal,73.0
+PROD02800,Lipstick Pro,Beauty & Personal,Unbranded,56277.41,3,1,18,Normal,170.9
+PROD02803,Self Help Book Plus,Books,Bata,14399.52,1,1,61,Slow Mover,43.7
+PROD02804,Sunscreen Standard,Beauty & Personal,Samsung India,7281.37,3,1,190,Slow Mover,22.1
+PROD02812,Stuffed Animal Max,Toys & Baby,Marico,64922.23,3,1,14,Normal,197.1
+PROD02816,Organic Ghee Plus,Grocery & Food,Bajaj,142771.44,8,2,486,Normal,433.5
+PROD02823,Board Game Standard,Toys & Baby,Unbranded,6531.3,3,1,327,Slow Mover,19.8
+PROD02834,Dumbbell Elite,Sports & Fitness,Godrej,32947.65,3,1,78,Normal,100.0
+PROD02836,Tablet Pro,Electronics,Noise,44603.24,4,1,284,Normal,135.4
+PROD02845,Hair Oil Standard,Beauty & Personal,Boat,4929.44,1,1,22,Slow Mover,15.0
+PROD02863,Organic Ghee Lite,Grocery & Food,Havells,41795.87,2,1,432,Normal,126.9
+PROD02870,Face Cream Max,Beauty & Personal,Bajaj,24875.8,2,1,475,Normal,75.5
+PROD02881,Novel Max,Books,Dabur,43378.2,3,1,399,Normal,131.7
+PROD02886,Jeans Standard,Clothing,Unbranded,12219.43,2,1,251,Slow Mover,37.1
+PROD02887,Children Book Max,Books,Peter England,80230.92,4,1,349,Normal,243.6
+PROD02890,Sunscreen Max,Beauty & Personal,Bajaj,167578.84000000003,8,2,246,Normal,508.8
+PROD02899,Atta Plus,Grocery & Food,Bata,80842.32,4,1,218,Normal,245.4
+PROD02902,Serum Plus,Beauty & Personal,Dabur,84193.47,4,1,456,Normal,255.6
+PROD02905,Charger Plus,Electronics,Samsung India,32034.66,4,1,380,Normal,97.3
+PROD02908,Skipping Rope Standard,Sports & Fitness,Tata,40839.62,2,1,371,Normal,124.0
+PROD02909,Stuffed Animal Lite,Toys & Baby,Godrej,20635.84,1,1,488,Normal,62.7
+PROD02916,Smartphone Standard,Electronics,Tata,10349.43,1,1,103,Slow Mover,31.4
+PROD02922,Skipping Rope Plus,Sports & Fitness,OnePlus,43201.69,3,1,211,Normal,131.2
+PROD02930,Laptop Pro,Electronics,Havells,34117.88,4,1,67,Normal,103.6
+PROD02942,Shampoo Max,Beauty & Personal,Tata,3015.03,3,1,477,Slow Mover,9.2
+PROD02944,Jacket Elite,Clothing,Unbranded,44747.25,3,1,239,Normal,135.9
+PROD02945,Smart TV Plus,Electronics,Wildcraft,40602.09,2,1,118,Normal,123.3
+PROD02952,Remote Car Plus,Toys & Baby,Reliance,76128.56,4,1,168,Normal,231.1
+PROD02960,Water Bottle Elite,Home & Kitchen,Bata,9285.52,1,1,14,Slow Mover,28.2
+PROD02964,Mixer Grinder Plus,Home & Kitchen,Dabur,79006.28,4,1,385,Normal,239.9
+PROD02972,Curtain Elite,Home & Kitchen,OnePlus,40826.08,2,1,356,Normal,124.0
+PROD02977,Speaker Plus,Electronics,Samsung India,3210.57,3,1,334,Slow Mover,9.7
+PROD02982,Smartphone Lite,Electronics,W for Woman,65219.36,4,1,159,Normal,198.0
+PROD02988,Lipstick Max,Beauty & Personal,Bajaj,21916.85,4,1,64,Normal,66.5
+PROD02990,Salwar Suit Lite,Clothing,Reliance,9708.89,3,1,322,Slow Mover,29.5
+PROD02994,Smart TV Pro,Electronics,Amul,20131.16,2,1,4,Normal,61.1
+PROD02999,Shampoo Standard,Beauty & Personal,Peter England,11477.01,2,1,128,Slow Mover,34.8
+PROD03000,Laptop Standard,Electronics,W for Woman,32923.5,3,1,264,Normal,100.0
+PROD03010,Sports Shoes Pro,Sports & Fitness,Wildcraft,36469.2,3,1,318,Normal,110.7
+PROD03013,Kajal Standard,Beauty & Personal,Wildcraft,22592.07,3,1,110,Normal,68.6
+PROD03016,Bedsheet Plus,Home & Kitchen,FabIndia,22003.95,3,1,373,Normal,66.8
+PROD03018,Sunscreen Pro,Beauty & Personal,Peter England,347.09,1,1,263,Slow Mover,1.1
+PROD03020,Face Cream Lite,Beauty & Personal,Dabur,1231.88,2,1,490,Slow Mover,3.7
+PROD03021,Webcam Standard,Electronics,FabIndia,36484.76,2,1,405,Normal,110.8
+PROD03037,Remote Car Standard,Toys & Baby,Amul,63080.6,4,1,56,Normal,191.5
+PROD03057,Speaker Elite,Electronics,Boat,1519.97,1,1,363,Slow Mover,4.6
+PROD03061,Dry Fruits Elite,Grocery & Food,Bata,16775.01,2,1,73,Normal,50.9
+PROD03063,Baby Rattle Standard,Toys & Baby,Havells,1245.91,1,1,447,Slow Mover,3.8
+PROD03066,Earbuds Lite,Electronics,Dabur,7372.51,1,1,384,Slow Mover,22.4
+PROD03072,Spice Set Standard,Grocery & Food,Samsung India,19883.24,1,1,36,Normal,60.4
+PROD03080,Spice Set Standard,Grocery & Food,Whirlpool,11075.12,2,1,136,Slow Mover,33.6
+PROD03094,Cushion Cover Lite,Home & Kitchen,Marico,86887.56,4,1,270,Normal,263.8
+PROD03096,Yoga Mat Max,Sports & Fitness,Godrej,52665.83,3,1,89,Normal,159.9
+PROD03099,Pressure Cooker Plus,Home & Kitchen,Godrej,27530.64,3,1,363,Normal,83.6
+PROD03110,Curtain Standard,Home & Kitchen,FabIndia,13890.72,1,1,67,Slow Mover,42.2
+PROD03141,Mixer Grinder Pro,Home & Kitchen,Havells,58261.19,5,2,432,Normal,176.9
+PROD03142,Smartphone Lite,Electronics,Noise,1026.63,3,1,21,Slow Mover,3.1
+PROD03148,Kurta Pro,Clothing,Amul,40045.28,4,1,309,Normal,121.6
+PROD03157,Competitive Exam Book Max,Books,Marico,12405.84,2,1,354,Slow Mover,37.7
+PROD03159,Water Bottle Elite,Home & Kitchen,Wildcraft,21846.86,3,1,228,Normal,66.3
+PROD03165,Laptop Max,Electronics,Patanjali,59093.9,4,1,175,Normal,179.4
+PROD03176,Badminton Racket Elite,Sports & Fitness,OnePlus,58013.49,3,1,442,Normal,176.1
+PROD03178,Water Bottle Lite,Home & Kitchen,Marico,18063.93,1,1,387,Normal,54.8
+PROD03208,Hair Oil Max,Beauty & Personal,FabIndia,11872.01,3,1,9,Slow Mover,36.0
+PROD03211,Comic Lite,Books,Unbranded,5187.15,3,1,136,Slow Mover,15.7
+PROD03212,Smart Watch Pro,Electronics,FabIndia,5170.01,1,1,167,Slow Mover,15.7
+PROD03217,Sports Shoes Lite,Sports & Fitness,Reliance,59883.44,4,1,382,Normal,181.8
+PROD03228,Yoga Mat Max,Sports & Fitness,Boat,10428.32,2,1,482,Slow Mover,31.7
+PROD03242,Earbuds Plus,Electronics,Amul,20907.64,2,1,67,Normal,63.5
+PROD03257,Shirt Standard,Clothing,Whirlpool,1489.19,1,1,211,Slow Mover,4.5
+PROD03263,Lego Set Pro,Toys & Baby,Patanjali,19997.54,1,1,449,Normal,60.7
+PROD03271,Webcam Plus,Electronics,Tata,23396.14,2,1,198,Normal,71.0
+PROD03273,Pressure Cooker Plus,Home & Kitchen,Tata,14149.59,4,2,175,Slow Mover,43.0
+PROD03275,Smart Watch Standard,Electronics,OnePlus,13441.25,6,2,387,Slow Mover,40.8
+PROD03278,Power Bank Pro,Electronics,Bajaj,15494.85,1,1,112,Slow Mover,47.0
+PROD03279,Sunscreen Max,Beauty & Personal,Unbranded,14367.19,1,1,73,Slow Mover,43.6
+PROD03305,Stuffed Animal Plus,Toys & Baby,Reliance,11146.52,2,1,389,Slow Mover,33.8
+PROD03323,Face Cream Standard,Beauty & Personal,Bajaj,61276.24,4,1,91,Normal,186.0
+PROD03325,Face Wash Elite,Beauty & Personal,Wildcraft,69354.61,4,1,307,Normal,210.6
+PROD03334,Kajal Pro,Beauty & Personal,Amul,46572.07,2,1,345,Normal,141.4
+PROD03354,Cushion Cover Max,Home & Kitchen,Godrej,67003.77,3,1,218,Normal,203.4
+PROD03369,Puzzle Pro,Toys & Baby,Havells,21921.64,4,1,205,Normal,66.6
+PROD03377,Jeans Elite,Clothing,Peter England,20455.55,2,1,393,Normal,62.1
+PROD03382,Lego Set Standard,Toys & Baby,Reliance,36025.88,2,1,229,Normal,109.4
+PROD03386,Baby Rattle Elite,Toys & Baby,Noise,17914.72,4,1,122,Normal,54.4
+PROD03389,Cookbook Elite,Books,Amul,78746.38,4,1,0,Normal,239.1
+PROD03395,Action Figure Elite,Toys & Baby,Marico,25869.13,4,1,244,Normal,78.5
+PROD03396,Skipping Rope Pro,Sports & Fitness,FabIndia,60546.24,4,1,105,Normal,183.8
+PROD03400,Face Wash Pro,Beauty & Personal,Bajaj,48708.96,3,1,187,Normal,147.9
+PROD03404,Gym Gloves Max,Sports & Fitness,Peter England,11934.32,4,1,199,Slow Mover,36.2
+PROD03411,Yoga Mat Lite,Sports & Fitness,W for Woman,437.06,2,1,411,Slow Mover,1.3
+PROD03421,Gym Gloves Max,Sports & Fitness,Marico,3905.74,1,1,239,Slow Mover,11.9
+PROD03432,Cookbook Max,Books,Samsung India,67809.39,4,1,201,Normal,205.9
+PROD03434,Bedsheet Elite,Home & Kitchen,Marico,12232.27,1,1,451,Slow Mover,37.1
+PROD03448,Dupatta Standard,Clothing,Dabur,36169.899999999994,4,2,439,Normal,109.8
+PROD03453,Badminton Racket Pro,Sports & Fitness,Bajaj,41538.96,2,1,436,Normal,126.1
+PROD03505,Jeans Lite,Clothing,Peter England,44309.84,2,1,38,Normal,134.5
+PROD03506,Bedsheet Elite,Home & Kitchen,FabIndia,18801.77,1,1,144,Normal,57.1
+PROD03510,Salwar Suit Elite,Clothing,Boat,14773.17,1,1,188,Slow Mover,44.9
+PROD03519,Non-stick Pan Elite,Home & Kitchen,OnePlus,12484.37,1,1,83,Slow Mover,37.9
+PROD03520,Self Help Book Plus,Books,Noise,27644.67,2,1,387,Normal,83.9
+PROD03522,Shampoo Pro,Beauty & Personal,Marico,14308.66,1,1,357,Slow Mover,43.4
+PROD03523,Smartphone Pro,Electronics,Reliance,93780.32,6,2,91,Normal,284.7
+PROD03528,Tiffin Box Plus,Home & Kitchen,Bajaj,46781.65,3,1,448,Normal,142.0
+PROD03533,Competitive Exam Book Lite,Books,Tata,19235.84,2,1,222,Normal,58.4
+PROD03534,Jacket Elite,Clothing,Whirlpool,10706.27,1,1,220,Slow Mover,32.5
+PROD03535,Badminton Racket Pro,Sports & Fitness,W for Woman,3102.62,1,1,317,Slow Mover,9.4
+PROD03536,Cycling Helmet Lite,Sports & Fitness,Dabur,5433.32,1,1,199,Slow Mover,16.5
+PROD03540,Yoga Mat Pro,Sports & Fitness,Unbranded,28549.36,2,1,255,Normal,86.7
+PROD03542,Dumbbell Max,Sports & Fitness,Peter England,62776.64,4,1,179,Normal,190.6
+PROD03565,Cookbook Pro,Books,Amul,482.17,1,1,228,Slow Mover,1.5
+PROD03570,Face Wash Pro,Beauty & Personal,Tata,9191.16,2,1,394,Slow Mover,27.9
+PROD03574,Cushion Cover Lite,Home & Kitchen,Patanjali,3717.63,1,1,243,Slow Mover,11.3
+PROD03591,Children Book Pro,Books,Tata,6998.37,3,1,310,Slow Mover,21.2
+PROD03601,Skipping Rope Elite,Sports & Fitness,Havells,23439.2,1,1,430,Normal,71.2
+PROD03603,Mixer Grinder Pro,Home & Kitchen,Amul,20849.92,2,1,342,Normal,63.3
+PROD03604,Tiffin Box Standard,Home & Kitchen,Amul,20096.14,2,1,22,Normal,61.0
+PROD03605,Puzzle Max,Toys & Baby,Whirlpool,15266.56,4,1,1,Slow Mover,46.4
+PROD03611,Speaker Max,Electronics,Reliance,57795.84,3,1,28,Normal,175.5
+PROD03612,Yoga Mat Max,Sports & Fitness,FabIndia,6418.64,1,1,30,Slow Mover,19.5
+PROD03622,Smartphone Lite,Electronics,Peter England,68321.32,4,1,56,Normal,207.4
+PROD03637,Tracksuit Plus,Clothing,Unbranded,13120.89,2,2,141,Slow Mover,39.8
+PROD03642,Non-stick Pan Lite,Home & Kitchen,Havells,6267.14,1,1,26,Slow Mover,19.0
+PROD03644,Kurta Pro,Clothing,Boat,4147.23,3,1,439,Slow Mover,12.6
+PROD03666,Pickle Elite,Grocery & Food,Havells,37236.74,3,1,466,Normal,113.1
+PROD03682,Face Wash Standard,Beauty & Personal,Tata,30130.68,2,1,300,Normal,91.5
+PROD03690,Kurta Standard,Clothing,Bajaj,59958.99,3,1,126,Normal,182.0
+PROD03693,Baby Rattle Elite,Toys & Baby,Whirlpool,41689.8,7,2,460,Normal,126.6
+PROD03700,Lehenga Pro,Clothing,Wildcraft,86231.6,4,1,389,Normal,261.8
+PROD03703,Smart Watch Max,Electronics,W for Woman,74905.39,3,1,144,Normal,227.4
+PROD03718,Body Lotion Lite,Beauty & Personal,Patanjali,8617.4,1,1,187,Slow Mover,26.2
+PROD03726,Stuffed Animal Plus,Toys & Baby,Bata,27089.64,2,2,251,Normal,82.2
+PROD03731,Mixer Grinder Max,Home & Kitchen,Reliance,34409.76,4,1,81,Normal,104.5
+PROD03735,Novel Pro,Books,Samsung India,21350.97,3,1,53,Normal,64.8
+PROD03737,Earbuds Lite,Electronics,Amul,11439.88,1,1,22,Slow Mover,34.7
+PROD03739,NCERT Guide Max,Books,Patanjali,30909.12,3,1,479,Normal,93.8
+PROD03745,Earbuds Max,Electronics,Godrej,31826.4,3,1,168,Normal,96.6
+PROD03749,Tracksuit Standard,Clothing,Tata,15015.15,1,1,88,Slow Mover,45.6
+PROD03753,T-Shirt Standard,Clothing,Godrej,18120.11,1,1,114,Normal,55.0
+PROD03754,Curtain Lite,Home & Kitchen,OnePlus,75506.0,4,1,465,Normal,229.2
+PROD03759,Face Cream Max,Beauty & Personal,OnePlus,73213.41,3,2,223,Normal,222.3
+PROD03761,Honey Elite,Grocery & Food,Reliance,59424.68,4,1,481,Normal,180.4
+PROD03782,Power Bank Lite,Electronics,Whirlpool,18086.42,1,1,148,Normal,54.9
+PROD03785,Mixer Grinder Max,Home & Kitchen,Patanjali,19843.29,1,1,484,Normal,60.2
+PROD03790,Salwar Suit Lite,Clothing,Boat,56648.72,3,1,312,Normal,172.0
+PROD03792,Competitive Exam Book Standard,Books,Tata,35062.72,4,1,349,Normal,106.5
+PROD03803,Atta Max,Grocery & Food,Peter England,33470.23,3,1,40,Normal,101.6
+PROD03804,Cycling Helmet Plus,Sports & Fitness,Unbranded,2036.72,4,1,108,Slow Mover,6.2
+PROD03808,Sports Shoes Lite,Sports & Fitness,Bajaj,12285.93,3,1,114,Slow Mover,37.3
+PROD03820,Tracksuit Plus,Clothing,Tata,3408.87,3,1,432,Slow Mover,10.3
+PROD03849,Comic Lite,Books,Patanjali,10387.16,1,1,186,Slow Mover,31.5
+PROD03851,Novel Max,Books,Bata,10127.34,1,1,486,Slow Mover,30.7
+PROD03857,Smart TV Pro,Electronics,Bata,95704.54000000001,8,3,205,Normal,290.6
+PROD03873,Sunscreen Max,Beauty & Personal,Dabur,108551.05,5,2,434,Normal,329.6
+PROD03875,Non-stick Pan Elite,Home & Kitchen,W for Woman,46204.7,2,1,36,Normal,140.3
+PROD03883,Drawing Kit Max,Toys & Baby,Peter England,52645.78,3,1,419,Normal,159.8
+PROD03892,Skipping Rope Plus,Sports & Fitness,Dabur,45706.44,4,1,103,Normal,138.8
+PROD03905,Dupatta Elite,Clothing,Marico,27421.96,4,1,324,Normal,83.3
+PROD03906,Gym Gloves Plus,Sports & Fitness,Marico,502.58,2,1,297,Slow Mover,1.5
+PROD03907,Body Lotion Plus,Beauty & Personal,Whirlpool,24946.96,4,1,410,Normal,75.7
+PROD03909,Lego Set Standard,Toys & Baby,W for Woman,42904.45,3,1,250,Normal,130.3
+PROD03914,Compact Elite,Beauty & Personal,Noise,17001.04,1,1,290,Normal,51.6
+PROD03943,Face Cream Lite,Beauty & Personal,Bajaj,71492.88,4,1,161,Normal,217.1
+PROD03946,Yoga Mat Lite,Sports & Fitness,Unbranded,43081.88,4,1,237,Normal,130.8
+PROD03962,Stuffed Animal Max,Toys & Baby,FabIndia,94440.28,4,1,136,Normal,286.7
+PROD03974,Cushion Cover Standard,Home & Kitchen,Havells,28712.36,4,1,403,Normal,87.2
+PROD03976,Speaker Elite,Electronics,Wildcraft,59927.91,3,1,233,Normal,181.9
+PROD03982,Speaker Plus,Electronics,Godrej,105871.01999999999,6,2,271,Normal,321.4
+PROD03984,Cricket Bat Max,Sports & Fitness,Samsung India,29953.5,2,1,356,Normal,90.9
+PROD03985,Drawing Kit Plus,Toys & Baby,Bata,101028.46,5,2,364,Normal,306.7
+PROD03986,Board Game Elite,Toys & Baby,Reliance,14438.13,3,1,27,Slow Mover,43.8
+PROD03987,Competitive Exam Book Lite,Books,Samsung India,22250.98,2,1,241,Normal,67.6
+PROD03992,Cricket Bat Elite,Sports & Fitness,Noise,18516.68,4,1,237,Normal,56.2
+PROD03996,Competitive Exam Book Lite,Books,Dabur,10050.75,3,1,226,Slow Mover,30.5
+PROD04011,Mixer Grinder Pro,Home & Kitchen,Bajaj,74229.64,4,1,201,Normal,225.4
+PROD04017,Protein Bar Standard,Grocery & Food,Patanjali,61404.89,3,2,97,Normal,186.4
+PROD04037,Smartphone Standard,Electronics,Samsung India,21187.23,1,1,189,Normal,64.3
+PROD04038,Earbuds Standard,Electronics,Marico,47383.69,3,1,412,Normal,143.9
+PROD04040,Sports Shoes Pro,Sports & Fitness,Bajaj,42683.73,3,1,147,Normal,129.6
+PROD04055,Laptop Standard,Electronics,Noise,18288.16,2,1,448,Normal,55.5
+PROD04056,Water Bottle Lite,Home & Kitchen,Marico,64360.84,4,1,133,Normal,195.4
+PROD04058,Stuffed Animal Pro,Toys & Baby,W for Woman,42326.84,4,1,128,Normal,128.5
+PROD04064,Badminton Racket Lite,Sports & Fitness,Whirlpool,9148.96,2,1,298,Slow Mover,27.8
+PROD04069,Drawing Kit Elite,Toys & Baby,Whirlpool,82792.12,4,1,267,Normal,251.4
+PROD04071,Competitive Exam Book Max,Books,W for Woman,6138.42,2,1,483,Slow Mover,18.6
+PROD04079,Mixer Grinder Plus,Home & Kitchen,Havells,51209.9,4,1,430,Normal,155.5
+PROD04087,Body Lotion Standard,Beauty & Personal,W for Woman,63637.48,4,1,312,Normal,193.2
+PROD04097,Sports Shoes Standard,Sports & Fitness,Bata,52549.26,3,1,183,Normal,159.5
+PROD04103,Smart TV Pro,Electronics,Wildcraft,72290.71,3,1,47,Normal,219.5
+PROD04108,Jeans Standard,Clothing,Havells,43558.68,3,1,438,Normal,132.2
+PROD04110,Tiffin Box Plus,Home & Kitchen,Godrej,21023.79,1,1,70,Normal,63.8
+PROD04112,Charger Standard,Electronics,Havells,97957.62999999999,5,2,452,Normal,297.4
+PROD04113,Tracksuit Lite,Clothing,Bajaj,30471.36,2,1,159,Normal,92.5
+PROD04114,Lipstick Standard,Beauty & Personal,Amul,11745.68,1,1,28,Slow Mover,35.7
+PROD04115,Face Wash Elite,Beauty & Personal,OnePlus,14209.15,1,1,189,Slow Mover,43.1
+PROD04130,Green Tea Standard,Grocery & Food,OnePlus,55079.6,3,1,39,Normal,167.2
+PROD04149,Webcam Lite,Electronics,Patanjali,42023.78,2,1,143,Normal,127.6
+PROD04156,Charger Elite,Electronics,Bata,42749.13,3,1,129,Normal,129.8
+PROD04159,Board Game Plus,Toys & Baby,Boat,16854.51,4,1,325,Normal,51.2
+PROD04165,Cookbook Lite,Books,Boat,17473.9,1,1,0,Normal,53.1
+PROD04169,Atlas Elite,Books,Wildcraft,115277.43,9,3,217,Normal,350.0
+PROD04170,Sports Shoes Pro,Sports & Fitness,Samsung India,48526.65,3,1,0,Normal,147.3
+PROD04178,Atta Lite,Grocery & Food,Noise,8740.32,3,1,8,Slow Mover,26.5
+PROD04184,Lipstick Max,Beauty & Personal,Marico,13934.88,1,1,406,Slow Mover,42.3
+PROD04187,Dupatta Max,Clothing,Unbranded,11470.36,1,1,168,Slow Mover,34.8
+PROD04198,Tablet Pro,Electronics,Peter England,29248.28,4,1,137,Normal,88.8
+PROD04206,Smart Watch Plus,Electronics,Bata,53644.28,4,2,352,Normal,162.9
+PROD04218,Honey Max,Grocery & Food,Wildcraft,19814.83,1,1,341,Normal,60.2
+PROD04221,Earbuds Elite,Electronics,Samsung India,12120.37,1,1,369,Slow Mover,36.8
+PROD04227,Kurta Plus,Clothing,Patanjali,37005.82,2,1,222,Normal,112.4
+PROD04242,Skipping Rope Max,Sports & Fitness,Peter England,15712.99,3,1,396,Slow Mover,47.7
+PROD04251,Webcam Max,Electronics,Unbranded,15695.91,1,1,289,Slow Mover,47.7
+PROD04253,Earbuds Max,Electronics,Wildcraft,4939.91,1,1,106,Slow Mover,15.0
+PROD04266,Curtain Lite,Home & Kitchen,Havells,23986.26,3,1,235,Normal,72.8
+PROD04278,Gym Gloves Standard,Sports & Fitness,Unbranded,38844.68,4,1,396,Normal,117.9
+PROD04280,Drawing Kit Elite,Toys & Baby,Bajaj,84109.08,4,1,0,Normal,255.4
+PROD04281,Gym Gloves Pro,Sports & Fitness,Bata,11972.79,1,1,229,Slow Mover,36.3
+PROD04289,Curtain Max,Home & Kitchen,Whirlpool,37775.14,2,1,250,Normal,114.7
+PROD04291,Smartphone Pro,Electronics,Bata,22397.19,1,1,18,Normal,68.0
+PROD04295,Kajal Lite,Beauty & Personal,Amul,31402.32,2,1,390,Normal,95.3
+PROD04296,Spice Set Lite,Grocery & Food,Reliance,14845.96,4,1,212,Slow Mover,45.1
+PROD04308,Webcam Lite,Electronics,Dabur,13440.52,1,1,495,Slow Mover,40.8
+PROD04320,Dry Fruits Elite,Grocery & Food,Unbranded,2285.2,1,1,253,Slow Mover,6.9
+PROD04327,Compact Elite,Beauty & Personal,Dabur,43624.6,4,1,288,Normal,132.4
+PROD04329,Cycling Helmet Standard,Sports & Fitness,OnePlus,35069.84,4,1,279,Normal,106.5
+PROD04330,Children Book Pro,Books,Bata,44659.83,3,1,387,Normal,135.6
+PROD04334,Tracksuit Pro,Clothing,FabIndia,23224.88,4,2,448,Normal,70.5
+PROD04344,Charger Standard,Electronics,Marico,5049.22,1,1,3,Slow Mover,15.3
+PROD04387,Jacket Plus,Clothing,Patanjali,105417.65,5,2,304,Normal,320.1
+PROD04391,Stuffed Animal Plus,Toys & Baby,Dabur,29409.1,4,1,130,Normal,89.3
+PROD04394,Kurta Standard,Clothing,Unbranded,66979.52,4,1,79,Normal,203.4
+PROD04396,Lipstick Lite,Beauty & Personal,Bajaj,16965.8,6,2,147,Normal,51.5
+PROD04399,Skipping Rope Elite,Sports & Fitness,FabIndia,44519.03,3,1,450,Normal,135.2
+PROD04401,Skipping Rope Plus,Sports & Fitness,Whirlpool,41072.88,4,1,191,Normal,124.7
+PROD04406,Webcam Pro,Electronics,Patanjali,55580.76,3,1,6,Normal,168.7
+PROD04416,Basmati Rice Max,Grocery & Food,FabIndia,17092.0,4,1,209,Normal,51.9
+PROD04433,Comic Standard,Books,Peter England,55548.07,3,1,111,Normal,168.6
+PROD04434,Action Figure Max,Toys & Baby,Bajaj,21938.04,1,1,115,Normal,66.6
+PROD04438,Webcam Standard,Electronics,Whirlpool,37757.62,2,1,301,Normal,114.6
+PROD04440,Tracksuit Lite,Clothing,Wildcraft,28396.120000000003,3,2,103,Normal,86.2
+PROD04453,Dry Fruits Standard,Grocery & Food,FabIndia,24245.13,1,1,468,Normal,73.6
+PROD04455,Dal Elite,Grocery & Food,W for Woman,11166.76,1,1,494,Slow Mover,33.9
+PROD04458,Smartphone Plus,Electronics,Reliance,29833.04,2,1,78,Normal,90.6
+PROD04465,Board Game Standard,Toys & Baby,Unbranded,28044.63,7,2,440,Normal,85.1
+PROD04466,Pressure Cooker Elite,Home & Kitchen,Noise,40780.68,2,1,493,Normal,123.8
+PROD04469,Cricket Bat Pro,Sports & Fitness,Peter England,9596.38,2,1,84,Slow Mover,29.1
+PROD04475,Tracksuit Standard,Clothing,Noise,78918.96,4,1,446,Normal,239.6
+PROD04492,Kurta Plus,Clothing,Wildcraft,24600.81,3,1,397,Normal,74.7
+PROD04494,Skipping Rope Lite,Sports & Fitness,OnePlus,35907.42,3,1,196,Normal,109.0
+PROD04498,Tracksuit Elite,Clothing,Dabur,21946.62,2,1,466,Normal,66.6
+PROD04502,Board Game Max,Toys & Baby,Bajaj,6245.52,2,1,417,Slow Mover,19.0
+PROD04512,Smartphone Standard,Electronics,Wildcraft,12586.58,2,1,163,Slow Mover,38.2
+PROD04513,Face Cream Plus,Beauty & Personal,Wildcraft,23232.55,2,1,276,Normal,70.5
+PROD04515,Sports Shoes Lite,Sports & Fitness,Unbranded,60058.96,4,1,16,Normal,182.3
+PROD04517,Children Book Pro,Books,W for Woman,31804.38,3,1,86,Normal,96.6
+PROD04518,Novel Pro,Books,Marico,9714.12,1,1,318,Slow Mover,29.5
+PROD04525,Kurta Plus,Clothing,Boat,74216.44,3,1,384,Normal,225.3
+PROD04532,Skipping Rope Elite,Sports & Fitness,Boat,46263.24,4,1,387,Normal,140.5
+PROD04557,Salwar Suit Max,Clothing,Havells,4583.72,4,1,321,Slow Mover,13.9
+PROD04563,Lego Set Pro,Toys & Baby,Unbranded,19168.94,1,1,341,Normal,58.2
+PROD04575,Remote Car Standard,Toys & Baby,Marico,12305.19,1,1,251,Slow Mover,37.4
+PROD04585,Smart TV Elite,Electronics,Godrej,5201.52,3,1,189,Slow Mover,15.8
+PROD04595,Bedsheet Lite,Home & Kitchen,Unbranded,1871.24,3,1,151,Slow Mover,5.7
+PROD04596,Smart Watch Plus,Electronics,Amul,58499.28,4,1,30,Normal,177.6
+PROD04607,Kurta Pro,Clothing,Bata,96710.89,4,1,206,Normal,293.6
+PROD04612,Speaker Max,Electronics,Unbranded,6221.9,1,1,407,Slow Mover,18.9
+PROD04619,Dumbbell Plus,Sports & Fitness,Amul,17723.28,1,1,337,Normal,53.8
+PROD04625,Smart Watch Pro,Electronics,Bata,1573.02,1,1,86,Slow Mover,4.8
+PROD04630,Tracksuit Lite,Clothing,OnePlus,33958.17,2,1,225,Normal,103.1
+PROD04632,Charger Plus,Electronics,Bajaj,60509.19,3,1,27,Normal,183.7
+PROD04642,Water Bottle Pro,Home & Kitchen,Wildcraft,45066.75,2,1,487,Normal,136.8
+PROD04644,Pressure Cooker Max,Home & Kitchen,Bajaj,7218.86,2,1,385,Slow Mover,21.9
+PROD04652,Badminton Racket Max,Sports & Fitness,Patanjali,21923.18,2,1,204,Normal,66.6
+PROD04657,Kurta Elite,Clothing,Unbranded,117313.25,6,2,95,Normal,356.2
+PROD04663,Jeans Plus,Clothing,Patanjali,15607.74,2,1,467,Slow Mover,47.4
+PROD04665,Jeans Lite,Clothing,OnePlus,64224.6,3,1,458,Normal,195.0
+PROD04668,Tablet Plus,Electronics,W for Woman,2165.84,2,1,344,Slow Mover,6.6
+PROD04672,Mixer Grinder Standard,Home & Kitchen,W for Woman,34337.13,2,1,385,Normal,104.2
+PROD04678,Kajal Lite,Beauty & Personal,Dabur,43373.64,2,2,378,Normal,131.7
+PROD04682,Face Cream Pro,Beauty & Personal,Havells,20042.48,5,2,387,Normal,60.8
+PROD04691,Body Lotion Elite,Beauty & Personal,Whirlpool,1598.66,3,1,135,Slow Mover,4.9
+PROD04693,Non-stick Pan Standard,Home & Kitchen,FabIndia,191209.5,8,2,45,Normal,580.5
+PROD04698,Sports Shoes Standard,Sports & Fitness,Unbranded,18879.08,4,1,473,Normal,57.3
+PROD04699,Laptop Elite,Electronics,Havells,58235.8,4,1,209,Normal,176.8
+PROD04700,Sunscreen Pro,Beauty & Personal,Samsung India,9674.05,1,1,373,Slow Mover,29.4
+PROD04701,Gym Gloves Elite,Sports & Fitness,Whirlpool,54232.88,4,1,28,Normal,164.7
+PROD04702,Shirt Elite,Clothing,Patanjali,8779.11,4,1,50,Slow Mover,26.7
+PROD04710,Kurta Max,Clothing,Wildcraft,11109.82,1,1,200,Slow Mover,33.7
+PROD04711,Salwar Suit Elite,Clothing,Boat,15521.07,2,1,478,Slow Mover,47.1
+PROD04714,Children Book Lite,Books,Patanjali,9878.13,1,1,64,Slow Mover,30.0
+PROD04722,Kurta Lite,Clothing,Tata,62882.31,4,1,31,Normal,190.9
+PROD04725,Dumbbell Max,Sports & Fitness,Wildcraft,21479.93,4,1,195,Normal,65.2
+PROD04731,Competitive Exam Book Elite,Books,FabIndia,13346.19,1,1,142,Slow Mover,40.5
+PROD04732,Puzzle Lite,Toys & Baby,OnePlus,24061.72,2,1,433,Normal,73.1
+PROD04740,Tiffin Box Pro,Home & Kitchen,Patanjali,27597.16,3,1,65,Normal,83.8
+PROD04750,Curtain Elite,Home & Kitchen,Bajaj,23323.47,1,1,437,Normal,70.8
+PROD04753,Pressure Cooker Lite,Home & Kitchen,Bajaj,9581.49,3,1,9,Slow Mover,29.1
+PROD04755,Badminton Racket Standard,Sports & Fitness,Havells,28281.21,3,1,351,Normal,85.9
+PROD04763,Hair Oil Pro,Beauty & Personal,Whirlpool,91829.24,4,1,75,Normal,278.8
+PROD04769,Baby Rattle Max,Toys & Baby,Unbranded,55801.36,4,1,360,Normal,169.4
+PROD04781,Laptop Elite,Electronics,Havells,18486.22,1,1,407,Normal,56.1
+PROD04784,Bedsheet Pro,Home & Kitchen,OnePlus,682.37,3,1,241,Slow Mover,2.1
+PROD04799,Smart TV Plus,Electronics,Boat,30450.54,3,1,496,Normal,92.4
+PROD04804,Earbuds Elite,Electronics,Reliance,14073.98,4,1,52,Slow Mover,42.7
+PROD04805,Lipstick Max,Beauty & Personal,Patanjali,64041.7,4,1,281,Normal,194.4
+PROD04812,Cricket Bat Elite,Sports & Fitness,Havells,17285.46,4,1,152,Normal,52.5
+PROD04813,Kurta Plus,Clothing,Noise,58574.88,4,1,21,Normal,177.8
+PROD04820,Basmati Rice Plus,Grocery & Food,Dabur,55116.44,7,4,23,Normal,167.3
+PROD04821,Salwar Suit Pro,Clothing,Dabur,24737.0,2,1,359,Normal,75.1
+PROD04832,Non-stick Pan Elite,Home & Kitchen,OnePlus,27574.96,2,1,465,Normal,83.7
+PROD04837,Non-stick Pan Lite,Home & Kitchen,OnePlus,49243.270000000004,3,2,241,Normal,149.5
+PROD04838,Curtain Max,Home & Kitchen,Amul,77006.8,4,1,42,Normal,233.8
+PROD04841,Tiffin Box Plus,Home & Kitchen,Samsung India,1634.65,3,1,168,Slow Mover,5.0
+PROD04845,Lipstick Lite,Beauty & Personal,Reliance,61702.68,3,1,495,Normal,187.3
+PROD04848,Kajal Plus,Beauty & Personal,Havells,12826.16,2,1,0,Slow Mover,38.9
+PROD04859,Cricket Bat Standard,Sports & Fitness,Amul,13090.84,2,1,372,Slow Mover,39.7
+PROD04869,Children Book Plus,Books,Wildcraft,37367.32,3,1,491,Normal,113.4
+PROD04870,Jeans Max,Clothing,Whirlpool,813.3,3,1,94,Slow Mover,2.5
+PROD04882,Badminton Racket Elite,Sports & Fitness,Samsung India,4810.72,2,1,192,Slow Mover,14.6
+PROD04887,Lego Set Standard,Toys & Baby,Reliance,19693.48,4,1,394,Normal,59.8
+PROD04892,Jeans Lite,Clothing,Patanjali,72356.24,4,1,303,Normal,219.7
+PROD04904,Kurta Lite,Clothing,Peter England,29147.4,3,1,385,Normal,88.5
+PROD04905,Hair Oil Pro,Beauty & Personal,Godrej,52146.15,3,1,138,Normal,158.3
+PROD04912,Curtain Elite,Home & Kitchen,Tata,1236.2,1,1,498,Slow Mover,3.8
+PROD04913,Smart TV Plus,Electronics,Bata,14679.6,1,1,329,Slow Mover,44.6
+PROD04920,Yoga Mat Pro,Sports & Fitness,Noise,24970.6,2,1,47,Normal,75.8
+PROD04921,Dupatta Elite,Clothing,Dabur,61627.85,3,1,16,Normal,187.1
+PROD04926,Stuffed Animal Standard,Toys & Baby,Whirlpool,732.96,1,1,103,Slow Mover,2.2
+PROD04937,Dumbbell Max,Sports & Fitness,Dabur,15835.31,1,1,43,Slow Mover,48.1
+PROD04947,Laptop Plus,Electronics,Wildcraft,41620.96,4,1,182,Normal,126.4
+PROD04954,Self Help Book Elite,Books,Tata,1717.82,6,2,339,Slow Mover,5.2
+PROD04956,Sunscreen Pro,Beauty & Personal,Tata,4384.38,3,1,2,Slow Mover,13.3
+PROD04957,Puzzle Elite,Toys & Baby,Wildcraft,2122.06,2,1,100,Slow Mover,6.4
+PROD04962,Speaker Lite,Electronics,W for Woman,95354.57,4,1,490,Normal,289.5
+PROD04968,Power Bank Elite,Electronics,Havells,24830.12,4,1,269,Normal,75.4
+PROD04969,Kurta Elite,Clothing,Boat,28564.56,2,1,317,Normal,86.7
+PROD04972,Saree Standard,Clothing,Boat,40277.66,2,1,224,Normal,122.3
+PROD04982,Children Book Plus,Books,Reliance,38725.87,2,1,386,Normal,117.6
+PROD04983,Cycling Helmet Pro,Sports & Fitness,Reliance,5814.32,2,1,462,Slow Mover,17.7
+PROD04992,Tiffin Box Elite,Home & Kitchen,OnePlus,14676.98,2,1,356,Slow Mover,44.6
+PROD04993,Sports Shoes Elite,Sports & Fitness,Bata,9880.14,3,1,205,Slow Mover,30.0
+PROD04996,Water Bottle Max,Home & Kitchen,Amul,49889.2,3,1,314,Normal,151.5

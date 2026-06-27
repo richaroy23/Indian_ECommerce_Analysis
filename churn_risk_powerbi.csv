@@ -1,0 +1,375 @@
+customer_id,customer_name,customer_city,customer_state,last_order_date,days_since_last_order,total_orders,total_revenue,churn_risk
+CUST00081,Arjun Pandey,Rohini,Delhi,2024-10-17 00:00:00,72,2,44664.44,Medium Risk
+CUST00148,Kavya Nair,Chennai,Tamil Nadu,2024-05-21 00:00:00,221,2,65579.56999999999,High Risk
+CUST00169,Varun Pillai,Mumbai,Maharashtra,2023-11-28 00:00:00,396,1,42951.37,High Risk
+CUST00293,Vijay Pillai,Agra,Uttar Pradesh,2022-12-29 00:00:00,730,1,24755.57,High Risk
+CUST00298,Ravi Patel,Howrah,West Bengal,2024-10-23 00:00:00,66,9,322136.17,Medium Risk
+CUST00320,Suresh Sharma,Coimbatore,Tamil Nadu,2024-02-25 00:00:00,307,3,105269.43,High Risk
+CUST00379,Kiran Das,Surat,Gujarat,2024-08-08 00:00:00,142,2,43790.759999999995,High Risk
+CUST00395,Aarav Pandey,Amritsar,Punjab,2023-08-27 00:00:00,489,1,117440.88,High Risk
+CUST00826,Divya Pillai,Agra,Uttar Pradesh,2024-01-15 00:00:00,348,1,12515.77,High Risk
+CUST00857,Meera Pandey,Bhubaneswar,Odisha,2022-05-06 00:00:00,967,1,23735.32,High Risk
+CUST00995,Pankaj Joshi,Surat,Gujarat,2024-07-19 00:00:00,162,5,207714.66,High Risk
+CUST00996,Deepak Iyer,Siliguri,West Bengal,2022-01-23 00:00:00,1070,1,62529.98,High Risk
+CUST01168,Pooja Verma,Kota,Rajasthan,2023-08-09 00:00:00,507,1,12944.38,High Risk
+CUST01173,Sneha Pillai,Ahmedabad,Gujarat,2024-11-09 00:00:00,49,3,56733.979999999996,Active
+CUST01184,Arjun Tiwari,Kanpur,Uttar Pradesh,2024-01-23 00:00:00,340,1,3596.66,High Risk
+CUST01412,Arjun Mishra,Bhopal,Madhya Pradesh,2024-08-10 00:00:00,140,4,366747.47000000003,High Risk
+CUST01476,Varun Bose,Jodhpur,Rajasthan,2024-12-21 00:00:00,7,1,10622.02,Active
+CUST01543,Gaurav Shah,Jodhpur,Rajasthan,2023-09-28 00:00:00,457,2,334698.24,High Risk
+CUST01661,Divya Tiwari,Indore,Madhya Pradesh,2024-12-19 00:00:00,9,2,143011.05,Active
+CUST01685,Meera Shah,Mangaluru,Karnataka,2023-05-23 00:00:00,585,6,273948.39,High Risk
+CUST01877,Manish Mishra,Gaya,Bihar,2024-08-16 00:00:00,134,1,25867.17,High Risk
+CUST01899,Arjun Kumar,Amritsar,Punjab,2023-12-09 00:00:00,385,8,257850.91999999998,High Risk
+CUST01972,Varun Saxena,Udaipur,Rajasthan,2024-09-01 00:00:00,118,1,73117.64,High Risk
+CUST02096,Neha Nair,Surat,Gujarat,2024-06-28 00:00:00,183,3,43734.979999999996,High Risk
+CUST02164,Aarav Naidu,Dwarka,Delhi,2024-10-11 00:00:00,78,7,212241.51,Medium Risk
+CUST02198,Priya Nair,Ludhiana,Punjab,2023-10-30 00:00:00,425,1,1668.44,High Risk
+CUST02205,Sneha Iyer,Ujjain,Madhya Pradesh,2024-07-01 00:00:00,180,2,68666.29,High Risk
+CUST02261,Suresh Das,Kanpur,Uttar Pradesh,2024-10-07 00:00:00,82,2,30528.489999999998,Medium Risk
+CUST02514,Rahul Saxena,Udaipur,Rajasthan,2024-12-15 00:00:00,13,20,718870.71,Active
+CUST02526,Yasmin Tiwari,Varanasi,Uttar Pradesh,2024-12-14 00:00:00,14,4,87470.74,Active
+CUST02722,Mohan Bose,Berhampur,Odisha,2024-09-26 00:00:00,93,8,344938.87,High Risk
+CUST02810,Kiran Naidu,Janakpuri,Delhi,2024-11-23 00:00:00,35,1,34321.6,Active
+CUST02986,Rajesh Malhotra,Thiruvananthapuram,Kerala,2024-02-19 00:00:00,313,3,112839.11,High Risk
+CUST03070,Nisha Iyer,Nizamabad,Telangana,2023-12-29 00:00:00,365,1,9905.21,High Risk
+CUST03354,Rahul Kumar,Asansol,West Bengal,2022-08-11 00:00:00,870,1,21031.97,High Risk
+CUST03395,Aisha Mehta,Lucknow,Uttar Pradesh,2023-09-28 00:00:00,457,1,64771.77,High Risk
+CUST03417,Sanjay Patel,Khammam,Telangana,2024-10-26 00:00:00,63,2,83070.13,Medium Risk
+CUST03540,Rahul Agarwal,Ajmer,Rajasthan,2023-11-11 00:00:00,413,1,53807.28,High Risk
+CUST03588,Gaurav Das,Coimbatore,Tamil Nadu,2022-05-08 00:00:00,965,1,82764.64,High Risk
+CUST03625,Neha Nair,Nashik,Maharashtra,2024-08-07 00:00:00,143,3,124546.68,High Risk
+CUST03711,Sanjay Rao,Bengaluru,Karnataka,2024-02-18 00:00:00,314,1,39189.49,High Risk
+CUST03747,Ananya Rao,Ghaziabad,Uttar Pradesh,2023-01-31 00:00:00,697,3,135707.93,High Risk
+CUST03764,Gaurav Malhotra,Faridabad,Haryana,2023-08-28 00:00:00,488,1,9880.14,High Risk
+CUST03995,Vikram Das,Dwarka,Delhi,2024-11-14 00:00:00,44,3,50032.2,Active
+CUST04172,Mohan Pandey,Siliguri,West Bengal,2022-04-17 00:00:00,986,1,58542.34,High Risk
+CUST04193,Aisha Malhotra,Amritsar,Punjab,2022-06-05 00:00:00,937,1,26215.11,High Risk
+CUST04353,Ravi Malhotra,Hyderabad,Telangana,2023-12-31 00:00:00,363,1,6949.23,High Risk
+CUST04374,Amit Agarwal,Bhopal,Madhya Pradesh,2024-07-09 00:00:00,172,2,103142.9,High Risk
+CUST04450,Sunita Mishra,Agra,Uttar Pradesh,2024-07-12 00:00:00,169,1,23375.16,High Risk
+CUST04476,Meera Rao,Ghaziabad,Uttar Pradesh,2023-03-02 00:00:00,667,2,316838.23000000004,High Risk
+CUST04597,Manish Verma,Saket,Delhi,2024-12-10 00:00:00,18,2,60738.020000000004,Active
+CUST04610,Vikram Chopra,Udaipur,Rajasthan,2023-09-03 00:00:00,482,2,23981.36,High Risk
+CUST04626,Aarav Bose,Salem,Tamil Nadu,2024-08-05 00:00:00,145,1,27574.96,High Risk
+CUST04645,Ravi Reddy,Patna,Bihar,2024-06-26 00:00:00,185,4,192390.93,High Risk
+CUST04673,Anjali Malhotra,Kolkata,West Bengal,2022-10-13 00:00:00,807,1,4384.38,High Risk
+CUST04685,Sneha Kumar,Hisar,Haryana,2022-07-05 00:00:00,907,1,63637.48,High Risk
+CUST04718,Rajesh Tiwari,Nizamabad,Telangana,2024-11-11 00:00:00,47,5,363113.19,Active
+CUST04943,Vikram Singh,Jalandhar,Punjab,2023-11-17 00:00:00,407,4,63647.1,High Risk
+CUST05033,Gaurav Sharma,Hubli,Karnataka,2024-10-28 00:00:00,61,1,111140.22,Medium Risk
+CUST05057,Vikram Mishra,Surat,Gujarat,2024-11-25 00:00:00,33,6,178540.88,Active
+CUST05073,Yasmin Mehta,Dwarka,Delhi,2023-10-17 00:00:00,438,1,42683.73,High Risk
+CUST05082,Sneha Patel,Ajmer,Rajasthan,2022-05-05 00:00:00,968,1,28316.79,High Risk
+CUST05085,Vijay Das,Mangaluru,Karnataka,2022-06-16 00:00:00,926,1,37757.62,High Risk
+CUST05188,Anjali Rao,Hisar,Haryana,2024-11-30 00:00:00,28,1,0.0,Active
+CUST05196,Nisha Shah,Jaipur,Rajasthan,2023-02-25 00:00:00,672,1,29340.5,High Risk
+CUST05312,Aarav Sharma,Kota,Rajasthan,2024-03-13 00:00:00,290,4,187598.89,High Risk
+CUST05440,Lakshmi Agarwal,Tiruchirappalli,Tamil Nadu,2024-05-06 00:00:00,236,1,25240.6,High Risk
+CUST05487,Tarun Sharma,Vadodara,Gujarat,2024-10-16 00:00:00,73,1,81235.04,Medium Risk
+CUST05534,Neha Agarwal,Kota,Rajasthan,2024-10-11 00:00:00,78,5,241007.19,Medium Risk
+CUST05630,Sneha Pillai,Karimnagar,Telangana,2024-01-07 00:00:00,356,4,140998.78,High Risk
+CUST05784,Gaurav Gupta,Hubli,Karnataka,2024-12-18 00:00:00,10,3,130933.38,Active
+CUST05824,Pankaj Chopra,Cuttack,Odisha,2024-07-19 00:00:00,162,1,1921.61,High Risk
+CUST06056,Tanvi Agarwal,Rajkot,Gujarat,2022-03-23 00:00:00,1011,1,88572.92,High Risk
+CUST06170,Pooja Kumar,Chennai,Tamil Nadu,2024-03-10 00:00:00,293,1,65273.28,High Risk
+CUST06192,Nikhil Rao,Ahmedabad,Gujarat,2024-08-27 00:00:00,123,17,523638.48,High Risk
+CUST06210,Anjali Tiwari,Coimbatore,Tamil Nadu,2023-12-11 00:00:00,383,3,440219.43999999994,High Risk
+CUST06395,Aarav Malhotra,Kota,Rajasthan,2024-11-02 00:00:00,56,1,0.0,Active
+CUST06444,Mohan Patel,Kollam,Kerala,2023-04-16 00:00:00,622,1,13440.52,High Risk
+CUST06465,Rohit Shah,Pune,Maharashtra,2024-03-27 00:00:00,276,1,62579.2,High Risk
+CUST06467,Lakshmi Kumar,Nizamabad,Telangana,2024-02-10 00:00:00,322,1,17183.49,High Risk
+CUST06567,Nikhil Rao,Berhampur,Odisha,2023-12-10 00:00:00,384,1,21891.78,High Risk
+CUST06588,Ishaan Sharma,Dwarka,Delhi,2024-09-18 00:00:00,101,1,14417.6,High Risk
+CUST06726,Yasmin Pillai,Aurangabad,Maharashtra,2024-03-11 00:00:00,292,1,28712.36,High Risk
+CUST06748,Yasmin Agarwal,Dwarka,Delhi,2023-06-13 00:00:00,564,1,55801.36,High Risk
+CUST06815,Arjun Patel,Dwarka,Delhi,2023-06-21 00:00:00,556,1,41236.94,High Risk
+CUST06821,Rahul Saxena,Kozhikode,Kerala,2023-01-27 00:00:00,701,2,39035.19,High Risk
+CUST06882,Nikhil Singh,Sambalpur,Odisha,2024-05-06 00:00:00,236,1,7218.86,High Risk
+CUST07088,Pankaj Malhotra,Panipat,Haryana,2024-03-14 00:00:00,289,1,77783.28,High Risk
+CUST07138,Zara Iyer,Berhampur,Odisha,2022-11-24 00:00:00,765,1,78918.96,High Risk
+CUST07146,Gaurav Nair,Jodhpur,Rajasthan,2024-12-28 00:00:00,0,1,47477.64,Active
+CUST07223,Vijay Tiwari,Rajkot,Gujarat,2024-10-18 00:00:00,71,1,24946.96,Medium Risk
+CUST07308,Nikhil Shah,Bathinda,Punjab,2024-08-16 00:00:00,134,6,290754.58999999997,High Risk
+CUST07487,Aarav Patel,Howrah,West Bengal,2024-11-03 00:00:00,55,4,174040.6,Active
+CUST07539,Divya Saxena,Nagpur,Maharashtra,2024-09-10 00:00:00,109,1,71509.77,High Risk
+CUST07553,Priya Chopra,New Delhi,Delhi,2024-10-14 00:00:00,75,15,426296.99,Medium Risk
+CUST07620,Yasmin Agarwal,Belagavi,Karnataka,2023-05-13 00:00:00,595,1,12636.84,High Risk
+CUST07681,Aarav Kumar,Indore,Madhya Pradesh,2022-08-26 00:00:00,855,1,21710.52,High Risk
+CUST07832,Suresh Bose,Karimnagar,Telangana,2022-04-05 00:00:00,998,1,27290.5,High Risk
+CUST07919,Sneha Singh,Ajmer,Rajasthan,2023-04-28 00:00:00,610,1,44978.99,High Risk
+CUST07927,Tanvi Pandey,Howrah,West Bengal,2022-12-09 00:00:00,750,4,62737.57,High Risk
+CUST08250,Rohit Das,Rajkot,Gujarat,2022-03-23 00:00:00,1011,1,96793.66,High Risk
+CUST08286,Sanjay Mehta,Khammam,Telangana,2022-06-24 00:00:00,918,1,8688.65,High Risk
+CUST08440,Priya Sharma,Cuttack,Odisha,2024-08-28 00:00:00,122,5,265229.41,High Risk
+CUST08523,Ishaan Joshi,Howrah,West Bengal,2024-01-09 00:00:00,354,2,44298.34,High Risk
+CUST08598,Deepak Saxena,Kozhikode,Kerala,2024-04-24 00:00:00,248,2,197525.1,High Risk
+CUST08628,Tanvi Nair,Ajmer,Rajasthan,2023-09-07 00:00:00,478,1,64746.67,High Risk
+CUST08789,Ishaan Kumar,Mangaluru,Karnataka,2024-04-01 00:00:00,271,1,14196.94,High Risk
+CUST08853,Nisha Sharma,Bengaluru,Karnataka,2024-10-27 00:00:00,62,7,175563.44999999998,Medium Risk
+CUST08856,Zara Tiwari,Mangaluru,Karnataka,2024-08-16 00:00:00,134,3,80680.73,High Risk
+CUST08951,Riya Das,Hisar,Haryana,2024-04-29 00:00:00,243,4,184394.16999999998,High Risk
+CUST09121,Yasmin Patel,Karimnagar,Telangana,2023-06-04 00:00:00,573,1,90556.79,High Risk
+CUST09284,Deepak Chopra,Muzaffarpur,Bihar,2024-08-25 00:00:00,125,1,68368.6,High Risk
+CUST09401,Tarun Malhotra,Ahmedabad,Gujarat,2024-10-17 00:00:00,72,4,172081.77000000002,Medium Risk
+CUST09507,Meera Iyer,Faridabad,Haryana,2024-10-08 00:00:00,81,10,235626.59,Medium Risk
+CUST09579,Pooja Bose,Hubli,Karnataka,2024-08-24 00:00:00,126,2,25984.13,High Risk
+CUST09742,Manish Pillai,Rourkela,Odisha,2024-05-07 00:00:00,235,1,12331.22,High Risk
+CUST09753,Deepak Shah,Salem,Tamil Nadu,2024-11-17 00:00:00,41,15,589209.91,Active
+CUST09834,Gaurav Chopra,Ujjain,Madhya Pradesh,2023-11-27 00:00:00,397,1,84180.52,High Risk
+CUST09992,Kavya Das,Jabalpur,Madhya Pradesh,2022-09-26 00:00:00,824,1,13066.77,High Risk
+CUST10165,Rahul Pandey,Khammam,Telangana,2024-10-28 00:00:00,61,5,312544.64,Medium Risk
+CUST10192,Nisha Tiwari,Howrah,West Bengal,2024-12-22 00:00:00,6,4,155063.69,Active
+CUST10235,Arjun Naidu,Khammam,Telangana,2023-10-21 00:00:00,434,2,108140.03,High Risk
+CUST10263,Ishaan Rao,Belagavi,Karnataka,2024-05-06 00:00:00,236,2,65150.19,High Risk
+CUST10324,Vikram Mehta,Hyderabad,Telangana,2024-04-30 00:00:00,242,1,16148.72,High Risk
+CUST10360,Kiran Singh,Nizamabad,Telangana,2024-10-22 00:00:00,67,1,39784.75,Medium Risk
+CUST10875,Rahul Shah,Mangaluru,Karnataka,2024-12-14 00:00:00,14,10,705905.0700000001,Active
+CUST10915,Rajesh Iyer,Agra,Uttar Pradesh,2024-11-20 00:00:00,38,5,179450.31,Active
+CUST10929,Anjali Chopra,Bhagalpur,Bihar,2024-05-30 00:00:00,212,3,100126.43,High Risk
+CUST10994,Priya Bose,Ambala,Haryana,2024-05-04 00:00:00,238,1,46424.26,High Risk
+CUST11026,Vijay Das,Rohini,Delhi,2024-06-11 00:00:00,200,2,125631.77,High Risk
+CUST11047,Kavya Kumar,Bhagalpur,Bihar,2024-07-10 00:00:00,171,3,91575.86,High Risk
+CUST11166,Sanjay Rao,Agra,Uttar Pradesh,2024-02-19 00:00:00,313,4,140507.62,High Risk
+CUST11285,Sunita Malhotra,Mumbai,Maharashtra,2024-10-22 00:00:00,67,6,147506.59,Medium Risk
+CUST11442,Suresh Joshi,Patna,Bihar,2024-09-06 00:00:00,113,1,54890.14,High Risk
+CUST11554,Vikram Rao,Patiala,Punjab,2024-10-15 00:00:00,74,1,96026.39,Medium Risk
+CUST11631,Aditi Tiwari,Nagpur,Maharashtra,2024-02-08 00:00:00,324,1,57115.5,High Risk
+CUST11641,Pooja Chopra,Bathinda,Punjab,2023-08-19 00:00:00,497,2,64665.61,High Risk
+CUST11677,Manish Tiwari,Bhopal,Madhya Pradesh,2024-10-04 00:00:00,85,1,13975.85,Medium Risk
+CUST11706,Sneha Chopra,Mysuru,Karnataka,2024-12-14 00:00:00,14,2,130327.54000000001,Active
+CUST11846,Rahul Patel,Patna,Bihar,2024-10-31 00:00:00,58,1,3257.96,Active
+CUST11897,Ravi Saxena,Vadodara,Gujarat,2024-11-17 00:00:00,41,3,149057.99,Active
+CUST12141,Rahul Pillai,Tiruchirappalli,Tamil Nadu,2022-05-31 00:00:00,942,1,61984.42,High Risk
+CUST12155,Rahul Kumar,Lucknow,Uttar Pradesh,2024-11-25 00:00:00,33,2,88070.99,Active
+CUST12169,Lakshmi Pillai,Bathinda,Punjab,2024-01-09 00:00:00,354,6,180532.11,High Risk
+CUST12195,Vikram Joshi,Lucknow,Uttar Pradesh,2024-04-14 00:00:00,258,1,67415.85,High Risk
+CUST12257,Sneha Agarwal,Vadodara,Gujarat,2022-01-05 00:00:00,1088,1,51423.06,High Risk
+CUST12304,Suresh Singh,Tiruchirappalli,Tamil Nadu,2022-03-14 00:00:00,1020,1,0.0,High Risk
+CUST12478,Divya Sharma,Berhampur,Odisha,2022-12-08 00:00:00,751,1,175.88,High Risk
+CUST12508,Aisha Gupta,Khammam,Telangana,2024-11-04 00:00:00,54,19,492930.02999999997,Active
+CUST12589,Pooja Shah,Chennai,Tamil Nadu,2022-09-20 00:00:00,830,2,37852.14,High Risk
+CUST12591,Vikram Saxena,Saket,Delhi,2024-09-26 00:00:00,93,1,80230.92,High Risk
+CUST12596,Aditi Malhotra,Hisar,Haryana,2024-04-20 00:00:00,252,1,90587.6,High Risk
+CUST12725,Lakshmi Chopra,Saket,Delhi,2022-08-12 00:00:00,869,1,21353.1,High Risk
+CUST13053,Rajesh Rao,Bhagalpur,Bihar,2023-07-04 00:00:00,543,1,19712.48,High Risk
+CUST13192,Pooja Das,Rourkela,Odisha,2023-01-25 00:00:00,703,1,62882.31,High Risk
+CUST13212,Lakshmi Reddy,Darbhanga,Bihar,2024-12-20 00:00:00,8,1,1519.97,Active
+CUST13344,Aarav Malhotra,Janakpuri,Delhi,2022-10-19 00:00:00,801,1,18120.11,High Risk
+CUST13389,Riya Reddy,Mysuru,Karnataka,2024-08-19 00:00:00,131,6,234561.24,High Risk
+CUST13420,Tarun Rao,Salem,Tamil Nadu,2024-03-30 00:00:00,273,7,267633.95,High Risk
+CUST13452,Tanvi Patel,Durgapur,West Bengal,2022-12-31 00:00:00,728,1,30085.68,High Risk
+CUST13586,Deepak Patel,Mangaluru,Karnataka,2024-11-09 00:00:00,49,8,185269.95,Active
+CUST13720,Aarav Mehta,Chennai,Tamil Nadu,2023-01-24 00:00:00,704,1,34567.54,High Risk
+CUST13843,Ananya Mishra,Varanasi,Uttar Pradesh,2024-10-08 00:00:00,81,1,73357.25,Medium Risk
+CUST13990,Divya Joshi,Jalandhar,Punjab,2024-04-30 00:00:00,242,1,87335.58,High Risk
+CUST14143,Ravi Patel,Darbhanga,Bihar,2023-01-18 00:00:00,710,1,58718.81,High Risk
+CUST14217,Priya Mishra,Kanpur,Uttar Pradesh,2022-11-03 00:00:00,786,1,10035.28,High Risk
+CUST14287,Ananya Sharma,Khammam,Telangana,2023-09-12 00:00:00,473,1,24922.73,High Risk
+CUST14350,Aarav Kumar,Khammam,Telangana,2024-06-04 00:00:00,207,4,282569.91000000003,High Risk
+CUST14737,Rahul Pandey,Siliguri,West Bengal,2024-06-14 00:00:00,197,1,15391.36,High Risk
+CUST14741,Pankaj Gupta,New Delhi,Delhi,2024-11-18 00:00:00,40,16,916377.24,Active
+CUST14817,Lakshmi Gupta,Varanasi,Uttar Pradesh,2024-01-02 00:00:00,361,6,160630.55,High Risk
+CUST14879,Anjali Naidu,Salem,Tamil Nadu,2024-11-24 00:00:00,34,4,145658.47,Active
+CUST14978,Meera Malhotra,Nashik,Maharashtra,2024-12-06 00:00:00,22,19,681205.03,Active
+CUST15012,Aarav Nair,Warangal,Telangana,2024-09-18 00:00:00,101,7,365671.96,High Risk
+CUST15062,Suresh Gupta,Salem,Tamil Nadu,2024-07-11 00:00:00,170,3,35533.21,High Risk
+CUST15150,Rajesh Das,Bengaluru,Karnataka,2023-12-18 00:00:00,376,7,718598.27,High Risk
+CUST15162,Yasmin Bose,Amritsar,Punjab,2024-03-22 00:00:00,281,6,186549.08000000002,High Risk
+CUST15168,Ishaan Mishra,Kolkata,West Bengal,2023-12-28 00:00:00,366,1,15695.91,High Risk
+CUST15193,Yasmin Agarwal,Indore,Madhya Pradesh,2024-12-21 00:00:00,7,2,20308.4,Active
+CUST15197,Anjali Chopra,Kanpur,Uttar Pradesh,2024-05-08 00:00:00,234,1,28533.72,High Risk
+CUST15423,Suresh Mishra,Vadodara,Gujarat,2022-02-21 00:00:00,1041,1,1230.34,High Risk
+CUST15470,Rohit Das,Faridabad,Haryana,2024-06-02 00:00:00,209,6,160153.96,High Risk
+CUST15477,Yasmin Singh,Panipat,Haryana,2022-04-15 00:00:00,988,1,128852.5,High Risk
+CUST15579,Rahul Pillai,Darbhanga,Bihar,2024-07-13 00:00:00,168,13,300454.11,High Risk
+CUST15691,Gaurav Tiwari,Muzaffarpur,Bihar,2024-08-27 00:00:00,123,6,223740.12,High Risk
+CUST15694,Aarav Malhotra,Siliguri,West Bengal,2024-10-10 00:00:00,79,1,117183.83,Medium Risk
+CUST15748,Deepak Singh,Sambalpur,Odisha,2023-04-28 00:00:00,610,1,19024.83,High Risk
+CUST15922,Omkar Bose,Jalandhar,Punjab,2024-04-02 00:01:02,269,1,287530.86,High Risk
+CUST15995,Tarun Sharma,Warangal,Telangana,2024-11-13 00:00:00,45,20,773882.45,Active
+CUST16045,Gaurav Sharma,Janakpuri,Delhi,2024-11-06 00:00:00,52,3,43649.770000000004,Active
+CUST16138,Arjun Joshi,Sambalpur,Odisha,2024-11-08 00:00:00,50,1,16395.6,Active
+CUST16302,Arjun Singh,Warangal,Telangana,2022-02-13 00:00:00,1049,1,59247.83,High Risk
+CUST16359,Mohan Malhotra,Sambalpur,Odisha,2024-11-06 00:00:00,52,8,169309.55,Active
+CUST16388,Anjali Kumar,Janakpuri,Delhi,2024-10-02 00:00:00,87,5,63390.49,Medium Risk
+CUST16439,Deepak Shah,Kota,Rajasthan,2024-12-05 00:00:00,23,2,47854.71,Active
+CUST16487,Omkar Malhotra,Amritsar,Punjab,2022-04-23 00:00:00,980,1,22841.04,High Risk
+CUST16568,Zara Mishra,Gandhinagar,Gujarat,2023-06-22 00:00:00,555,1,5881.88,High Risk
+CUST16632,Aditi Mehta,Bathinda,Punjab,2024-10-06 00:00:00,83,17,712956.97,Medium Risk
+CUST16650,Sunita Nair,Bathinda,Punjab,2024-05-30 00:00:00,212,2,13330.6,High Risk
+CUST16651,Rajesh Saxena,Mumbai,Maharashtra,2024-06-24 00:00:00,187,1,45903.31,High Risk
+CUST16653,Sneha Rao,Jabalpur,Madhya Pradesh,2022-08-17 00:00:00,864,1,41725.28,High Risk
+CUST16762,Gaurav Chopra,Nashik,Maharashtra,2024-01-31 00:00:00,332,3,99913.18,High Risk
+CUST16837,Riya Saxena,Surat,Gujarat,2024-12-01 00:00:00,27,14,712777.62,Active
+CUST16948,Manish Malhotra,Hubli,Karnataka,2024-09-28 00:00:00,91,1,0.0,High Risk
+CUST17060,Mohan Shah,Bhopal,Madhya Pradesh,2023-03-19 00:00:00,650,1,38489.44,High Risk
+CUST17182,Vijay Pillai,Bathinda,Punjab,2024-06-07 00:00:00,204,3,154754.95,High Risk
+CUST17197,Aditi Iyer,Surat,Gujarat,2024-02-17 00:00:00,315,1,19150.6,High Risk
+CUST17205,Gaurav Malhotra,Coimbatore,Tamil Nadu,2022-07-03 00:00:00,909,1,22877.96,High Risk
+CUST17299,Rohit Kumar,Bengaluru,Karnataka,2024-12-16 00:00:00,12,1,30893.5,Active
+CUST17382,Rajesh Naidu,New Delhi,Delhi,2024-01-06 00:00:00,357,3,95245.20000000001,High Risk
+CUST17441,Pankaj Bose,Ahmedabad,Gujarat,2023-10-31 00:00:00,424,1,0.0,High Risk
+CUST17464,Deepak Naidu,Bhagalpur,Bihar,2024-10-13 00:00:00,76,6,199082.42,Medium Risk
+CUST17467,Sneha Saxena,Faridabad,Haryana,2024-04-11 00:00:00,261,2,14670.39,High Risk
+CUST17692,Sanjay Singh,Jalandhar,Punjab,2024-10-12 00:00:00,77,21,917377.79,Medium Risk
+CUST17850,Anjali Joshi,Jabalpur,Madhya Pradesh,2023-05-09 00:00:00,599,1,14220.28,High Risk
+CUST18082,Aditi Mishra,Panipat,Haryana,2023-12-05 00:00:00,389,2,80134.45,High Risk
+CUST18122,Kavya Patel,Dwarka,Delhi,2024-12-25 00:00:00,3,6,171150.97,Active
+CUST18230,Pooja Shah,Kochi,Kerala,2024-02-01 00:00:00,331,2,178980.34,High Risk
+CUST18292,Kiran Shah,Tiruchirappalli,Tamil Nadu,2023-06-10 00:00:00,567,2,192077.74,High Risk
+CUST18381,Tanvi Patel,Bhubaneswar,Odisha,2022-04-16 00:00:00,987,1,14988.0,High Risk
+CUST18550,Kiran Rao,Thrissur,Kerala,2024-09-28 00:00:00,91,8,368817.19,High Risk
+CUST18651,Kavya Patel,Kota,Rajasthan,2022-07-20 00:00:00,892,1,47362.84,High Risk
+CUST18929,Ishaan Pillai,Gaya,Bihar,2024-12-09 00:00:00,19,18,605879.4,Active
+CUST19088,Meera Pandey,Varanasi,Uttar Pradesh,2024-05-18 00:00:00,224,1,41578.75,High Risk
+CUST19089,Aarav Iyer,Ambala,Haryana,2024-11-29 00:00:00,29,15,530138.1799999999,Active
+CUST19096,Aisha Singh,Jabalpur,Madhya Pradesh,2024-05-06 00:00:00,236,1,0.0,High Risk
+CUST19289,Deepak Singh,Ghaziabad,Uttar Pradesh,2024-10-18 00:00:00,71,9,401949.79,Medium Risk
+CUST19297,Meera Pandey,New Delhi,Delhi,2023-08-01 00:00:00,515,1,30471.36,High Risk
+CUST19554,Nikhil Das,Mysuru,Karnataka,2024-11-22 00:00:00,36,1,0.0,Active
+CUST19563,Aisha Pillai,Hisar,Haryana,2023-11-25 00:00:00,399,1,38301.49,High Risk
+CUST19594,Tarun Malhotra,Bhopal,Madhya Pradesh,2023-10-14 00:00:00,441,4,171653.59999999998,High Risk
+CUST19700,Arjun Pandey,Ahmedabad,Gujarat,2024-07-14 00:00:00,167,1,94821.19,High Risk
+CUST19727,Rahul Sharma,Jalandhar,Punjab,2023-03-18 00:00:00,651,1,7219.06,High Risk
+CUST19741,Kiran Iyer,Kollam,Kerala,2024-09-15 00:00:00,104,1,18981.64,High Risk
+CUST19752,Omkar Patel,Siliguri,West Bengal,2023-02-11 00:00:00,686,1,15607.74,High Risk
+CUST19823,Mohan Saxena,Karimnagar,Telangana,2024-03-15 00:00:00,288,1,1151.98,High Risk
+CUST19891,Meera Shah,Jabalpur,Madhya Pradesh,2023-10-28 00:00:00,427,2,23809.07,High Risk
+CUST20089,Vikram Patel,Bengaluru,Karnataka,2022-04-22 00:00:00,981,1,26527.9,High Risk
+CUST20261,Pankaj Reddy,Bhopal,Madhya Pradesh,2024-08-02 00:00:00,148,1,12219.43,High Risk
+CUST20288,Meera Chopra,Bengaluru,Karnataka,2024-08-10 00:00:00,140,8,311007.29000000004,High Risk
+CUST20320,Amit Naidu,Hubli,Karnataka,2024-06-29 00:00:00,182,7,380147.15,High Risk
+CUST20344,Aarav Reddy,Nizamabad,Telangana,2022-07-28 00:00:00,884,1,51865.01,High Risk
+CUST20382,Deepak Agarwal,Surat,Gujarat,2023-02-23 00:00:00,674,1,24988.03,High Risk
+CUST20425,Arjun Kumar,Bhubaneswar,Odisha,2024-06-30 00:00:00,181,1,23388.3,High Risk
+CUST20453,Mohan Chopra,Ujjain,Madhya Pradesh,2024-02-25 00:00:00,307,1,32288.15,High Risk
+CUST20470,Rohit Reddy,Bhagalpur,Bihar,2023-03-03 00:00:00,666,1,4540.49,High Risk
+CUST20677,Nisha Verma,Ujjain,Madhya Pradesh,2024-05-22 00:00:00,220,3,137323.16999999998,High Risk
+CUST20696,Rohit Shah,Bengaluru,Karnataka,2022-10-01 00:00:00,819,1,19672.49,High Risk
+CUST20760,Ravi Nair,Rohini,Delhi,2024-12-26 00:00:00,2,15,687179.89,Active
+CUST20789,Ishaan Reddy,Kozhikode,Kerala,2022-06-03 00:00:00,939,1,43633.02,High Risk
+CUST20917,Rohit Kumar,Varanasi,Uttar Pradesh,2022-08-05 00:00:00,876,1,121079.81,High Risk
+CUST20944,Suresh Rao,Panipat,Haryana,2022-11-15 00:00:00,774,1,70161.64,High Risk
+CUST20998,Riya Malhotra,Janakpuri,Delhi,2024-08-03 00:00:00,147,1,18055.13,High Risk
+CUST21016,Lakshmi Chopra,Rourkela,Odisha,2024-07-06 00:00:00,175,2,43309.74,High Risk
+CUST21039,Tanvi Malhotra,Ajmer,Rajasthan,2023-04-06 00:00:00,632,2,13173.59,High Risk
+CUST21055,Tanvi Agarwal,Agra,Uttar Pradesh,2022-07-23 00:00:00,889,1,11143.1,High Risk
+CUST21121,Manish Mehta,Kolkata,West Bengal,2023-07-24 00:00:00,523,2,80442.03,High Risk
+CUST21178,Aditi Pandey,Surat,Gujarat,2022-04-22 00:00:00,981,1,10733.91,High Risk
+CUST21323,Kiran Mehta,Faridabad,Haryana,2024-11-30 00:00:00,28,1,10516.96,Active
+CUST21383,Nikhil Mehta,Pune,Maharashtra,2024-09-14 00:00:00,105,7,163173.55,High Risk
+CUST21392,Amit Nair,Patna,Bihar,2024-12-28 00:00:00,0,10,389609.03,Active
+CUST21395,Sunita Kumar,Salem,Tamil Nadu,2024-10-01 00:00:00,88,1,46238.21,Medium Risk
+CUST21442,Aarav Chopra,Ajmer,Rajasthan,2024-07-11 00:00:00,170,2,77187.01,High Risk
+CUST21456,Vikram Gupta,Madurai,Tamil Nadu,2023-11-04 00:00:00,420,3,144009.66,High Risk
+CUST21488,Sanjay Kumar,Indore,Madhya Pradesh,2022-11-02 00:00:00,787,1,17731.63,High Risk
+CUST21575,Suresh Kumar,Warangal,Telangana,2024-08-05 00:00:00,145,7,264063.87,High Risk
+CUST21824,Varun Mehta,Bhopal,Madhya Pradesh,2023-09-01 00:00:00,484,1,28279.93,High Risk
+CUST22144,Arjun Verma,Coimbatore,Tamil Nadu,2024-09-11 00:00:00,108,2,76411.69,High Risk
+CUST22170,Rohit Nair,Kota,Rajasthan,2023-12-30 00:00:00,364,1,38822.07,High Risk
+CUST22180,Ananya Tiwari,Jodhpur,Rajasthan,2022-07-13 00:00:00,899,1,13755.96,High Risk
+CUST22256,Kavya Verma,Gaya,Bihar,2024-08-20 00:00:00,130,1,8567.19,High Risk
+CUST22281,Varun Naidu,Madurai,Tamil Nadu,2023-07-12 00:00:00,535,1,20312.96,High Risk
+CUST22313,Riya Gupta,Varanasi,Uttar Pradesh,2023-04-12 00:00:00,626,1,8287.8,High Risk
+CUST22371,Arjun Sharma,Salem,Tamil Nadu,2023-09-08 00:00:00,477,1,83839.75,High Risk
+CUST22569,Mohan Tiwari,Coimbatore,Tamil Nadu,2024-05-25 00:00:00,217,4,164408.37,High Risk
+CUST22753,Aditi Reddy,Nagpur,Maharashtra,2023-12-30 00:00:00,364,3,119112.92,High Risk
+CUST22773,Nisha Mishra,Indore,Madhya Pradesh,2024-04-22 00:00:00,250,3,203651.2,High Risk
+CUST22869,Sunita Rao,Kolkata,West Bengal,2024-12-18 00:00:00,10,7,403929.78,Active
+CUST22896,Aarav Verma,Jodhpur,Rajasthan,2024-11-29 00:00:00,29,4,148867.16999999998,Active
+CUST22963,Omkar Agarwal,Berhampur,Odisha,2024-01-07 00:00:00,356,1,27855.01,High Risk
+CUST23115,Priya Pandey,Sambalpur,Odisha,2023-12-10 00:00:00,384,1,52225.92,High Risk
+CUST23169,Riya Singh,Khammam,Telangana,2022-11-12 00:00:00,777,1,5782.07,High Risk
+CUST23179,Rajesh Malhotra,Amritsar,Punjab,2024-06-29 00:00:00,182,2,62453.159999999996,High Risk
+CUST23221,Gaurav Gupta,Cuttack,Odisha,2024-12-13 00:00:00,15,11,286071.14,Active
+CUST23334,Yasmin Joshi,Bhagalpur,Bihar,2024-09-21 00:00:00,98,6,351562.58,High Risk
+CUST23385,Aditi Mehta,Thrissur,Kerala,2022-11-14 00:00:00,775,2,60402.38,High Risk
+CUST23439,Vijay Shah,Mysuru,Karnataka,2023-08-30 00:00:00,486,1,21984.64,High Risk
+CUST23479,Sunita Verma,Rohini,Delhi,2024-05-01 00:00:00,241,3,50484.72,High Risk
+CUST23492,Ishaan Naidu,Tiruchirappalli,Tamil Nadu,2023-08-31 00:00:00,485,1,89706.95,High Risk
+CUST23503,Lakshmi Patel,Kota,Rajasthan,2023-06-15 00:00:00,562,1,51794.61,High Risk
+CUST23528,Aditi Mishra,Saket,Delhi,2023-07-25 00:00:00,522,2,69407.83,High Risk
+CUST23537,Mohan Shah,Hubli,Karnataka,2024-01-02 00:00:00,361,1,33770.76,High Risk
+CUST23564,Varun Saxena,Darbhanga,Bihar,2024-11-19 00:00:00,39,6,260997.7,Active
+CUST23675,Neha Singh,Jodhpur,Rajasthan,2024-06-16 00:00:00,195,2,18880.6,High Risk
+CUST23759,Rohit Pandey,Jabalpur,Madhya Pradesh,2023-06-14 00:00:00,563,2,32492.75,High Risk
+CUST23782,Aditi Singh,Sambalpur,Odisha,2023-06-27 00:00:00,550,1,12276.49,High Risk
+CUST23807,Gaurav Patel,Gurugram,Haryana,2024-12-10 00:00:00,18,14,526366.14,Active
+CUST23847,Rahul Mehta,Sambalpur,Odisha,2024-03-22 00:00:00,281,1,48387.8,High Risk
+CUST23852,Amit Kumar,Jaipur,Rajasthan,2024-06-30 00:00:00,181,3,167024.01,High Risk
+CUST23863,Meera Gupta,Pune,Maharashtra,2023-12-22 00:00:00,372,1,20320.36,High Risk
+CUST23982,Priya Shah,Pune,Maharashtra,2024-11-16 00:00:00,42,1,38755.78,Active
+CUST24034,Ravi Mishra,Patna,Bihar,2023-10-26 00:00:00,429,2,27850.21,High Risk
+CUST24045,Lakshmi Tiwari,Karimnagar,Telangana,2022-09-20 00:00:00,830,1,18455.7,High Risk
+CUST24138,Kiran Bose,Jaipur,Rajasthan,2024-10-12 00:00:00,77,1,1573.02,Medium Risk
+CUST24214,Vikram Naidu,Rajkot,Gujarat,2023-10-12 00:00:00,443,1,62811.18,High Risk
+CUST24357,Lakshmi Pillai,Nashik,Maharashtra,2022-06-17 00:00:00,925,1,16206.34,High Risk
+CUST24409,Vikram Patel,Ujjain,Madhya Pradesh,2023-12-17 00:00:00,377,1,35537.94,High Risk
+CUST24523,Sunita Pillai,Asansol,West Bengal,2024-10-02 00:00:00,87,1,3453.62,Medium Risk
+CUST24601,Pooja Saxena,Pune,Maharashtra,2024-08-13 00:00:00,137,4,105071.73,High Risk
+CUST24688,Ravi Saxena,Ahmedabad,Gujarat,2024-01-08 00:00:00,355,2,66137.1,High Risk
+CUST24728,Manish Rao,Surat,Gujarat,2023-04-04 00:00:00,634,1,26094.98,High Risk
+CUST25002,Kiran Verma,Bhubaneswar,Odisha,2024-11-30 00:00:00,28,7,317832.16,Active
+CUST25047,Ananya Nair,Muzaffarpur,Bihar,2023-12-03 00:00:00,391,2,98306.75,High Risk
+CUST25078,Manish Singh,Chennai,Tamil Nadu,2024-11-03 00:00:00,55,1,22537.77,Active
+CUST25085,Anjali Singh,Jabalpur,Madhya Pradesh,2024-09-18 00:00:00,101,12,248155.54,High Risk
+CUST25473,Amit Patel,Nizamabad,Telangana,2022-10-19 00:00:00,801,1,22115.57,High Risk
+CUST25551,Yasmin Rao,Saket,Delhi,2022-02-14 00:00:00,1048,1,74812.77,High Risk
+CUST25624,Pankaj Singh,Ambala,Haryana,2023-01-06 00:00:00,722,1,54815.1,High Risk
+CUST25643,Omkar Mishra,Hubli,Karnataka,2024-10-24 00:00:00,65,3,123240.6,Medium Risk
+CUST25729,Lakshmi Tiwari,Indore,Madhya Pradesh,2024-09-20 00:00:00,99,1,59958.99,High Risk
+CUST25804,Omkar Verma,Janakpuri,Delhi,2024-07-14 00:00:00,167,1,2439.84,High Risk
+CUST25817,Pooja Shah,Aurangabad,Maharashtra,2024-04-19 00:00:00,253,1,11777.57,High Risk
+CUST25967,Tarun Reddy,Rourkela,Odisha,2024-10-22 00:00:00,67,9,286304.66,Medium Risk
+CUST26005,Pooja Malhotra,Mumbai,Maharashtra,2022-09-21 00:00:00,829,1,53422.83,High Risk
+CUST26160,Aarav Sharma,Thrissur,Kerala,2022-07-15 00:00:00,897,1,30038.34,High Risk
+CUST26195,Yasmin Saxena,Patiala,Punjab,2024-10-26 00:00:00,63,11,490567.4,Medium Risk
+CUST26203,Divya Agarwal,Ujjain,Madhya Pradesh,2023-01-23 00:00:00,705,3,109992.3,High Risk
+CUST26323,Omkar Sharma,Kolkata,West Bengal,2024-12-02 00:00:00,26,11,329910.85,Active
+CUST26494,Meera Pandey,Kota,Rajasthan,2023-03-03 00:00:00,666,3,106043.85,High Risk
+CUST26578,Mohan Iyer,Kochi,Kerala,2023-09-25 00:00:00,460,3,197759.43,High Risk
+CUST26684,Ravi Chopra,Nashik,Maharashtra,2024-08-13 00:00:00,137,1,14569.02,High Risk
+CUST26701,Ishaan Iyer,Kozhikode,Kerala,2024-09-18 00:00:00,101,1,1302.02,High Risk
+CUST26729,Kiran Naidu,Chennai,Tamil Nadu,2024-10-10 00:00:00,79,12,281480.52,Medium Risk
+CUST26799,Sanjay Mehta,Mangaluru,Karnataka,2023-07-31 00:00:00,516,1,59883.44,High Risk
+CUST26833,Aditi Sharma,Bhagalpur,Bihar,2024-05-15 00:00:00,227,4,110290.2,High Risk
+CUST26980,Ananya Malhotra,Surat,Gujarat,2024-03-30 00:00:00,273,1,20455.55,High Risk
+CUST27010,Aditi Saxena,Dwarka,Delhi,2024-02-07 00:00:00,325,1,22327.75,High Risk
+CUST27203,Divya Joshi,Asansol,West Bengal,2024-03-20 00:00:00,283,1,12232.27,High Risk
+CUST27217,Sunita Tiwari,Jabalpur,Madhya Pradesh,2024-10-24 00:00:00,65,1,59512.04,Medium Risk
+CUST27224,Sneha Patel,Amritsar,Punjab,2024-03-28 00:00:00,275,1,5492.3,High Risk
+CUST27373,Manish Kumar,Gurugram,Haryana,2023-03-16 00:00:00,653,1,39614.36,High Risk
+CUST27461,Mohan Reddy,Ajmer,Rajasthan,2024-06-12 00:00:00,199,5,71110.85,High Risk
+CUST27470,Sunita Reddy,Rajkot,Gujarat,2023-11-22 00:00:00,402,1,17473.9,High Risk
+CUST27505,Aisha Rao,Mangaluru,Karnataka,2023-09-25 00:00:00,460,1,29147.4,High Risk
+CUST27618,Omkar Malhotra,Durgapur,West Bengal,2023-10-21 00:00:00,434,1,45646.58,High Risk
+CUST27744,Arjun Tiwari,Rourkela,Odisha,2023-03-15 00:00:00,654,2,47909.14,High Risk
+CUST27821,Ishaan Kumar,Amritsar,Punjab,2023-12-31 00:00:00,363,7,147104.58,High Risk
+CUST27823,Lakshmi Verma,Nashik,Maharashtra,2024-11-28 00:00:00,30,3,144064.98,Active
+CUST27847,Rajesh Singh,Agra,Uttar Pradesh,2023-02-14 00:00:00,683,1,21166.04,High Risk
+CUST27933,Ananya Reddy,Berhampur,Odisha,2023-01-03 00:00:00,725,1,52345.5,High Risk
+CUST27978,Yasmin Shah,Nizamabad,Telangana,2022-03-10 00:00:00,1024,1,23766.66,High Risk
+CUST28004,Pooja Nair,Jalandhar,Punjab,2023-11-26 00:00:00,398,5,146249.1,High Risk
+CUST28123,Aarav Bose,Durgapur,West Bengal,2022-02-05 00:00:00,1057,1,21185.79,High Risk
+CUST28260,Ananya Malhotra,Ludhiana,Punjab,2023-12-29 00:00:00,365,1,24910.84,High Risk
+CUST28535,Tanvi Naidu,Faridabad,Haryana,2023-05-19 00:00:00,589,1,2909.64,High Risk
+CUST28550,Yasmin Kumar,Nashik,Maharashtra,2024-08-11 00:00:00,139,1,19711.9,High Risk
+CUST28752,Nisha Pillai,Durgapur,West Bengal,2024-03-07 00:00:00,296,1,58155.32,High Risk
+CUST28756,Ravi Reddy,Khammam,Telangana,2024-10-16 00:00:00,73,17,861018.22,Medium Risk
+CUST28772,Omkar Naidu,Darbhanga,Bihar,2024-04-05 00:00:00,267,5,165715.55,High Risk
+CUST28942,Ravi Singh,Kollam,Kerala,2023-04-14 00:00:00,624,1,96156.38,High Risk
+CUST29252,Vikram Pillai,Coimbatore,Tamil Nadu,2023-02-02 00:00:00,695,1,109509.44,High Risk
+CUST29298,Pankaj Bose,Mangaluru,Karnataka,2022-09-04 00:00:00,846,1,23457.23,High Risk
+CUST29302,Riya Pillai,Udaipur,Rajasthan,2024-11-13 00:00:00,45,1,0.0,Active
+CUST29425,Riya Pandey,Ajmer,Rajasthan,2024-05-12 00:00:00,230,2,59299.97,High Risk
+CUST29507,Ravi Kumar,Kota,Rajasthan,2022-12-03 00:00:00,756,1,39820.88,High Risk
+CUST29529,Suresh Sharma,Tiruchirappalli,Tamil Nadu,2024-12-13 00:00:00,15,17,611666.61,Active
+CUST29659,Arjun Patel,Kanpur,Uttar Pradesh,2024-06-08 00:00:00,203,4,182903.05,High Risk
+CUST29675,Aisha Saxena,Belagavi,Karnataka,2024-03-27 00:00:00,276,1,89445.72,High Risk
+CUST29789,Lakshmi Rao,Jodhpur,Rajasthan,2022-02-03 00:00:00,1059,1,22808.41,High Risk
+CUST29878,Aditi Joshi,Sambalpur,Odisha,2024-11-27 00:00:00,31,20,712902.47,Active
+CUST29890,Mohan Iyer,Agra,Uttar Pradesh,2024-05-29 00:00:00,213,5,247044.31,High Risk
+CUST29937,Yasmin Tiwari,Udaipur,Rajasthan,2022-01-28 00:00:00,1065,1,64882.08,High Risk
+CUST29957,Suresh Bose,Kochi,Kerala,2023-10-21 00:00:00,434,1,82659.98,High Risk
+CUST29998,Vikram Rao,Ghaziabad,Uttar Pradesh,2024-08-09 00:00:00,141,1,85496.57,High Risk

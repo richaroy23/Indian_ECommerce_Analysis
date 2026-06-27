@@ -1,0 +1,9 @@
+product_category,margin_tier,margin_pct,total_revenue,est_profit
+Beauty & Personal,High,42,3528622.8,1482021.576
+Books,High,38,2317776.7800000003,880755.1764000001
+Home & Kitchen,High,35,3233724.7,1131803.645
+Sports & Fitness,Medium,30,2982523.58,894757.074
+Toys & Baby,Medium,28,2496415.36,698996.3008
+Clothing,Medium,25,5103515.109999999,1275878.7774999999
+Grocery & Food,Low,10,2073166.98,207316.698
+Electronics,Low,8,4390681.14,351254.4912

@@ -1,0 +1,3001 @@
+seller_id,seller_name,seller_city,seller_state,seller_pincode,seller_rating
+SEL0001,Lakshmi Pillai Store,Gaya,Bihar,266756,4.0
+SEL0002,Divya Saxena Store,Nashik,Maharashtra,995560,3.4
+SEL0003,Kiran Malhotra Store,Mumbai,Maharashtra,825944,3.2
+SEL0004,Sneha Shah Store,Bengaluru,Karnataka,996364,3.7
+SEL0005,Pooja Kumar Store,Darbhanga,Bihar,422883,4.4
+SEL0006,Riya Nair Store,Pune,Maharashtra,585939,2.9
+SEL0007,Gaurav Malhotra Store,Nagpur,Maharashtra,942945,4.5
+SEL0008,Nikhil Gupta Store,Darbhanga,Bihar,344998,3.7
+SEL0009,Varun Mishra Store,Gaya,Bihar,229590,3.6
+SEL0010,Yasmin Gupta Store,Rourkela,Odisha,390022,2.5
+SEL0011,Suresh Tiwari Store,Belagavi,Karnataka,819463,2.8
+SEL0012,Priya Chopra Store,Bhopal,Madhya Pradesh,286958,3.6
+SEL0013,Gaurav Reddy Store,Varanasi,Uttar Pradesh,812613,5.0
+SEL0014,Aditi Pillai Store,Bhagalpur,Bihar,415797,3.1
+SEL0015,Lakshmi Verma Store,Dwarka,Delhi,464324,2.5
+SEL0016,Sanjay Mishra Store,Thiruvananthapuram,Kerala,713625,
+SEL0017,Priya Singh Store,Bhubaneswar,Odisha,634088,2.5
+SEL0018,Ishaan Rao Store,Nashik,Maharashtra,315312,3.3
+SEL0019,Aditi Joshi Store,Chennai,Tamil Nadu,930686,3.4
+SEL0020,Sneha Tiwari Store,Jodhpur,Rajasthan,,2.5
+SEL0021,Vijay Pandey Store,Muzaffarpur,Bihar,935839,4.4
+SEL0022,Sneha Reddy Store,Vadodara,Gujarat,127203,4.8
+SEL0023,Suresh Verma Store,Hubli,Karnataka,716036,5.0
+SEL0024,Amit Joshi Store,Bathinda,Punjab,910544,3.8
+SEL0025,Rohit Agarwal Store,Chennai,Tamil Nadu,793538,3.3
+SEL0026,Riya Kumar Store,Kolkata,West Bengal,253628,
+SEL0027,Yasmin Reddy Store,Nizamabad,Telangana,571568,
+SEL0028,Aisha Chopra Store,Ahmedabad,Gujarat,498485,3.4
+SEL0029,Aarav Shah Store,Hubli,Karnataka,571176,
+SEL0030,Amit Singh Store,Janakpuri,Delhi,667472,4.6
+SEL0031,Vijay Mishra Store,Darbhanga,Bihar,998835,3.0
+SEL0032,Rohit Agarwal Store,Bhopal,Madhya Pradesh,172529,2.6
+SEL0033,Priya Agarwal Store,Agra,Uttar Pradesh,387227,3.8
+SEL0034,Kiran Bose Store,Varanasi,Uttar Pradesh,507350,
+SEL0035,Zara Pandey Store,Amritsar,Punjab,785120,
+SEL0036,Vijay Kumar Store,Nizamabad,Telangana,844840,4.0
+SEL0037,Suresh Agarwal Store,Cuttack,Odisha,481377,3.5
+SEL0038,Varun Malhotra Store,Berhampur,Odisha,526050,
+SEL0039,Kavya Das Store,Nashik,Maharashtra,861558,2.6
+SEL0040,Ravi Tiwari Store,Gaya,Bihar,952736,2.9
+SEL0041,Zara Bose Store,Kota,Rajasthan,245694,3.6
+SEL0042,Tanvi Malhotra Store,Cuttack,Odisha,263787,
+SEL0043,Nikhil Mehta Store,Hubli,Karnataka,758611,4.1
+SEL0044,Sanjay Gupta Store,Hyderabad,Telangana,842989,3.4
+SEL0045,Sanjay Mishra Store,Mumbai,Maharashtra,965638,
+SEL0046,Vikram Agarwal Store,Surat,Gujarat,606173,4.6
+SEL0047,Neha Gupta Store,Janakpuri,Delhi,476414,3.9
+SEL0048,Lakshmi Shah Store,Dwarka,Delhi,739226,2.6
+SEL0049,Sanjay Singh Store,Vadodara,Gujarat,204092,3.5
+SEL0050,Amit Iyer Store,Gwalior,Madhya Pradesh,248804,3.5
+SEL0051,Sanjay Chopra Store,Ghaziabad,Uttar Pradesh,390646,4.7
+SEL0052,Ravi Kumar Store,Ujjain,Madhya Pradesh,395487,3.3
+SEL0053,Rajesh Pillai Store,Jaipur,Rajasthan,896016,2.7
+SEL0054,Omkar Tiwari Store,Lucknow,Uttar Pradesh,345448,3.4
+SEL0055,Aditi Nair Store,Rourkela,Odisha,326088,2.6
+SEL0056,Rahul Sharma Store,Nizamabad,Telangana,294493,4.6
+SEL0057,Amit Pandey Store,Rohini,Delhi,339160,4.0
+SEL0058,Priya Mehta Store,Indore,Madhya Pradesh,173658,3.7
+SEL0059,Aisha Sharma Store,Bhopal,Madhya Pradesh,469427,3.4
+SEL0060,Aisha Das Store,Pune,Maharashtra,421398,3.5
+SEL0061,Ishaan Kumar Store,Tiruchirappalli,Tamil Nadu,936357,4.5
+SEL0062,Omkar Bose Store,Ajmer,Rajasthan,369919,3.0
+SEL0063,Riya Joshi Store,Faridabad,Haryana,807409,2.7
+SEL0064,Ishaan Tiwari Store,Ambala,Haryana,684641,3.9
+SEL0065,Aarav Agarwal Store,Agra,Uttar Pradesh,983924,4.6
+SEL0066,Sanjay Bose Store,Jalandhar,Punjab,413592,3.9
+SEL0067,Rajesh Agarwal Store,Patna,Bihar,402386,4.5
+SEL0068,Nikhil Pillai Store,Ajmer,Rajasthan,680593,4.7
+SEL0069,Deepak Naidu Store,Gandhinagar,Gujarat,904389,
+SEL0070,Ravi Sharma Store,Ambala,Haryana,779601,4.0
+SEL0071,Rajesh Mehta Store,Siliguri,West Bengal,818561,4.6
+SEL0072,Pankaj Mehta Store,Patiala,Punjab,242271,4.1
+SEL0073,Aisha Gupta Store,Mysuru,Karnataka,497539,4.0
+SEL0074,Sneha Verma Store,Kanpur,Uttar Pradesh,911108,
+SEL0075,Aisha Patel Store,Salem,Tamil Nadu,794685,4.3
+SEL0076,Aisha Nair Store,Salem,Tamil Nadu,931006,3.8
+SEL0077,Rahul Pillai Store,Muzaffarpur,Bihar,685934,2.6
+SEL0078,Neha Tiwari Store,Kollam,Kerala,715525,4.0
+SEL0079,Neha Patel Store,Pune,Maharashtra,427458,3.0
+SEL0080,Rajesh Reddy Store,Chennai,Tamil Nadu,137373,
+SEL0081,Riya Agarwal Store,Pune,Maharashtra,426539,4.2
+SEL0082,Lakshmi Reddy Store,Ambala,Haryana,643322,3.6
+SEL0083,Aisha Pillai Store,Jalandhar,Punjab,618430,4.3
+SEL0084,Rahul Reddy Store,Rohini,Delhi,625332,3.5
+SEL0085,Manish Mehta Store,Nashik,Maharashtra,183107,4.7
+SEL0086,Pooja Rao Store,Khammam,Telangana,891646,3.6
+SEL0087,Pooja Bose Store,Sambalpur,Odisha,246910,3.7
+SEL0088,Mohan Nair Store,Ajmer,Rajasthan,584008,2.8
+SEL0089,Manish Kumar Store,Gurugram,Haryana,498385,3.8
+SEL0090,Tarun Malhotra Store,Gwalior,Madhya Pradesh,818809,
+SEL0091,Omkar Rao Store,New Delhi,Delhi,281760,4.4
+SEL0092,Ishaan Das Store,Khammam,Telangana,438804,4.3
+SEL0093,Rohit Joshi Store,Karimnagar,Telangana,763928,2.5
+SEL0094,Divya Pandey Store,Karimnagar,Telangana,279787,3.7
+SEL0095,Nisha Chopra Store,Mysuru,Karnataka,568539,2.6
+SEL0096,Sneha Pillai Store,Ludhiana,Punjab,183261,3.9
+SEL0097,Deepak Shah Store,Agra,Uttar Pradesh,949846,4.8
+SEL0098,Neha Mishra Store,Indore,Madhya Pradesh,193602,4.7
+SEL0099,Neha Mehta Store,Siliguri,West Bengal,189671,3.1
+SEL0100,Kiran Nair Store,Howrah,West Bengal,525311,2.9
+SEL0101,Nisha Shah Store,Patna,Bihar,962933,
+SEL0102,Rohit Shah Store,Warangal,Telangana,910135,3.9
+SEL0103,Meera Pillai Store,Jabalpur,Madhya Pradesh,881089,
+SEL0104,Anjali Patel Store,Howrah,West Bengal,749334,4.5
+SEL0105,Priya Shah Store,Jabalpur,Madhya Pradesh,481818,3.1
+SEL0106,Ananya Verma Store,Dwarka,Delhi,192462,3.1
+SEL0107,Aarav Bose Store,Nizamabad,Telangana,703131,4.0
+SEL0108,Meera Saxena Store,Warangal,Telangana,645688,3.2
+SEL0109,Kavya Saxena Store,Hisar,Haryana,657433,3.6
+SEL0110,Anjali Saxena Store,Asansol,West Bengal,423193,3.6
+SEL0111,Ananya Tiwari Store,New Delhi,Delhi,940305,3.0
+SEL0112,Nikhil Bose Store,Hisar,Haryana,760092,2.7
+SEL0113,Manish Mishra Store,Ujjain,Madhya Pradesh,272065,4.4
+SEL0114,Sanjay Saxena Store,Warangal,Telangana,826035,4.5
+SEL0115,Suresh Reddy Store,Patna,Bihar,,4.0
+SEL0116,Kavya Shah Store,Tiruchirappalli,Tamil Nadu,123735,2.9
+SEL0117,Suresh Das Store,Agra,Uttar Pradesh,623789,3.7
+SEL0118,Nisha Patel Store,Dwarka,Delhi,650387,2.9
+SEL0119,Tanvi Pandey Store,Darbhanga,Bihar,230724,
+SEL0120,Lakshmi Sharma Store,Gwalior,Madhya Pradesh,656247,4.2
+SEL0121,Priya Mehta Store,Ghaziabad,Uttar Pradesh,778318,2.6
+SEL0122,Varun Nair Store,Karimnagar,Telangana,113471,2.5
+SEL0123,Rajesh Verma Store,Belagavi,Karnataka,411407,5.0
+SEL0124,Yasmin Patel Store,Kollam,Kerala,204159,2.6
+SEL0125,Priya Patel Store,Patiala,Punjab,176434,4.7
+SEL0126,Aarav Patel Store,Patna,Bihar,880811,4.9
+SEL0127,Rahul Tiwari Store,Rohini,Delhi,293389,3.3
+SEL0128,Zara Mehta Store,Gurugram,Haryana,102597,3.9
+SEL0129,Omkar Agarwal Store,Rohini,Delhi,645074,4.1
+SEL0130,Ananya Bose Store,Patna,Bihar,357259,3.8
+SEL0131,Tarun Naidu Store,Mangaluru,Karnataka,973359,
+SEL0132,Yasmin Bose Store,New Delhi,Delhi,728653,4.0
+SEL0133,Amit Mishra Store,Ghaziabad,Uttar Pradesh,789163,3.1
+SEL0134,Sanjay Iyer Store,Agra,Uttar Pradesh,414380,2.9
+SEL0135,Sanjay Iyer Store,Saket,Delhi,151991,3.8
+SEL0136,Sunita Mishra Store,Kochi,Kerala,244427,3.4
+SEL0137,Aarav Pillai Store,Rourkela,Odisha,272212,2.6
+SEL0138,Sunita Sharma Store,Hisar,Haryana,635091,4.9
+SEL0139,Omkar Bose Store,Mumbai,Maharashtra,759226,2.6
+SEL0140,Anjali Das Store,Rohini,Delhi,491314,
+SEL0141,Vijay Naidu Store,Salem,Tamil Nadu,928384,3.0
+SEL0142,Pankaj Nair Store,New Delhi,Delhi,980313,2.9
+SEL0143,Manish Mehta Store,Kolkata,West Bengal,286038,2.7
+SEL0144,Ravi Malhotra Store,Coimbatore,Tamil Nadu,963357,
+SEL0145,Lakshmi Joshi Store,Mumbai,Maharashtra,881251,
+SEL0146,Nikhil Pillai Store,Dwarka,Delhi,,4.8
+SEL0147,Tanvi Malhotra Store,Bathinda,Punjab,431557,4.5
+SEL0148,Nisha Pandey Store,Belagavi,Karnataka,543704,2.9
+SEL0149,Sanjay Bose Store,Mangaluru,Karnataka,508391,2.9
+SEL0150,Nikhil Bose Store,Gaya,Bihar,897573,2.5
+SEL0151,Tarun Rao Store,Khammam,Telangana,562741,4.2
+SEL0152,Varun Joshi Store,Mumbai,Maharashtra,892030,2.5
+SEL0153,Pankaj Iyer Store,Thrissur,Kerala,661955,2.8
+SEL0154,Sunita Tiwari Store,Faridabad,Haryana,344707,4.1
+SEL0155,Pankaj Bose Store,Ghaziabad,Uttar Pradesh,229848,2.9
+SEL0156,Pankaj Pandey Store,Salem,Tamil Nadu,355985,
+SEL0157,Omkar Malhotra Store,Mangaluru,Karnataka,205949,3.1
+SEL0158,Gaurav Patel Store,Salem,Tamil Nadu,507939,3.5
+SEL0159,Priya Iyer Store,Gaya,Bihar,420432,2.5
+SEL0160,Sunita Reddy Store,Asansol,West Bengal,408343,4.4
+SEL0161,Aarav Nair Store,Vadodara,Gujarat,884642,4.4
+SEL0162,Lakshmi Tiwari Store,Indore,Madhya Pradesh,632977,3.4
+SEL0163,Aisha Sharma Store,Cuttack,Odisha,691091,4.5
+SEL0164,Sneha Joshi Store,Kanpur,Uttar Pradesh,123991,3.2
+SEL0165,Rajesh Pandey Store,Jalandhar,Punjab,976333,
+SEL0166,Gaurav Verma Store,Hubli,Karnataka,892468,3.5
+SEL0167,Nikhil Pandey Store,Ludhiana,Punjab,949060,
+SEL0168,Priya Agarwal Store,Ajmer,Rajasthan,973069,3.3
+SEL0169,Ishaan Joshi Store,Tiruchirappalli,Tamil Nadu,956953,3.6
+SEL0170,Divya Kumar Store,Surat,Gujarat,962338,4.1
+SEL0171,Kavya Kumar Store,Kota,Rajasthan,688595,3.4
+SEL0172,Nisha Agarwal Store,Asansol,West Bengal,985429,4.1
+SEL0173,Kavya Tiwari Store,Surat,Gujarat,859816,2.9
+SEL0174,Pankaj Sharma Store,Gaya,Bihar,313456,3.7
+SEL0175,Riya Malhotra Store,Aurangabad,Maharashtra,707432,3.2
+SEL0176,Kavya Saxena Store,Mysuru,Karnataka,470631,
+SEL0177,Priya Kumar Store,Kota,Rajasthan,866107,4.6
+SEL0178,Omkar Iyer Store,Ludhiana,Punjab,675269,3.7
+SEL0179,Tarun Verma Store,Lucknow,Uttar Pradesh,601519,3.6
+SEL0180,Meera Iyer Store,Bathinda,Punjab,600017,4.6
+SEL0181,Rajesh Das Store,Indore,Madhya Pradesh,339565,4.2
+SEL0182,Vijay Singh Store,Panipat,Haryana,487924,4.2
+SEL0183,Neha Malhotra Store,Janakpuri,Delhi,439851,3.9
+SEL0184,Yasmin Singh Store,Nagpur,Maharashtra,161096,4.7
+SEL0185,Sunita Patel Store,Khammam,Telangana,809708,3.0
+SEL0186,Aditi Naidu Store,Indore,Madhya Pradesh,304884,4.7
+SEL0187,Sneha Verma Store,Asansol,West Bengal,819576,3.8
+SEL0188,Amit Naidu Store,Darbhanga,Bihar,545191,4.1
+SEL0189,Meera Saxena Store,Madurai,Tamil Nadu,148219,4.9
+SEL0190,Gaurav Naidu Store,Khammam,Telangana,421459,3.6
+SEL0191,Yasmin Pandey Store,Ghaziabad,Uttar Pradesh,910287,4.2
+SEL0192,Tanvi Iyer Store,Ludhiana,Punjab,851926,3.8
+SEL0193,Deepak Mishra Store,Sambalpur,Odisha,385764,4.8
+SEL0194,Manish Iyer Store,Bhagalpur,Bihar,491361,3.7
+SEL0195,Zara Mehta Store,Gaya,Bihar,641678,3.1
+SEL0196,Tarun Gupta Store,Hubli,Karnataka,106987,3.7
+SEL0197,Suresh Tiwari Store,Bengaluru,Karnataka,966961,4.8
+SEL0198,Omkar Bose Store,Cuttack,Odisha,968245,3.8
+SEL0199,Tarun Rao Store,Ajmer,Rajasthan,881433,2.9
+SEL0200,Kiran Sharma Store,Varanasi,Uttar Pradesh,383457,3.9
+SEL0201,Aisha Das Store,Vadodara,Gujarat,578640,3.5
+SEL0202,Aisha Chopra Store,Bengaluru,Karnataka,397776,4.1
+SEL0203,Ananya Shah Store,Jabalpur,Madhya Pradesh,194812,
+SEL0204,Yasmin Singh Store,Panipat,Haryana,582754,3.3
+SEL0205,Yasmin Saxena Store,Aurangabad,Maharashtra,715384,3.8
+SEL0206,Aarav Naidu Store,Darbhanga,Bihar,806245,2.8
+SEL0207,Pooja Kumar Store,Vadodara,Gujarat,781480,3.0
+SEL0208,Sunita Kumar Store,Hyderabad,Telangana,176561,4.5
+SEL0209,Neha Chopra Store,Dwarka,Delhi,472755,4.8
+SEL0210,Ananya Pillai Store,Khammam,Telangana,376330,4.9
+SEL0211,Rahul Mehta Store,Faridabad,Haryana,790406,4.8
+SEL0212,Neha Mehta Store,Dwarka,Delhi,104235,4.9
+SEL0213,Neha Malhotra Store,Jalandhar,Punjab,130087,4.6
+SEL0214,Gaurav Rao Store,Warangal,Telangana,624456,4.3
+SEL0215,Aarav Pandey Store,Ghaziabad,Uttar Pradesh,283341,3.1
+SEL0216,Varun Naidu Store,Agra,Uttar Pradesh,862466,3.6
+SEL0217,Amit Joshi Store,Amritsar,Punjab,721187,
+SEL0218,Mohan Nair Store,Vadodara,Gujarat,272910,4.3
+SEL0219,Varun Kumar Store,Ajmer,Rajasthan,176974,3.7
+SEL0220,Nikhil Verma Store,Ujjain,Madhya Pradesh,487233,3.4
+SEL0221,Pankaj Pandey Store,Howrah,West Bengal,420578,4.5
+SEL0222,Meera Tiwari Store,Faridabad,Haryana,809445,4.4
+SEL0223,Vikram Malhotra Store,Ajmer,Rajasthan,797018,3.4
+SEL0224,Sneha Mehta Store,Jodhpur,Rajasthan,,3.5
+SEL0225,Manish Kumar Store,Jaipur,Rajasthan,602933,
+SEL0226,Varun Tiwari Store,Karimnagar,Telangana,613575,4.3
+SEL0227,Aditi Pillai Store,Udaipur,Rajasthan,541173,4.2
+SEL0228,Divya Joshi Store,Bengaluru,Karnataka,912849,4.3
+SEL0229,Sneha Tiwari Store,Pune,Maharashtra,649954,2.8
+SEL0230,Anjali Patel Store,Nagpur,Maharashtra,395379,3.9
+SEL0231,Riya Sharma Store,Lucknow,Uttar Pradesh,946827,3.2
+SEL0232,Manish Shah Store,Asansol,West Bengal,530118,2.7
+SEL0233,Nikhil Chopra Store,Lucknow,Uttar Pradesh,909436,4.3
+SEL0234,Rohit Joshi Store,Nagpur,Maharashtra,561585,3.3
+SEL0235,Ishaan Saxena Store,Berhampur,Odisha,415037,3.3
+SEL0236,Deepak Saxena Store,Coimbatore,Tamil Nadu,246454,4.1
+SEL0237,Nisha Kumar Store,Jalandhar,Punjab,146119,4.2
+SEL0238,Rohit Das Store,Dwarka,Delhi,440960,3.7
+SEL0239,Gaurav Chopra Store,Khammam,Telangana,470833,3.9
+SEL0240,Rahul Verma Store,Kollam,Kerala,145501,4.6
+SEL0241,Gaurav Gupta Store,Durgapur,West Bengal,739511,2.8
+SEL0242,Pooja Saxena Store,Udaipur,Rajasthan,665278,2.7
+SEL0243,Omkar Iyer Store,Chennai,Tamil Nadu,862838,4.1
+SEL0244,Pooja Malhotra Store,Janakpuri,Delhi,657505,4.0
+SEL0245,Tanvi Saxena Store,Belagavi,Karnataka,261351,3.0
+SEL0246,Deepak Singh Store,Indore,Madhya Pradesh,282583,3.8
+SEL0247,Ishaan Saxena Store,Karimnagar,Telangana,134239,4.4
+SEL0248,Aditi Rao Store,Coimbatore,Tamil Nadu,783407,4.3
+SEL0249,Riya Gupta Store,Hyderabad,Telangana,225750,4.0
+SEL0250,Tarun Agarwal Store,Ajmer,Rajasthan,658254,2.8
+SEL0251,Sunita Rao Store,Indore,Madhya Pradesh,539681,3.3
+SEL0252,Ananya Das Store,Mumbai,Maharashtra,987477,
+SEL0253,Manish Sharma Store,Ujjain,Madhya Pradesh,,
+SEL0254,Mohan Singh Store,Janakpuri,Delhi,658925,3.9
+SEL0255,Anjali Gupta Store,Durgapur,West Bengal,537667,4.3
+SEL0256,Aditi Nair Store,Faridabad,Haryana,650892,4.8
+SEL0257,Deepak Chopra Store,Rourkela,Odisha,567809,4.1
+SEL0258,Aditi Tiwari Store,Surat,Gujarat,974800,3.1
+SEL0259,Sunita Gupta Store,Durgapur,West Bengal,963340,
+SEL0260,Gaurav Mishra Store,Amritsar,Punjab,339823,
+SEL0261,Rahul Shah Store,Amritsar,Punjab,168705,2.9
+SEL0262,Omkar Tiwari Store,Jalandhar,Punjab,948193,3.2
+SEL0263,Rajesh Gupta Store,Nashik,Maharashtra,454789,3.2
+SEL0264,Kiran Kumar Store,Dwarka,Delhi,411300,4.2
+SEL0265,Tanvi Das Store,Warangal,Telangana,806709,
+SEL0266,Ishaan Mishra Store,Kollam,Kerala,744390,3.6
+SEL0267,Tanvi Tiwari Store,Jabalpur,Madhya Pradesh,443288,2.5
+SEL0268,Vijay Das Store,Kochi,Kerala,800767,3.2
+SEL0269,Aditi Tiwari Store,Aurangabad,Maharashtra,725205,2.6
+SEL0270,Rohit Saxena Store,Jodhpur,Rajasthan,301181,4.3
+SEL0271,Tarun Saxena Store,Patiala,Punjab,876520,3.4
+SEL0272,Sneha Chopra Store,Rourkela,Odisha,255044,3.7
+SEL0273,Aditi Singh Store,Patiala,Punjab,625285,4.4
+SEL0274,Vijay Naidu Store,Kolkata,West Bengal,836981,4.7
+SEL0275,Mohan Mishra Store,Patiala,Punjab,832920,3.8
+SEL0276,Yasmin Verma Store,Panipat,Haryana,875793,4.1
+SEL0277,Zara Bose Store,Khammam,Telangana,391768,4.3
+SEL0278,Gaurav Sharma Store,Ghaziabad,Uttar Pradesh,114231,3.2
+SEL0279,Deepak Singh Store,Bhopal,Madhya Pradesh,683949,4.3
+SEL0280,Sanjay Agarwal Store,Ghaziabad,Uttar Pradesh,928242,4.1
+SEL0281,Sneha Malhotra Store,Lucknow,Uttar Pradesh,712129,3.6
+SEL0282,Anjali Shah Store,Ajmer,Rajasthan,717278,3.4
+SEL0283,Aditi Rao Store,Ghaziabad,Uttar Pradesh,767622,4.9
+SEL0284,Deepak Singh Store,Gurugram,Haryana,320713,5.0
+SEL0285,Mohan Kumar Store,Belagavi,Karnataka,694585,4.2
+SEL0286,Tanvi Patel Store,Ludhiana,Punjab,407612,3.5
+SEL0287,Anjali Iyer Store,Gwalior,Madhya Pradesh,843042,4.4
+SEL0288,Varun Mishra Store,Salem,Tamil Nadu,776669,
+SEL0289,Rahul Singh Store,Muzaffarpur,Bihar,147652,3.9
+SEL0290,Anjali Singh Store,Hyderabad,Telangana,702916,2.8
+SEL0291,Ananya Agarwal Store,Siliguri,West Bengal,187540,4.9
+SEL0292,Ishaan Naidu Store,Bengaluru,Karnataka,921964,3.1
+SEL0293,Varun Verma Store,Chennai,Tamil Nadu,755875,3.5
+SEL0294,Tarun Reddy Store,Agra,Uttar Pradesh,211205,3.4
+SEL0295,Rohit Agarwal Store,Howrah,West Bengal,,2.9
+SEL0296,Sneha Nair Store,Rohini,Delhi,561423,2.6
+SEL0297,Anjali Kumar Store,Ludhiana,Punjab,526586,4.8
+SEL0298,Vikram Pandey Store,Cuttack,Odisha,,4.3
+SEL0299,Sneha Pandey Store,Varanasi,Uttar Pradesh,448201,2.6
+SEL0300,Ishaan Tiwari Store,Warangal,Telangana,240308,4.2
+SEL0301,Pooja Pillai Store,Thrissur,Kerala,801219,2.8
+SEL0302,Sneha Nair Store,Vadodara,Gujarat,404823,4.3
+SEL0303,Anjali Saxena Store,Udaipur,Rajasthan,479686,3.8
+SEL0304,Aarav Nair Store,Jabalpur,Madhya Pradesh,185364,4.9
+SEL0305,Deepak Tiwari Store,Berhampur,Odisha,845243,3.6
+SEL0306,Pankaj Kumar Store,Ludhiana,Punjab,552251,4.4
+SEL0307,Arjun Kumar Store,Vadodara,Gujarat,778357,
+SEL0308,Aarav Singh Store,Gandhinagar,Gujarat,897828,4.8
+SEL0309,Pankaj Chopra Store,Nizamabad,Telangana,835618,3.9
+SEL0310,Manish Agarwal Store,Nashik,Maharashtra,113707,3.3
+SEL0311,Sneha Kumar Store,Ahmedabad,Gujarat,990004,2.8
+SEL0312,Nisha Sharma Store,Mumbai,Maharashtra,691746,4.1
+SEL0313,Varun Mehta Store,Cuttack,Odisha,518679,4.4
+SEL0314,Manish Pillai Store,Udaipur,Rajasthan,740450,2.7
+SEL0315,Mohan Saxena Store,Rajkot,Gujarat,303194,2.9
+SEL0316,Sanjay Bose Store,Darbhanga,Bihar,347200,3.5
+SEL0317,Pooja Gupta Store,Tiruchirappalli,Tamil Nadu,146745,4.6
+SEL0318,Ravi Joshi Store,Hisar,Haryana,168992,5.0
+SEL0319,Suresh Rao Store,Cuttack,Odisha,501043,4.4
+SEL0320,Meera Verma Store,New Delhi,Delhi,779758,2.5
+SEL0321,Anjali Verma Store,Kolkata,West Bengal,,4.8
+SEL0322,Sanjay Das Store,Gwalior,Madhya Pradesh,904765,2.6
+SEL0323,Arjun Reddy Store,Gurugram,Haryana,839466,4.7
+SEL0324,Yasmin Naidu Store,Cuttack,Odisha,949379,3.5
+SEL0325,Lakshmi Chopra Store,Surat,Gujarat,197371,4.4
+SEL0326,Gaurav Tiwari Store,Aurangabad,Maharashtra,287736,
+SEL0327,Suresh Das Store,Durgapur,West Bengal,428710,2.9
+SEL0328,Pooja Nair Store,Kochi,Kerala,881476,3.6
+SEL0329,Varun Agarwal Store,Pune,Maharashtra,327358,2.6
+SEL0330,Arjun Reddy Store,Howrah,West Bengal,893723,3.5
+SEL0331,Lakshmi Malhotra Store,Kota,Rajasthan,708889,4.4
+SEL0332,Mohan Das Store,Janakpuri,Delhi,344852,4.1
+SEL0333,Meera Das Store,Mysuru,Karnataka,864081,3.4
+SEL0334,Aarav Kumar Store,Belagavi,Karnataka,,2.5
+SEL0335,Sunita Shah Store,Faridabad,Haryana,596668,
+SEL0336,Omkar Verma Store,New Delhi,Delhi,297716,4.4
+SEL0337,Tanvi Kumar Store,Karimnagar,Telangana,382104,3.4
+SEL0338,Tarun Bose Store,Bengaluru,Karnataka,792753,3.4
+SEL0339,Zara Kumar Store,Bhubaneswar,Odisha,454907,2.7
+SEL0340,Arjun Patel Store,Janakpuri,Delhi,256846,4.0
+SEL0341,Pankaj Singh Store,Chennai,Tamil Nadu,463551,4.1
+SEL0342,Lakshmi Tiwari Store,Vadodara,Gujarat,355517,3.6
+SEL0343,Riya Kumar Store,Dwarka,Delhi,496813,4.4
+SEL0344,Zara Rao Store,Nashik,Maharashtra,531046,4.7
+SEL0345,Pooja Pandey Store,Bhagalpur,Bihar,248764,
+SEL0346,Pooja Malhotra Store,Cuttack,Odisha,404523,3.9
+SEL0347,Rahul Tiwari Store,Belagavi,Karnataka,866311,4.8
+SEL0348,Suresh Joshi Store,Nizamabad,Telangana,626053,3.5
+SEL0349,Nikhil Reddy Store,Ajmer,Rajasthan,133125,4.1
+SEL0350,Deepak Iyer Store,Khammam,Telangana,995173,3.9
+SEL0351,Riya Sharma Store,Amritsar,Punjab,441950,4.6
+SEL0352,Arjun Reddy Store,Kanpur,Uttar Pradesh,103250,3.7
+SEL0353,Yasmin Mishra Store,Bhubaneswar,Odisha,357661,3.9
+SEL0354,Pooja Rao Store,Kollam,Kerala,467985,3.6
+SEL0355,Neha Iyer Store,Khammam,Telangana,817788,2.9
+SEL0356,Ishaan Iyer Store,Kanpur,Uttar Pradesh,712031,4.7
+SEL0357,Ravi Pillai Store,Nagpur,Maharashtra,984740,4.7
+SEL0358,Ananya Naidu Store,Hisar,Haryana,486338,4.3
+SEL0359,Divya Rao Store,Jabalpur,Madhya Pradesh,502581,3.4
+SEL0360,Rahul Rao Store,Jalandhar,Punjab,160562,3.4
+SEL0361,Nisha Tiwari Store,Tiruchirappalli,Tamil Nadu,465015,2.6
+SEL0362,Rohit Bose Store,Ambala,Haryana,962142,2.7
+SEL0363,Ravi Nair Store,Udaipur,Rajasthan,503323,3.8
+SEL0364,Arjun Iyer Store,Salem,Tamil Nadu,336812,2.6
+SEL0365,Divya Verma Store,Rohini,Delhi,475403,2.7
+SEL0366,Nikhil Bose Store,Ghaziabad,Uttar Pradesh,775232,3.1
+SEL0367,Divya Gupta Store,Ahmedabad,Gujarat,882365,3.4
+SEL0368,Divya Nair Store,Nashik,Maharashtra,355087,3.7
+SEL0369,Zara Malhotra Store,Bhagalpur,Bihar,135885,3.3
+SEL0370,Omkar Mishra Store,Hubli,Karnataka,544084,4.9
+SEL0371,Gaurav Patel Store,Thrissur,Kerala,,4.9
+SEL0372,Amit Singh Store,Bhubaneswar,Odisha,132636,2.6
+SEL0373,Meera Agarwal Store,Hisar,Haryana,815235,5.0
+SEL0374,Ishaan Kumar Store,Asansol,West Bengal,127264,2.9
+SEL0375,Ravi Tiwari Store,Janakpuri,Delhi,367653,3.3
+SEL0376,Ravi Patel Store,Rohini,Delhi,923200,4.6
+SEL0377,Omkar Pillai Store,Berhampur,Odisha,181485,4.2
+SEL0378,Omkar Verma Store,Ahmedabad,Gujarat,883080,2.6
+SEL0379,Varun Tiwari Store,Bengaluru,Karnataka,155777,4.4
+SEL0380,Rohit Saxena Store,Salem,Tamil Nadu,803165,4.2
+SEL0381,Ravi Reddy Store,Howrah,West Bengal,509727,4.9
+SEL0382,Meera Reddy Store,Hisar,Haryana,501894,4.8
+SEL0383,Vikram Rao Store,Gaya,Bihar,396759,
+SEL0384,Sanjay Verma Store,Karimnagar,Telangana,741182,3.6
+SEL0385,Neha Malhotra Store,Surat,Gujarat,944084,4.3
+SEL0386,Meera Kumar Store,Vadodara,Gujarat,452002,4.9
+SEL0387,Tanvi Mehta Store,Janakpuri,Delhi,108045,2.5
+SEL0388,Varun Pandey Store,Karimnagar,Telangana,776984,4.5
+SEL0389,Aisha Mehta Store,Saket,Delhi,624640,2.6
+SEL0390,Deepak Saxena Store,Saket,Delhi,956932,
+SEL0391,Nikhil Shah Store,Thrissur,Kerala,963491,2.5
+SEL0392,Rahul Tiwari Store,Faridabad,Haryana,377496,3.9
+SEL0393,Aisha Sharma Store,Warangal,Telangana,712770,3.8
+SEL0394,Suresh Das Store,Rourkela,Odisha,171597,3.3
+SEL0395,Tanvi Tiwari Store,Bengaluru,Karnataka,145898,4.3
+SEL0396,Suresh Mishra Store,Muzaffarpur,Bihar,235592,3.1
+SEL0397,Tanvi Shah Store,Kolkata,West Bengal,179879,3.2
+SEL0398,Kavya Das Store,Salem,Tamil Nadu,603495,
+SEL0399,Ishaan Kumar Store,Udaipur,Rajasthan,841510,4.3
+SEL0400,Aditi Bose Store,Bhagalpur,Bihar,518556,2.9
+SEL0401,Pooja Singh Store,Ghaziabad,Uttar Pradesh,484930,4.7
+SEL0402,Varun Sharma Store,Karimnagar,Telangana,962417,3.2
+SEL0403,Divya Naidu Store,Agra,Uttar Pradesh,184111,3.8
+SEL0404,Gaurav Nair Store,Hyderabad,Telangana,664190,3.7
+SEL0405,Sunita Joshi Store,Muzaffarpur,Bihar,132061,4.3
+SEL0406,Ananya Shah Store,Vadodara,Gujarat,990120,3.1
+SEL0407,Priya Pandey Store,Coimbatore,Tamil Nadu,513635,4.6
+SEL0408,Ravi Patel Store,Kollam,Kerala,454626,4.3
+SEL0409,Deepak Nair Store,Janakpuri,Delhi,698083,
+SEL0410,Gaurav Bose Store,Ajmer,Rajasthan,912194,2.8
+SEL0411,Zara Nair Store,Lucknow,Uttar Pradesh,369846,3.8
+SEL0412,Amit Sharma Store,Gaya,Bihar,735042,5.0
+SEL0413,Omkar Rao Store,Howrah,West Bengal,477980,2.6
+SEL0414,Lakshmi Singh Store,Kollam,Kerala,425592,4.6
+SEL0415,Yasmin Joshi Store,Jodhpur,Rajasthan,107573,4.2
+SEL0416,Pooja Rao Store,Ambala,Haryana,259235,3.0
+SEL0417,Meera Malhotra Store,Rohini,Delhi,762937,3.7
+SEL0418,Neha Naidu Store,Ludhiana,Punjab,700752,4.1
+SEL0419,Arjun Iyer Store,Dwarka,Delhi,221248,4.2
+SEL0420,Ravi Sharma Store,Vadodara,Gujarat,857325,
+SEL0421,Deepak Das Store,Saket,Delhi,433338,4.7
+SEL0422,Amit Reddy Store,Ambala,Haryana,570858,3.3
+SEL0423,Aditi Naidu Store,Jalandhar,Punjab,449242,2.8
+SEL0424,Riya Saxena Store,Karimnagar,Telangana,935324,2.8
+SEL0425,Anjali Mishra Store,Kozhikode,Kerala,969509,4.9
+SEL0426,Lakshmi Rao Store,Amritsar,Punjab,336997,4.9
+SEL0427,Neha Sharma Store,Rajkot,Gujarat,372453,4.5
+SEL0428,Vijay Shah Store,Hisar,Haryana,576954,5.0
+SEL0429,Divya Shah Store,Jaipur,Rajasthan,980599,3.2
+SEL0430,Zara Kumar Store,Gandhinagar,Gujarat,874053,4.6
+SEL0431,Arjun Iyer Store,Bengaluru,Karnataka,806711,3.8
+SEL0432,Aarav Joshi Store,Faridabad,Haryana,945074,4.5
+SEL0433,Sanjay Singh Store,Gurugram,Haryana,,4.0
+SEL0434,Kavya Patel Store,Bathinda,Punjab,866588,4.6
+SEL0435,Priya Chopra Store,Ahmedabad,Gujarat,269938,3.5
+SEL0436,Anjali Pillai Store,Thiruvananthapuram,Kerala,760595,5.0
+SEL0437,Aditi Naidu Store,Siliguri,West Bengal,103038,3.0
+SEL0438,Nikhil Sharma Store,Mysuru,Karnataka,443059,4.2
+SEL0439,Ananya Singh Store,Durgapur,West Bengal,383608,4.5
+SEL0440,Zara Tiwari Store,Nagpur,Maharashtra,710843,
+SEL0441,Pankaj Tiwari Store,Nizamabad,Telangana,582701,
+SEL0442,Tanvi Gupta Store,Lucknow,Uttar Pradesh,831430,3.9
+SEL0443,Deepak Gupta Store,Rohini,Delhi,406861,3.8
+SEL0444,Neha Kumar Store,Chennai,Tamil Nadu,724632,
+SEL0445,Rohit Naidu Store,Madurai,Tamil Nadu,442445,4.4
+SEL0446,Rahul Pandey Store,Kanpur,Uttar Pradesh,403412,3.2
+SEL0447,Aisha Verma Store,Asansol,West Bengal,617839,
+SEL0448,Ananya Chopra Store,Agra,Uttar Pradesh,807792,3.0
+SEL0449,Lakshmi Agarwal Store,Nashik,Maharashtra,500620,3.8
+SEL0450,Mohan Patel Store,Gurugram,Haryana,562610,4.2
+SEL0451,Suresh Kumar Store,Lucknow,Uttar Pradesh,495774,5.0
+SEL0452,Tarun Rao Store,Kozhikode,Kerala,442451,3.2
+SEL0453,Ananya Joshi Store,Amritsar,Punjab,652866,4.1
+SEL0454,Varun Rao Store,Gaya,Bihar,131968,
+SEL0455,Ravi Saxena Store,Hisar,Haryana,482344,4.5
+SEL0456,Divya Shah Store,Ujjain,Madhya Pradesh,308090,4.7
+SEL0457,Divya Patel Store,Howrah,West Bengal,691461,
+SEL0458,Ravi Joshi Store,Kota,Rajasthan,,4.9
+SEL0459,Pooja Agarwal Store,Rourkela,Odisha,216222,3.4
+SEL0460,Ishaan Shah Store,Rourkela,Odisha,636009,4.2
+SEL0461,Vijay Iyer Store,Ajmer,Rajasthan,449730,3.3
+SEL0462,Kiran Kumar Store,Ghaziabad,Uttar Pradesh,474476,4.5
+SEL0463,Nisha Sharma Store,Nagpur,Maharashtra,580879,3.5
+SEL0464,Ananya Verma Store,Hubli,Karnataka,404560,3.9
+SEL0465,Gaurav Patel Store,Amritsar,Punjab,313445,
+SEL0466,Riya Shah Store,Bathinda,Punjab,634027,4.6
+SEL0467,Tarun Singh Store,Surat,Gujarat,666641,3.7
+SEL0468,Riya Mishra Store,Mumbai,Maharashtra,255335,4.1
+SEL0469,Neha Bose Store,Faridabad,Haryana,789118,4.2
+SEL0470,Amit Rao Store,Hyderabad,Telangana,850294,3.2
+SEL0471,Divya Verma Store,Siliguri,West Bengal,582829,4.5
+SEL0472,Tanvi Pandey Store,Bhubaneswar,Odisha,799330,4.6
+SEL0473,Meera Pandey Store,Kozhikode,Kerala,766695,3.8
+SEL0474,Anjali Pandey Store,Ludhiana,Punjab,357402,4.8
+SEL0475,Ishaan Naidu Store,Bhubaneswar,Odisha,411410,2.9
+SEL0476,Omkar Iyer Store,Gandhinagar,Gujarat,370600,3.5
+SEL0477,Sneha Reddy Store,Mangaluru,Karnataka,270503,2.6
+SEL0478,Aarav Saxena Store,Nizamabad,Telangana,402881,3.5
+SEL0479,Lakshmi Tiwari Store,Ghaziabad,Uttar Pradesh,961421,5.0
+SEL0480,Sanjay Saxena Store,Amritsar,Punjab,872103,3.7
+SEL0481,Nikhil Pandey Store,Thrissur,Kerala,307803,3.5
+SEL0482,Arjun Reddy Store,Agra,Uttar Pradesh,178197,4.2
+SEL0483,Kavya Saxena Store,Mysuru,Karnataka,336111,
+SEL0484,Rajesh Das Store,Rajkot,Gujarat,874144,3.4
+SEL0485,Yasmin Gupta Store,Kochi,Kerala,742687,3.8
+SEL0486,Deepak Saxena Store,Kanpur,Uttar Pradesh,679087,3.7
+SEL0487,Sneha Kumar Store,Ahmedabad,Gujarat,582492,4.1
+SEL0488,Rohit Das Store,Nashik,Maharashtra,180720,2.8
+SEL0489,Vikram Naidu Store,New Delhi,Delhi,732985,
+SEL0490,Anjali Singh Store,Kozhikode,Kerala,683500,4.1
+SEL0491,Sunita Naidu Store,Patna,Bihar,638968,3.3
+SEL0492,Suresh Mishra Store,Indore,Madhya Pradesh,520237,4.0
+SEL0493,Sanjay Kumar Store,Ahmedabad,Gujarat,938500,4.9
+SEL0494,Rajesh Chopra Store,Nizamabad,Telangana,711813,4.8
+SEL0495,Amit Chopra Store,Panipat,Haryana,884716,4.3
+SEL0496,Ravi Sharma Store,Pune,Maharashtra,695418,2.9
+SEL0497,Zara Pandey Store,Warangal,Telangana,679558,4.5
+SEL0498,Ravi Mishra Store,Ambala,Haryana,127406,3.6
+SEL0499,Sneha Pandey Store,Rourkela,Odisha,605068,4.9
+SEL0500,Sanjay Iyer Store,Muzaffarpur,Bihar,418682,4.0
+SEL0501,Rohit Reddy Store,Gandhinagar,Gujarat,180794,3.0
+SEL0502,Arjun Kumar Store,Kanpur,Uttar Pradesh,981484,3.3
+SEL0503,Suresh Chopra Store,New Delhi,Delhi,497515,3.3
+SEL0504,Rohit Das Store,Gurugram,Haryana,,3.2
+SEL0505,Aarav Nair Store,Chennai,Tamil Nadu,474970,4.4
+SEL0506,Aisha Iyer Store,Hubli,Karnataka,286949,3.3
+SEL0507,Sneha Shah Store,Ahmedabad,Gujarat,940526,3.0
+SEL0508,Vikram Bose Store,Mysuru,Karnataka,262535,4.0
+SEL0509,Tarun Singh Store,Darbhanga,Bihar,991673,3.7
+SEL0510,Rahul Tiwari Store,Jabalpur,Madhya Pradesh,497458,2.6
+SEL0511,Rohit Rao Store,Ujjain,Madhya Pradesh,519889,3.2
+SEL0512,Rajesh Kumar Store,Agra,Uttar Pradesh,240089,2.6
+SEL0513,Sanjay Naidu Store,Kolkata,West Bengal,494218,4.4
+SEL0514,Yasmin Malhotra Store,Gandhinagar,Gujarat,596073,4.9
+SEL0515,Kavya Patel Store,Pune,Maharashtra,472341,3.8
+SEL0516,Aditi Patel Store,Gwalior,Madhya Pradesh,690364,3.9
+SEL0517,Vijay Saxena Store,Karimnagar,Telangana,500603,4.6
+SEL0518,Neha Mehta Store,Nashik,Maharashtra,395036,2.5
+SEL0519,Arjun Malhotra Store,Cuttack,Odisha,302379,2.9
+SEL0520,Anjali Shah Store,Ludhiana,Punjab,892510,4.1
+SEL0521,Manish Tiwari Store,Aurangabad,Maharashtra,414678,4.4
+SEL0522,Lakshmi Rao Store,Thrissur,Kerala,702683,4.1
+SEL0523,Ravi Bose Store,Bathinda,Punjab,737980,4.8
+SEL0524,Pooja Joshi Store,Kozhikode,Kerala,348405,3.5
+SEL0525,Amit Reddy Store,Warangal,Telangana,360673,
+SEL0526,Ishaan Malhotra Store,Ahmedabad,Gujarat,485496,4.9
+SEL0527,Rohit Pandey Store,Rourkela,Odisha,,4.7
+SEL0528,Lakshmi Mishra Store,Janakpuri,Delhi,109418,2.6
+SEL0529,Ananya Patel Store,Rohini,Delhi,809537,3.4
+SEL0530,Kavya Agarwal Store,Nagpur,Maharashtra,273226,
+SEL0531,Ishaan Singh Store,Jalandhar,Punjab,925049,2.5
+SEL0532,Arjun Rao Store,Ludhiana,Punjab,135709,4.7
+SEL0533,Tanvi Singh Store,Chennai,Tamil Nadu,633019,3.8
+SEL0534,Amit Saxena Store,Patiala,Punjab,984734,2.7
+SEL0535,Sunita Kumar Store,Belagavi,Karnataka,475381,3.6
+SEL0536,Riya Bose Store,Mysuru,Karnataka,885311,3.7
+SEL0537,Vijay Mehta Store,Ghaziabad,Uttar Pradesh,393622,3.4
+SEL0538,Pankaj Das Store,Durgapur,West Bengal,798839,3.6
+SEL0539,Neha Singh Store,Ludhiana,Punjab,552085,4.7
+SEL0540,Nisha Agarwal Store,Madurai,Tamil Nadu,403551,3.3
+SEL0541,Rohit Agarwal Store,Howrah,West Bengal,541526,4.9
+SEL0542,Mohan Kumar Store,Jalandhar,Punjab,960883,4.2
+SEL0543,Vikram Saxena Store,Patiala,Punjab,606884,4.7
+SEL0544,Aditi Agarwal Store,Mangaluru,Karnataka,869330,3.0
+SEL0545,Tarun Chopra Store,Mumbai,Maharashtra,803959,3.7
+SEL0546,Riya Saxena Store,New Delhi,Delhi,957784,3.9
+SEL0547,Lakshmi Bose Store,Hisar,Haryana,901534,2.7
+SEL0548,Arjun Joshi Store,Muzaffarpur,Bihar,829224,3.7
+SEL0549,Rajesh Tiwari Store,Howrah,West Bengal,887954,
+SEL0550,Divya Tiwari Store,Faridabad,Haryana,,
+SEL0551,Suresh Chopra Store,Asansol,West Bengal,897640,4.1
+SEL0552,Divya Reddy Store,Rourkela,Odisha,952463,5.0
+SEL0553,Sanjay Chopra Store,Cuttack,Odisha,186658,3.8
+SEL0554,Pooja Shah Store,Rourkela,Odisha,337090,3.3
+SEL0555,Tanvi Patel Store,Thrissur,Kerala,642860,4.0
+SEL0556,Sunita Iyer Store,Jodhpur,Rajasthan,473523,3.9
+SEL0557,Vikram Tiwari Store,Hisar,Haryana,338651,2.8
+SEL0558,Neha Reddy Store,Indore,Madhya Pradesh,784377,3.0
+SEL0559,Arjun Pillai Store,Saket,Delhi,,4.2
+SEL0560,Aarav Das Store,Mangaluru,Karnataka,321814,4.0
+SEL0561,Amit Verma Store,Belagavi,Karnataka,961163,3.4
+SEL0562,Pankaj Mehta Store,Bhopal,Madhya Pradesh,736939,4.9
+SEL0563,Varun Pillai Store,Patiala,Punjab,558022,4.1
+SEL0564,Deepak Joshi Store,Khammam,Telangana,155043,3.1
+SEL0565,Rahul Singh Store,Siliguri,West Bengal,393891,3.7
+SEL0566,Meera Bose Store,Berhampur,Odisha,692684,4.3
+SEL0567,Rohit Pillai Store,Gaya,Bihar,142613,4.2
+SEL0568,Ravi Shah Store,Hyderabad,Telangana,109044,3.1
+SEL0569,Sunita Sharma Store,Jalandhar,Punjab,890438,4.1
+SEL0570,Mohan Pandey Store,Ujjain,Madhya Pradesh,620749,3.3
+SEL0571,Yasmin Rao Store,Muzaffarpur,Bihar,,3.6
+SEL0572,Divya Pillai Store,Nashik,Maharashtra,,4.2
+SEL0573,Rahul Nair Store,Ahmedabad,Gujarat,201774,4.0
+SEL0574,Sanjay Bose Store,Hubli,Karnataka,619510,4.3
+SEL0575,Priya Kumar Store,Varanasi,Uttar Pradesh,542107,3.5
+SEL0576,Yasmin Gupta Store,Vadodara,Gujarat,566908,4.4
+SEL0577,Sanjay Verma Store,Darbhanga,Bihar,348058,2.5
+SEL0578,Ishaan Gupta Store,Bathinda,Punjab,969841,3.0
+SEL0579,Anjali Mishra Store,Kozhikode,Kerala,910807,4.9
+SEL0580,Varun Saxena Store,Cuttack,Odisha,800913,2.7
+SEL0581,Rohit Nair Store,Mumbai,Maharashtra,427385,4.2
+SEL0582,Sunita Das Store,Nizamabad,Telangana,905045,4.8
+SEL0583,Nisha Kumar Store,Ludhiana,Punjab,300506,4.6
+SEL0584,Ishaan Pillai Store,Bengaluru,Karnataka,450186,4.8
+SEL0585,Pooja Mishra Store,Amritsar,Punjab,257980,5.0
+SEL0586,Pankaj Pillai Store,Jalandhar,Punjab,725412,3.4
+SEL0587,Rohit Sharma Store,Rohini,Delhi,983947,3.3
+SEL0588,Rohit Naidu Store,Kollam,Kerala,945959,2.8
+SEL0589,Sanjay Mishra Store,Mangaluru,Karnataka,101256,3.0
+SEL0590,Anjali Kumar Store,Kozhikode,Kerala,713626,4.1
+SEL0591,Rohit Verma Store,Ahmedabad,Gujarat,680729,3.3
+SEL0592,Ravi Kumar Store,Rourkela,Odisha,186852,3.4
+SEL0593,Vikram Pandey Store,Saket,Delhi,849838,4.1
+SEL0594,Varun Saxena Store,Howrah,West Bengal,412972,2.8
+SEL0595,Vijay Agarwal Store,Patna,Bihar,474060,2.6
+SEL0596,Arjun Sharma Store,Coimbatore,Tamil Nadu,653620,4.5
+SEL0597,Amit Verma Store,Ludhiana,Punjab,129015,4.5
+SEL0598,Kiran Agarwal Store,Dwarka,Delhi,599772,3.5
+SEL0599,Varun Kumar Store,Gwalior,Madhya Pradesh,842233,4.0
+SEL0600,Rajesh Verma Store,Ludhiana,Punjab,669946,
+SEL0601,Mohan Pillai Store,Muzaffarpur,Bihar,937319,3.4
+SEL0602,Yasmin Iyer Store,Kochi,Kerala,525551,2.6
+SEL0603,Tanvi Mehta Store,Kochi,Kerala,753373,3.2
+SEL0604,Ravi Pandey Store,Karimnagar,Telangana,,2.5
+SEL0605,Ananya Patel Store,Bhopal,Madhya Pradesh,221482,3.6
+SEL0606,Omkar Das Store,Warangal,Telangana,961551,
+SEL0607,Manish Reddy Store,Janakpuri,Delhi,904530,3.7
+SEL0608,Priya Singh Store,Gaya,Bihar,840127,3.4
+SEL0609,Aditi Joshi Store,Karimnagar,Telangana,528960,
+SEL0610,Kiran Chopra Store,Hyderabad,Telangana,360815,3.6
+SEL0611,Sunita Shah Store,Hubli,Karnataka,486548,4.7
+SEL0612,Lakshmi Tiwari Store,Darbhanga,Bihar,657265,
+SEL0613,Rajesh Agarwal Store,Bathinda,Punjab,323345,3.3
+SEL0614,Yasmin Verma Store,Coimbatore,Tamil Nadu,440547,4.9
+SEL0615,Amit Saxena Store,Jodhpur,Rajasthan,421561,3.6
+SEL0616,Arjun Pillai Store,Indore,Madhya Pradesh,700640,
+SEL0617,Aisha Reddy Store,Muzaffarpur,Bihar,350136,4.5
+SEL0618,Omkar Nair Store,Mangaluru,Karnataka,596132,3.4
+SEL0619,Ananya Agarwal Store,Ujjain,Madhya Pradesh,367122,3.0
+SEL0620,Ravi Singh Store,Rohini,Delhi,456646,3.2
+SEL0621,Rohit Verma Store,Bathinda,Punjab,695118,4.6
+SEL0622,Yasmin Naidu Store,Ambala,Haryana,547840,4.8
+SEL0623,Lakshmi Nair Store,Gwalior,Madhya Pradesh,571031,2.8
+SEL0624,Suresh Naidu Store,Kota,Rajasthan,516301,4.2
+SEL0625,Tanvi Shah Store,Pune,Maharashtra,603308,2.6
+SEL0626,Vikram Agarwal Store,Kozhikode,Kerala,421790,4.7
+SEL0627,Varun Shah Store,Warangal,Telangana,287568,4.6
+SEL0628,Tanvi Singh Store,Thiruvananthapuram,Kerala,778072,4.4
+SEL0629,Gaurav Shah Store,Varanasi,Uttar Pradesh,489528,4.6
+SEL0630,Divya Shah Store,Janakpuri,Delhi,444729,
+SEL0631,Pankaj Kumar Store,Lucknow,Uttar Pradesh,418440,2.9
+SEL0632,Tarun Rao Store,Janakpuri,Delhi,939169,4.8
+SEL0633,Arjun Naidu Store,Ambala,Haryana,694926,2.9
+SEL0634,Riya Sharma Store,Muzaffarpur,Bihar,167847,3.1
+SEL0635,Kavya Tiwari Store,Chennai,Tamil Nadu,510311,3.6
+SEL0636,Meera Naidu Store,Cuttack,Odisha,209249,3.7
+SEL0637,Divya Bose Store,Khammam,Telangana,465539,2.7
+SEL0638,Rohit Shah Store,Gurugram,Haryana,481101,4.4
+SEL0639,Vikram Iyer Store,Hisar,Haryana,682475,2.8
+SEL0640,Zara Mehta Store,Warangal,Telangana,456382,
+SEL0641,Vijay Tiwari Store,Bhagalpur,Bihar,647618,3.6
+SEL0642,Deepak Naidu Store,Udaipur,Rajasthan,,4.5
+SEL0643,Kiran Sharma Store,Asansol,West Bengal,560480,3.2
+SEL0644,Varun Naidu Store,Warangal,Telangana,259879,4.6
+SEL0645,Suresh Mishra Store,Gurugram,Haryana,184072,3.1
+SEL0646,Pankaj Naidu Store,Jalandhar,Punjab,633284,3.9
+SEL0647,Rajesh Joshi Store,Thrissur,Kerala,207107,3.7
+SEL0648,Amit Reddy Store,Thrissur,Kerala,803036,3.4
+SEL0649,Ishaan Mehta Store,Durgapur,West Bengal,158219,2.5
+SEL0650,Rohit Agarwal Store,Rohini,Delhi,839313,3.5
+SEL0651,Lakshmi Pillai Store,Aurangabad,Maharashtra,191936,2.8
+SEL0652,Kiran Mehta Store,Kozhikode,Kerala,617016,3.1
+SEL0653,Aarav Reddy Store,Ujjain,Madhya Pradesh,435496,
+SEL0654,Gaurav Joshi Store,Vadodara,Gujarat,865385,
+SEL0655,Nikhil Malhotra Store,Mysuru,Karnataka,517729,3.8
+SEL0656,Ravi Naidu Store,Thiruvananthapuram,Kerala,772536,3.9
+SEL0657,Varun Sharma Store,Jaipur,Rajasthan,943605,2.8
+SEL0658,Gaurav Reddy Store,Ahmedabad,Gujarat,137035,2.9
+SEL0659,Kiran Tiwari Store,Hisar,Haryana,724223,
+SEL0660,Mohan Saxena Store,Aurangabad,Maharashtra,922817,3.5
+SEL0661,Aditi Tiwari Store,Siliguri,West Bengal,736558,3.7
+SEL0662,Neha Joshi Store,Faridabad,Haryana,241167,4.7
+SEL0663,Zara Gupta Store,Warangal,Telangana,487858,3.0
+SEL0664,Omkar Iyer Store,Sambalpur,Odisha,271491,4.8
+SEL0665,Tarun Mehta Store,Faridabad,Haryana,944467,4.6
+SEL0666,Tanvi Reddy Store,Thrissur,Kerala,810551,4.8
+SEL0667,Sneha Gupta Store,Thiruvananthapuram,Kerala,437472,4.1
+SEL0668,Tanvi Mehta Store,Cuttack,Odisha,105549,4.7
+SEL0669,Kiran Kumar Store,Agra,Uttar Pradesh,180555,5.0
+SEL0670,Kiran Malhotra Store,Jalandhar,Punjab,962979,3.7
+SEL0671,Sanjay Das Store,Kota,Rajasthan,794910,4.7
+SEL0672,Neha Sharma Store,Ambala,Haryana,133261,4.8
+SEL0673,Mohan Malhotra Store,Indore,Madhya Pradesh,723195,3.3
+SEL0674,Deepak Malhotra Store,Jalandhar,Punjab,111816,3.6
+SEL0675,Tanvi Naidu Store,Cuttack,Odisha,429052,3.9
+SEL0676,Sneha Patel Store,Mysuru,Karnataka,171578,3.4
+SEL0677,Nisha Shah Store,Tiruchirappalli,Tamil Nadu,843541,3.3
+SEL0678,Omkar Pillai Store,Berhampur,Odisha,429077,3.5
+SEL0679,Mohan Pandey Store,New Delhi,Delhi,899280,3.6
+SEL0680,Zara Chopra Store,Jodhpur,Rajasthan,133629,3.1
+SEL0681,Aisha Agarwal Store,Kollam,Kerala,613090,3.7
+SEL0682,Omkar Singh Store,Siliguri,West Bengal,242090,4.4
+SEL0683,Pankaj Kumar Store,Vadodara,Gujarat,829825,4.1
+SEL0684,Divya Das Store,Bhubaneswar,Odisha,585639,3.4
+SEL0685,Rahul Joshi Store,Kota,Rajasthan,277893,2.9
+SEL0686,Pooja Pillai Store,Gaya,Bihar,130451,4.6
+SEL0687,Divya Rao Store,Bengaluru,Karnataka,150582,3.8
+SEL0688,Vikram Sharma Store,Panipat,Haryana,607248,4.9
+SEL0689,Kiran Saxena Store,Siliguri,West Bengal,785257,
+SEL0690,Gaurav Singh Store,Warangal,Telangana,380396,2.9
+SEL0691,Mohan Shah Store,Ambala,Haryana,489618,2.5
+SEL0692,Amit Mehta Store,Panipat,Haryana,924117,2.7
+SEL0693,Sanjay Tiwari Store,Panipat,Haryana,125974,3.5
+SEL0694,Vijay Shah Store,Durgapur,West Bengal,830975,3.0
+SEL0695,Deepak Verma Store,Patiala,Punjab,813394,2.6
+SEL0696,Aisha Agarwal Store,Ambala,Haryana,513927,3.1
+SEL0697,Kiran Shah Store,Kanpur,Uttar Pradesh,930404,
+SEL0698,Neha Das Store,Ahmedabad,Gujarat,371098,4.3
+SEL0699,Ishaan Singh Store,Gurugram,Haryana,444850,2.9
+SEL0700,Zara Singh Store,Jalandhar,Punjab,408877,4.8
+SEL0701,Lakshmi Shah Store,Lucknow,Uttar Pradesh,249269,2.9
+SEL0702,Arjun Shah Store,Kozhikode,Kerala,985164,
+SEL0703,Gaurav Patel Store,Ludhiana,Punjab,466008,2.9
+SEL0704,Aisha Malhotra Store,Kollam,Kerala,718252,2.9
+SEL0705,Varun Joshi Store,Bhubaneswar,Odisha,426760,4.1
+SEL0706,Rahul Joshi Store,Ghaziabad,Uttar Pradesh,551144,2.9
+SEL0707,Kiran Shah Store,Gurugram,Haryana,854534,4.1
+SEL0708,Sanjay Joshi Store,Ajmer,Rajasthan,481075,3.2
+SEL0709,Sanjay Gupta Store,Siliguri,West Bengal,426152,3.1
+SEL0710,Rahul Iyer Store,Nagpur,Maharashtra,812043,4.7
+SEL0711,Suresh Shah Store,Darbhanga,Bihar,710424,3.0
+SEL0712,Meera Mishra Store,Madurai,Tamil Nadu,647636,4.7
+SEL0713,Anjali Mishra Store,Ajmer,Rajasthan,800408,
+SEL0714,Meera Agarwal Store,Belagavi,Karnataka,802673,5.0
+SEL0715,Sanjay Agarwal Store,Darbhanga,Bihar,540868,5.0
+SEL0716,Amit Verma Store,Bhopal,Madhya Pradesh,497101,4.6
+SEL0717,Deepak Singh Store,Kanpur,Uttar Pradesh,312371,
+SEL0718,Meera Naidu Store,Jaipur,Rajasthan,635950,4.6
+SEL0719,Sanjay Sharma Store,Agra,Uttar Pradesh,412922,4.1
+SEL0720,Anjali Agarwal Store,Ahmedabad,Gujarat,414652,4.5
+SEL0721,Tarun Das Store,Gurugram,Haryana,517331,4.1
+SEL0722,Gaurav Das Store,Hisar,Haryana,726625,4.6
+SEL0723,Rohit Patel Store,Gandhinagar,Gujarat,865360,4.8
+SEL0724,Kavya Naidu Store,Bathinda,Punjab,170221,4.4
+SEL0725,Nisha Pandey Store,Ujjain,Madhya Pradesh,416116,4.9
+SEL0726,Ravi Nair Store,Ambala,Haryana,800980,3.6
+SEL0727,Ishaan Bose Store,Howrah,West Bengal,164905,
+SEL0728,Pooja Iyer Store,Hyderabad,Telangana,833838,3.1
+SEL0729,Pooja Tiwari Store,Hubli,Karnataka,222019,2.6
+SEL0730,Lakshmi Pillai Store,Dwarka,Delhi,873621,2.8
+SEL0731,Arjun Tiwari Store,Patiala,Punjab,287725,2.9
+SEL0732,Riya Agarwal Store,Bhubaneswar,Odisha,614461,4.6
+SEL0733,Suresh Bose Store,Dwarka,Delhi,903386,3.5
+SEL0734,Sanjay Shah Store,Hubli,Karnataka,959005,3.1
+SEL0735,Pankaj Reddy Store,Kota,Rajasthan,107299,4.5
+SEL0736,Aisha Verma Store,Ajmer,Rajasthan,805389,3.0
+SEL0737,Ravi Nair Store,Nashik,Maharashtra,876485,2.7
+SEL0738,Deepak Mishra Store,Kollam,Kerala,271756,
+SEL0739,Meera Agarwal Store,Hubli,Karnataka,883138,2.7
+SEL0740,Aditi Agarwal Store,Muzaffarpur,Bihar,830266,3.2
+SEL0741,Riya Reddy Store,Bathinda,Punjab,870455,
+SEL0742,Kiran Gupta Store,Nizamabad,Telangana,281316,3.4
+SEL0743,Gaurav Malhotra Store,Nizamabad,Telangana,648183,2.7
+SEL0744,Suresh Singh Store,Nashik,Maharashtra,984423,3.5
+SEL0745,Aarav Singh Store,Lucknow,Uttar Pradesh,240325,3.8
+SEL0746,Anjali Singh Store,Bengaluru,Karnataka,525983,
+SEL0747,Kavya Tiwari Store,Tiruchirappalli,Tamil Nadu,966414,2.9
+SEL0748,Amit Pandey Store,Kanpur,Uttar Pradesh,566748,4.4
+SEL0749,Aditi Naidu Store,Jalandhar,Punjab,516080,2.7
+SEL0750,Mohan Gupta Store,Ahmedabad,Gujarat,245795,4.9
+SEL0751,Suresh Reddy Store,Gurugram,Haryana,518645,2.5
+SEL0752,Manish Mishra Store,Thrissur,Kerala,117704,4.1
+SEL0753,Sanjay Iyer Store,Rohini,Delhi,123489,2.8
+SEL0754,Arjun Rao Store,Siliguri,West Bengal,936237,3.9
+SEL0755,Kavya Iyer Store,Thrissur,Kerala,242953,3.0
+SEL0756,Ravi Gupta Store,Kolkata,West Bengal,925897,2.6
+SEL0757,Ishaan Sharma Store,Belagavi,Karnataka,889105,4.6
+SEL0758,Anjali Das Store,Saket,Delhi,970966,
+SEL0759,Rahul Joshi Store,New Delhi,Delhi,257845,3.2
+SEL0760,Amit Rao Store,Varanasi,Uttar Pradesh,755386,4.9
+SEL0761,Kiran Pillai Store,Mumbai,Maharashtra,721291,2.7
+SEL0762,Rohit Singh Store,Ujjain,Madhya Pradesh,963894,3.4
+SEL0763,Mohan Shah Store,Siliguri,West Bengal,823303,2.9
+SEL0764,Lakshmi Singh Store,Patna,Bihar,937174,5.0
+SEL0765,Nisha Mishra Store,Thiruvananthapuram,Kerala,781103,3.9
+SEL0766,Vijay Sharma Store,Ghaziabad,Uttar Pradesh,120307,4.5
+SEL0767,Divya Gupta Store,Rohini,Delhi,398072,
+SEL0768,Manish Gupta Store,Saket,Delhi,154928,
+SEL0769,Zara Pandey Store,Udaipur,Rajasthan,286664,4.0
+SEL0770,Mohan Patel Store,Varanasi,Uttar Pradesh,245177,2.9
+SEL0771,Pooja Bose Store,Mysuru,Karnataka,289381,3.8
+SEL0772,Aarav Nair Store,Kolkata,West Bengal,419810,4.8
+SEL0773,Aditi Saxena Store,Panipat,Haryana,206719,
+SEL0774,Meera Pillai Store,Khammam,Telangana,715889,3.4
+SEL0775,Sunita Joshi Store,Faridabad,Haryana,879208,3.8
+SEL0776,Zara Naidu Store,Belagavi,Karnataka,,3.0
+SEL0777,Lakshmi Agarwal Store,Indore,Madhya Pradesh,455764,4.9
+SEL0778,Kiran Rao Store,Bhubaneswar,Odisha,669943,3.8
+SEL0779,Meera Pandey Store,Muzaffarpur,Bihar,,3.0
+SEL0780,Ishaan Joshi Store,Ambala,Haryana,547309,4.6
+SEL0781,Anjali Verma Store,Indore,Madhya Pradesh,535711,3.6
+SEL0782,Zara Das Store,Bengaluru,Karnataka,946358,4.1
+SEL0783,Neha Reddy Store,Rohini,Delhi,390867,4.6
+SEL0784,Amit Sharma Store,Nizamabad,Telangana,334524,3.3
+SEL0785,Nisha Chopra Store,Thiruvananthapuram,Kerala,241105,3.9
+SEL0786,Pooja Reddy Store,Lucknow,Uttar Pradesh,511919,2.6
+SEL0787,Vikram Das Store,Salem,Tamil Nadu,456931,3.1
+SEL0788,Nisha Das Store,Ahmedabad,Gujarat,378565,2.8
+SEL0789,Pankaj Reddy Store,Durgapur,West Bengal,322016,4.1
+SEL0790,Sunita Mishra Store,Gurugram,Haryana,685525,3.1
+SEL0791,Omkar Mehta Store,Gwalior,Madhya Pradesh,630251,4.4
+SEL0792,Sneha Tiwari Store,Asansol,West Bengal,493521,4.4
+SEL0793,Pooja Gupta Store,Nashik,Maharashtra,150609,
+SEL0794,Ravi Pandey Store,Kolkata,West Bengal,334187,2.8
+SEL0795,Rohit Kumar Store,Hyderabad,Telangana,267612,3.8
+SEL0796,Sunita Pandey Store,Salem,Tamil Nadu,735793,4.2
+SEL0797,Zara Patel Store,Nashik,Maharashtra,941929,3.3
+SEL0798,Riya Verma Store,Howrah,West Bengal,452554,3.2
+SEL0799,Deepak Pandey Store,Khammam,Telangana,164858,4.3
+SEL0800,Kiran Pandey Store,Thiruvananthapuram,Kerala,618139,3.4
+SEL0801,Anjali Naidu Store,Kota,Rajasthan,636201,3.1
+SEL0802,Vikram Iyer Store,Bhubaneswar,Odisha,800123,3.9
+SEL0803,Aarav Verma Store,Lucknow,Uttar Pradesh,334079,4.1
+SEL0804,Varun Iyer Store,Asansol,West Bengal,521958,4.4
+SEL0805,Mohan Tiwari Store,Panipat,Haryana,656310,2.6
+SEL0806,Neha Agarwal Store,Ajmer,Rajasthan,530885,2.9
+SEL0807,Sneha Naidu Store,Muzaffarpur,Bihar,562474,4.4
+SEL0808,Deepak Mehta Store,Cuttack,Odisha,359271,3.8
+SEL0809,Pankaj Iyer Store,Belagavi,Karnataka,163142,4.5
+SEL0810,Pankaj Pillai Store,Ujjain,Madhya Pradesh,571648,3.6
+SEL0811,Tarun Saxena Store,Madurai,Tamil Nadu,257663,3.6
+SEL0812,Vikram Gupta Store,Mysuru,Karnataka,476833,3.4
+SEL0813,Nikhil Rao Store,Gandhinagar,Gujarat,652645,
+SEL0814,Divya Iyer Store,Kochi,Kerala,806911,4.0
+SEL0815,Deepak Das Store,Mumbai,Maharashtra,567576,3.5
+SEL0816,Manish Das Store,Kota,Rajasthan,509289,3.0
+SEL0817,Ishaan Sharma Store,Jalandhar,Punjab,795947,2.5
+SEL0818,Rajesh Bose Store,Khammam,Telangana,921365,2.7
+SEL0819,Aarav Pillai Store,Madurai,Tamil Nadu,819945,2.8
+SEL0820,Aisha Shah Store,Bhopal,Madhya Pradesh,315831,
+SEL0821,Pooja Chopra Store,Thiruvananthapuram,Kerala,775207,4.4
+SEL0822,Rahul Kumar Store,Mangaluru,Karnataka,151081,3.6
+SEL0823,Vikram Pandey Store,Ajmer,Rajasthan,737195,3.5
+SEL0824,Ishaan Patel Store,Bengaluru,Karnataka,585752,2.8
+SEL0825,Ravi Verma Store,Bhagalpur,Bihar,426735,4.8
+SEL0826,Mohan Patel Store,Bhopal,Madhya Pradesh,261002,4.3
+SEL0827,Amit Mishra Store,Hisar,Haryana,951154,3.5
+SEL0828,Vikram Singh Store,Belagavi,Karnataka,615138,2.7
+SEL0829,Gaurav Agarwal Store,Sambalpur,Odisha,893964,4.6
+SEL0830,Rajesh Mehta Store,Mangaluru,Karnataka,303853,
+SEL0831,Priya Shah Store,Gurugram,Haryana,486868,4.2
+SEL0832,Neha Saxena Store,Kota,Rajasthan,799452,3.3
+SEL0833,Ishaan Naidu Store,Gandhinagar,Gujarat,130864,4.6
+SEL0834,Ishaan Nair Store,Patna,Bihar,103275,4.0
+SEL0835,Aisha Gupta Store,Coimbatore,Tamil Nadu,333834,3.1
+SEL0836,Riya Saxena Store,Ujjain,Madhya Pradesh,950401,2.5
+SEL0837,Kavya Pillai Store,Ujjain,Madhya Pradesh,422983,3.0
+SEL0838,Aditi Naidu Store,Thrissur,Kerala,241437,3.4
+SEL0839,Tanvi Shah Store,Warangal,Telangana,959608,4.3
+SEL0840,Tanvi Agarwal Store,Coimbatore,Tamil Nadu,479813,3.0
+SEL0841,Pooja Gupta Store,Kozhikode,Kerala,145579,3.2
+SEL0842,Varun Pillai Store,Asansol,West Bengal,734176,3.6
+SEL0843,Ishaan Iyer Store,Aurangabad,Maharashtra,691828,2.6
+SEL0844,Tarun Shah Store,Udaipur,Rajasthan,199177,
+SEL0845,Zara Reddy Store,Jodhpur,Rajasthan,656704,2.7
+SEL0846,Anjali Bose Store,Thiruvananthapuram,Kerala,588034,4.3
+SEL0847,Arjun Kumar Store,Tiruchirappalli,Tamil Nadu,975772,3.2
+SEL0848,Amit Nair Store,Asansol,West Bengal,585509,3.6
+SEL0849,Suresh Mehta Store,Bathinda,Punjab,473185,3.5
+SEL0850,Nisha Pandey Store,Saket,Delhi,169854,3.1
+SEL0851,Suresh Shah Store,Bhubaneswar,Odisha,289636,3.1
+SEL0852,Divya Mehta Store,Gurugram,Haryana,251881,4.9
+SEL0853,Vikram Pandey Store,Ujjain,Madhya Pradesh,948916,3.3
+SEL0854,Varun Kumar Store,Saket,Delhi,151815,3.0
+SEL0855,Zara Verma Store,Agra,Uttar Pradesh,101192,3.1
+SEL0856,Pooja Pillai Store,Aurangabad,Maharashtra,139930,4.2
+SEL0857,Riya Saxena Store,Salem,Tamil Nadu,340969,3.3
+SEL0858,Deepak Bose Store,Chennai,Tamil Nadu,306399,2.9
+SEL0859,Meera Mehta Store,Asansol,West Bengal,921353,3.5
+SEL0860,Kavya Pillai Store,Lucknow,Uttar Pradesh,731468,2.8
+SEL0861,Nisha Sharma Store,Hisar,Haryana,252364,3.5
+SEL0862,Rohit Nair Store,Tiruchirappalli,Tamil Nadu,379759,4.7
+SEL0863,Priya Gupta Store,Patiala,Punjab,131079,3.4
+SEL0864,Priya Pillai Store,Sambalpur,Odisha,223279,
+SEL0865,Rajesh Kumar Store,Jalandhar,Punjab,938223,4.5
+SEL0866,Varun Verma Store,Bengaluru,Karnataka,583099,3.8
+SEL0867,Kiran Reddy Store,Indore,Madhya Pradesh,996921,2.6
+SEL0868,Amit Pandey Store,Hisar,Haryana,650165,3.0
+SEL0869,Arjun Pillai Store,Siliguri,West Bengal,395361,4.7
+SEL0870,Kavya Kumar Store,Khammam,Telangana,477019,4.5
+SEL0871,Aisha Patel Store,Kota,Rajasthan,341314,4.4
+SEL0872,Priya Gupta Store,Gandhinagar,Gujarat,663003,3.9
+SEL0873,Rajesh Sharma Store,Ajmer,Rajasthan,466550,
+SEL0874,Suresh Pandey Store,Nagpur,Maharashtra,329437,4.2
+SEL0875,Rajesh Gupta Store,Faridabad,Haryana,447972,4.2
+SEL0876,Gaurav Rao Store,Hyderabad,Telangana,341158,4.1
+SEL0877,Amit Bose Store,Hisar,Haryana,704880,3.8
+SEL0878,Pankaj Patel Store,New Delhi,Delhi,,3.1
+SEL0879,Sneha Rao Store,Hisar,Haryana,978477,3.6
+SEL0880,Ananya Kumar Store,Siliguri,West Bengal,841668,3.8
+SEL0881,Vikram Mehta Store,Agra,Uttar Pradesh,518480,3.0
+SEL0882,Priya Patel Store,Bathinda,Punjab,712375,3.1
+SEL0883,Yasmin Reddy Store,Agra,Uttar Pradesh,258459,4.5
+SEL0884,Tanvi Das Store,Nashik,Maharashtra,874685,3.3
+SEL0885,Rajesh Naidu Store,Kota,Rajasthan,658426,4.9
+SEL0886,Nisha Pillai Store,Gwalior,Madhya Pradesh,865978,3.6
+SEL0887,Manish Bose Store,Bhagalpur,Bihar,446890,4.0
+SEL0888,Ravi Pillai Store,Nizamabad,Telangana,922811,3.8
+SEL0889,Rohit Chopra Store,Rohini,Delhi,268235,3.7
+SEL0890,Riya Verma Store,Nagpur,Maharashtra,103901,4.7
+SEL0891,Tarun Gupta Store,Rourkela,Odisha,910766,2.7
+SEL0892,Kiran Gupta Store,Mumbai,Maharashtra,524492,3.4
+SEL0893,Arjun Kumar Store,Indore,Madhya Pradesh,848067,3.2
+SEL0894,Arjun Nair Store,Cuttack,Odisha,478133,3.3
+SEL0895,Aarav Patel Store,Khammam,Telangana,920565,
+SEL0896,Omkar Agarwal Store,Siliguri,West Bengal,,2.7
+SEL0897,Vikram Shah Store,Nagpur,Maharashtra,205786,3.2
+SEL0898,Priya Iyer Store,Kollam,Kerala,257370,4.3
+SEL0899,Rahul Reddy Store,Rourkela,Odisha,169334,3.1
+SEL0900,Ananya Iyer Store,Rajkot,Gujarat,776581,4.6
+SEL0901,Kiran Shah Store,Ludhiana,Punjab,391292,3.3
+SEL0902,Rohit Sharma Store,Kota,Rajasthan,136800,2.8
+SEL0903,Aarav Tiwari Store,Kolkata,West Bengal,131110,3.8
+SEL0904,Suresh Tiwari Store,Hisar,Haryana,153477,3.8
+SEL0905,Manish Reddy Store,Pune,Maharashtra,707010,2.6
+SEL0906,Rohit Agarwal Store,Surat,Gujarat,878237,4.3
+SEL0907,Zara Kumar Store,Madurai,Tamil Nadu,857788,2.9
+SEL0908,Aisha Rao Store,Rourkela,Odisha,977114,
+SEL0909,Tarun Joshi Store,Chennai,Tamil Nadu,830944,3.9
+SEL0910,Manish Patel Store,Khammam,Telangana,596292,4.7
+SEL0911,Neha Shah Store,Tiruchirappalli,Tamil Nadu,308808,2.6
+SEL0912,Kavya Shah Store,Rourkela,Odisha,103487,4.6
+SEL0913,Ishaan Singh Store,Bhubaneswar,Odisha,539292,4.4
+SEL0914,Mohan Malhotra Store,Kozhikode,Kerala,471322,2.9
+SEL0915,Aditi Pandey Store,Amritsar,Punjab,920498,3.4
+SEL0916,Varun Mehta Store,Warangal,Telangana,880904,4.8
+SEL0917,Kavya Mishra Store,Vadodara,Gujarat,787133,2.9
+SEL0918,Rohit Shah Store,Warangal,Telangana,178304,2.8
+SEL0919,Kavya Kumar Store,Jodhpur,Rajasthan,147911,4.3
+SEL0920,Aarav Tiwari Store,Panipat,Haryana,942325,3.7
+SEL0921,Rahul Agarwal Store,Patna,Bihar,249408,3.2
+SEL0922,Vikram Chopra Store,Berhampur,Odisha,343426,
+SEL0923,Nikhil Nair Store,Dwarka,Delhi,806468,4.3
+SEL0924,Manish Rao Store,Howrah,West Bengal,619499,3.6
+SEL0925,Riya Verma Store,Mangaluru,Karnataka,511265,3.1
+SEL0926,Sanjay Das Store,Pune,Maharashtra,188095,4.9
+SEL0927,Rajesh Pandey Store,Kochi,Kerala,718645,3.9
+SEL0928,Riya Naidu Store,Patiala,Punjab,107454,3.4
+SEL0929,Yasmin Pandey Store,Bhubaneswar,Odisha,772041,4.3
+SEL0930,Nikhil Rao Store,Howrah,West Bengal,671914,3.7
+SEL0931,Amit Bose Store,Dwarka,Delhi,713497,2.5
+SEL0932,Nisha Patel Store,Darbhanga,Bihar,185240,4.6
+SEL0933,Arjun Gupta Store,Chennai,Tamil Nadu,944043,2.7
+SEL0934,Ishaan Iyer Store,Ludhiana,Punjab,843360,5.0
+SEL0935,Manish Singh Store,Jodhpur,Rajasthan,618109,3.4
+SEL0936,Deepak Pillai Store,Siliguri,West Bengal,572383,3.8
+SEL0937,Arjun Das Store,Patiala,Punjab,471267,5.0
+SEL0938,Ravi Chopra Store,Jabalpur,Madhya Pradesh,,3.2
+SEL0939,Lakshmi Nair Store,Saket,Delhi,550216,3.7
+SEL0940,Anjali Singh Store,Cuttack,Odisha,684855,4.4
+SEL0941,Nisha Bose Store,Rohini,Delhi,791832,3.7
+SEL0942,Mohan Rao Store,Gurugram,Haryana,552090,3.3
+SEL0943,Rahul Reddy Store,Mumbai,Maharashtra,711255,2.8
+SEL0944,Pooja Rao Store,Nizamabad,Telangana,306134,3.8
+SEL0945,Tarun Chopra Store,Cuttack,Odisha,289907,3.9
+SEL0946,Vikram Singh Store,Kochi,Kerala,319443,3.1
+SEL0947,Sneha Chopra Store,Patna,Bihar,814298,3.3
+SEL0948,Zara Reddy Store,Asansol,West Bengal,678682,3.2
+SEL0949,Sneha Tiwari Store,Ghaziabad,Uttar Pradesh,863726,3.6
+SEL0950,Gaurav Sharma Store,Khammam,Telangana,187856,4.5
+SEL0951,Ravi Iyer Store,Tiruchirappalli,Tamil Nadu,232229,
+SEL0952,Manish Iyer Store,Hubli,Karnataka,258591,
+SEL0953,Kiran Mehta Store,Cuttack,Odisha,224612,4.6
+SEL0954,Anjali Bose Store,Kanpur,Uttar Pradesh,153272,4.5
+SEL0955,Kiran Reddy Store,Ambala,Haryana,216365,4.5
+SEL0956,Nikhil Pandey Store,Rajkot,Gujarat,675258,
+SEL0957,Varun Nair Store,Belagavi,Karnataka,631142,4.7
+SEL0958,Mohan Saxena Store,Pune,Maharashtra,488425,4.3
+SEL0959,Anjali Sharma Store,Aurangabad,Maharashtra,412795,2.9
+SEL0960,Deepak Reddy Store,Cuttack,Odisha,,2.6
+SEL0961,Nikhil Chopra Store,Surat,Gujarat,599625,3.0
+SEL0962,Lakshmi Singh Store,Warangal,Telangana,588651,3.4
+SEL0963,Vikram Patel Store,Pune,Maharashtra,783876,2.6
+SEL0964,Meera Bose Store,Salem,Tamil Nadu,733674,4.4
+SEL0965,Lakshmi Agarwal Store,Gandhinagar,Gujarat,937811,4.1
+SEL0966,Arjun Chopra Store,Saket,Delhi,551030,4.3
+SEL0967,Ishaan Patel Store,Pune,Maharashtra,907173,
+SEL0968,Tarun Agarwal Store,Chennai,Tamil Nadu,754431,3.3
+SEL0969,Suresh Kumar Store,Hisar,Haryana,620137,3.6
+SEL0970,Ananya Mishra Store,Jalandhar,Punjab,978965,4.0
+SEL0971,Meera Pandey Store,Cuttack,Odisha,182262,4.5
+SEL0972,Yasmin Verma Store,Aurangabad,Maharashtra,,4.9
+SEL0973,Lakshmi Gupta Store,Gurugram,Haryana,839844,2.7
+SEL0974,Gaurav Das Store,Jalandhar,Punjab,370327,4.1
+SEL0975,Tanvi Pillai Store,Patiala,Punjab,265073,2.8
+SEL0976,Rajesh Agarwal Store,Darbhanga,Bihar,212738,3.2
+SEL0977,Sneha Saxena Store,Thiruvananthapuram,Kerala,841714,4.4
+SEL0978,Meera Agarwal Store,Rajkot,Gujarat,701124,5.0
+SEL0979,Omkar Das Store,Ludhiana,Punjab,180150,3.8
+SEL0980,Nikhil Rao Store,Cuttack,Odisha,996655,3.4
+SEL0981,Ananya Reddy Store,Ambala,Haryana,502751,3.0
+SEL0982,Aisha Shah Store,Mysuru,Karnataka,732490,
+SEL0983,Rajesh Sharma Store,Gandhinagar,Gujarat,976102,4.8
+SEL0984,Sanjay Reddy Store,Hisar,Haryana,645516,4.6
+SEL0985,Pooja Malhotra Store,Belagavi,Karnataka,986377,
+SEL0986,Nikhil Das Store,Chennai,Tamil Nadu,962977,
+SEL0987,Ishaan Malhotra Store,Faridabad,Haryana,314950,4.6
+SEL0988,Tanvi Rao Store,Rajkot,Gujarat,249695,4.8
+SEL0989,Aditi Sharma Store,Kolkata,West Bengal,364881,4.8
+SEL0990,Arjun Pandey Store,Berhampur,Odisha,117209,4.2
+SEL0991,Varun Das Store,Bengaluru,Karnataka,138755,3.0
+SEL0992,Deepak Tiwari Store,Patiala,Punjab,281721,3.3
+SEL0993,Ananya Iyer Store,Nagpur,Maharashtra,,3.2
+SEL0994,Kiran Joshi Store,Jalandhar,Punjab,640597,2.9
+SEL0995,Ananya Chopra Store,Lucknow,Uttar Pradesh,227025,3.1
+SEL0996,Aisha Joshi Store,Lucknow,Uttar Pradesh,129499,
+SEL0997,Ravi Verma Store,Aurangabad,Maharashtra,526146,4.4
+SEL0998,Varun Reddy Store,Agra,Uttar Pradesh,,2.6
+SEL0999,Meera Tiwari Store,Hubli,Karnataka,814043,2.9
+SEL1000,Riya Rao Store,Berhampur,Odisha,824923,5.0
+SEL1001,Arjun Bose Store,Thiruvananthapuram,Kerala,396669,
+SEL1002,Kiran Sharma Store,Mysuru,Karnataka,424752,4.1
+SEL1003,Arjun Agarwal Store,Ajmer,Rajasthan,777317,3.0
+SEL1004,Yasmin Sharma Store,Gandhinagar,Gujarat,191221,3.1
+SEL1005,Aarav Patel Store,Bhagalpur,Bihar,152789,3.7
+SEL1006,Pankaj Kumar Store,Hyderabad,Telangana,180082,
+SEL1007,Aditi Chopra Store,Jabalpur,Madhya Pradesh,,4.1
+SEL1008,Vijay Malhotra Store,Bhubaneswar,Odisha,,2.9
+SEL1009,Sanjay Pandey Store,Mysuru,Karnataka,172581,3.2
+SEL1010,Manish Rao Store,Kochi,Kerala,228350,4.1
+SEL1011,Pankaj Pillai Store,Jaipur,Rajasthan,293667,2.7
+SEL1012,Manish Naidu Store,Lucknow,Uttar Pradesh,458815,
+SEL1013,Nikhil Malhotra Store,Jabalpur,Madhya Pradesh,584442,2.9
+SEL1014,Vikram Singh Store,Ambala,Haryana,672869,3.6
+SEL1015,Rahul Singh Store,Ajmer,Rajasthan,599371,2.8
+SEL1016,Tarun Patel Store,Ahmedabad,Gujarat,661428,4.2
+SEL1017,Aarav Singh Store,Pune,Maharashtra,618077,3.3
+SEL1018,Aditi Patel Store,Jabalpur,Madhya Pradesh,250692,2.7
+SEL1019,Mohan Singh Store,Nashik,Maharashtra,857872,4.0
+SEL1020,Neha Pillai Store,Jodhpur,Rajasthan,474332,5.0
+SEL1021,Rajesh Bose Store,Panipat,Haryana,110733,4.7
+SEL1022,Ishaan Pandey Store,Thiruvananthapuram,Kerala,294523,4.3
+SEL1023,Varun Shah Store,Jaipur,Rajasthan,774741,2.5
+SEL1024,Tarun Das Store,Ajmer,Rajasthan,554498,4.6
+SEL1025,Ravi Chopra Store,Asansol,West Bengal,195165,4.7
+SEL1026,Zara Rao Store,Ghaziabad,Uttar Pradesh,284554,2.6
+SEL1027,Mohan Malhotra Store,Ghaziabad,Uttar Pradesh,820170,
+SEL1028,Sneha Malhotra Store,Mysuru,Karnataka,637256,3.6
+SEL1029,Kiran Patel Store,Karimnagar,Telangana,762209,3.5
+SEL1030,Rohit Patel Store,Varanasi,Uttar Pradesh,706911,3.2
+SEL1031,Kavya Nair Store,Ludhiana,Punjab,799101,3.0
+SEL1032,Vijay Shah Store,Bhagalpur,Bihar,326281,3.9
+SEL1033,Rajesh Chopra Store,Berhampur,Odisha,824259,4.4
+SEL1034,Omkar Tiwari Store,Belagavi,Karnataka,393941,4.8
+SEL1035,Tarun Mishra Store,Pune,Maharashtra,728399,3.3
+SEL1036,Priya Saxena Store,Kota,Rajasthan,242856,4.3
+SEL1037,Riya Agarwal Store,Bathinda,Punjab,503817,4.5
+SEL1038,Rohit Pillai Store,Udaipur,Rajasthan,975442,3.7
+SEL1039,Aisha Bose Store,Mangaluru,Karnataka,185355,4.8
+SEL1040,Suresh Kumar Store,Jodhpur,Rajasthan,123153,2.6
+SEL1041,Amit Saxena Store,Rourkela,Odisha,206281,4.8
+SEL1042,Aarav Verma Store,Jodhpur,Rajasthan,326266,4.7
+SEL1043,Aditi Verma Store,Hisar,Haryana,652970,2.8
+SEL1044,Manish Das Store,Rohini,Delhi,,3.6
+SEL1045,Neha Naidu Store,Jodhpur,Rajasthan,428998,3.8
+SEL1046,Sunita Agarwal Store,Varanasi,Uttar Pradesh,397904,3.5
+SEL1047,Anjali Mishra Store,Bhagalpur,Bihar,,4.7
+SEL1048,Ananya Mishra Store,Howrah,West Bengal,181702,4.3
+SEL1049,Suresh Gupta Store,Varanasi,Uttar Pradesh,355288,2.8
+SEL1050,Tanvi Malhotra Store,Lucknow,Uttar Pradesh,,4.8
+SEL1051,Ravi Naidu Store,Bhopal,Madhya Pradesh,482976,2.6
+SEL1052,Ananya Kumar Store,Jabalpur,Madhya Pradesh,102732,4.0
+SEL1053,Omkar Agarwal Store,Mysuru,Karnataka,,3.8
+SEL1054,Mohan Naidu Store,Patiala,Punjab,578629,2.7
+SEL1055,Arjun Agarwal Store,Agra,Uttar Pradesh,286909,4.2
+SEL1056,Arjun Gupta Store,Hubli,Karnataka,924337,4.9
+SEL1057,Aditi Malhotra Store,Aurangabad,Maharashtra,476052,3.6
+SEL1058,Amit Iyer Store,Kolkata,West Bengal,224548,3.8
+SEL1059,Nikhil Naidu Store,Hisar,Haryana,748211,3.5
+SEL1060,Aisha Kumar Store,Hyderabad,Telangana,646879,4.7
+SEL1061,Rohit Rao Store,Mysuru,Karnataka,265462,
+SEL1062,Yasmin Pandey Store,Bengaluru,Karnataka,381427,3.5
+SEL1063,Zara Naidu Store,Gurugram,Haryana,736505,4.7
+SEL1064,Rajesh Iyer Store,Coimbatore,Tamil Nadu,158900,
+SEL1065,Meera Shah Store,Faridabad,Haryana,,3.6
+SEL1066,Suresh Sharma Store,Khammam,Telangana,663940,3.1
+SEL1067,Sunita Rao Store,Gandhinagar,Gujarat,182258,3.1
+SEL1068,Ananya Reddy Store,Nagpur,Maharashtra,526266,4.6
+SEL1069,Vikram Reddy Store,Udaipur,Rajasthan,648026,4.3
+SEL1070,Riya Singh Store,Coimbatore,Tamil Nadu,732721,2.7
+SEL1071,Rohit Malhotra Store,Pune,Maharashtra,117382,4.4
+SEL1072,Lakshmi Pillai Store,Cuttack,Odisha,878013,3.9
+SEL1073,Aarav Joshi Store,Janakpuri,Delhi,290769,4.5
+SEL1074,Nikhil Pillai Store,Khammam,Telangana,852140,4.0
+SEL1075,Priya Pandey Store,Kota,Rajasthan,821500,3.4
+SEL1076,Sanjay Malhotra Store,Kota,Rajasthan,202255,
+SEL1077,Ananya Kumar Store,Mysuru,Karnataka,597251,2.9
+SEL1078,Nisha Reddy Store,Sambalpur,Odisha,254710,3.3
+SEL1079,Ananya Iyer Store,Hubli,Karnataka,141924,2.6
+SEL1080,Neha Bose Store,Panipat,Haryana,284516,3.5
+SEL1081,Riya Mishra Store,Bathinda,Punjab,607655,2.7
+SEL1082,Arjun Agarwal Store,Gaya,Bihar,571958,4.2
+SEL1083,Sunita Patel Store,Darbhanga,Bihar,223379,4.8
+SEL1084,Suresh Reddy Store,Warangal,Telangana,504590,4.4
+SEL1085,Gaurav Tiwari Store,Kozhikode,Kerala,156709,3.0
+SEL1086,Lakshmi Pandey Store,Ambala,Haryana,924955,3.8
+SEL1087,Yasmin Mishra Store,New Delhi,Delhi,610749,4.3
+SEL1088,Aarav Reddy Store,Ambala,Haryana,656619,
+SEL1089,Pankaj Chopra Store,Howrah,West Bengal,568537,3.2
+SEL1090,Manish Reddy Store,Bhubaneswar,Odisha,734914,3.7
+SEL1091,Ishaan Patel Store,Patna,Bihar,215108,2.8
+SEL1092,Pooja Pillai Store,Salem,Tamil Nadu,546539,4.3
+SEL1093,Gaurav Joshi Store,Nizamabad,Telangana,,3.6
+SEL1094,Omkar Iyer Store,Rohini,Delhi,519131,2.6
+SEL1095,Aisha Pandey Store,Ghaziabad,Uttar Pradesh,857792,3.8
+SEL1096,Sunita Reddy Store,Jabalpur,Madhya Pradesh,389017,4.5
+SEL1097,Rohit Sharma Store,Aurangabad,Maharashtra,587026,2.6
+SEL1098,Lakshmi Gupta Store,Sambalpur,Odisha,409202,3.5
+SEL1099,Ishaan Chopra Store,Darbhanga,Bihar,338893,3.7
+SEL1100,Pankaj Iyer Store,Ujjain,Madhya Pradesh,749506,5.0
+SEL1101,Aisha Verma Store,Ahmedabad,Gujarat,428373,3.0
+SEL1102,Pankaj Mishra Store,New Delhi,Delhi,659312,4.5
+SEL1103,Sanjay Naidu Store,Ambala,Haryana,247683,2.9
+SEL1104,Sanjay Tiwari Store,Darbhanga,Bihar,663485,4.9
+SEL1105,Kavya Mishra Store,Dwarka,Delhi,491199,3.3
+SEL1106,Zara Joshi Store,Cuttack,Odisha,908014,2.9
+SEL1107,Pankaj Singh Store,Panipat,Haryana,433498,3.5
+SEL1108,Vijay Malhotra Store,Kota,Rajasthan,206700,2.5
+SEL1109,Priya Kumar Store,Jaipur,Rajasthan,,2.8
+SEL1110,Vikram Malhotra Store,Panipat,Haryana,702540,
+SEL1111,Yasmin Joshi Store,New Delhi,Delhi,294091,4.9
+SEL1112,Suresh Das Store,Amritsar,Punjab,687247,3.6
+SEL1113,Varun Das Store,Kanpur,Uttar Pradesh,558945,4.2
+SEL1114,Tanvi Rao Store,Durgapur,West Bengal,120924,4.3
+SEL1115,Zara Verma Store,Ajmer,Rajasthan,115233,2.6
+SEL1116,Anjali Gupta Store,Ujjain,Madhya Pradesh,636834,3.3
+SEL1117,Rahul Verma Store,Aurangabad,Maharashtra,171863,
+SEL1118,Ishaan Pillai Store,Khammam,Telangana,934577,2.5
+SEL1119,Sunita Gupta Store,Pune,Maharashtra,,3.7
+SEL1120,Manish Mishra Store,Hubli,Karnataka,881303,4.6
+SEL1121,Arjun Rao Store,Bhopal,Madhya Pradesh,326460,3.2
+SEL1122,Lakshmi Shah Store,Kozhikode,Kerala,371453,5.0
+SEL1123,Divya Malhotra Store,Asansol,West Bengal,574572,3.7
+SEL1124,Aditi Verma Store,Bengaluru,Karnataka,731707,4.8
+SEL1125,Kiran Pillai Store,Rajkot,Gujarat,983846,3.8
+SEL1126,Tarun Malhotra Store,Thrissur,Kerala,568360,
+SEL1127,Tanvi Gupta Store,Kollam,Kerala,349857,4.3
+SEL1128,Riya Pillai Store,Gurugram,Haryana,134346,4.9
+SEL1129,Priya Verma Store,Chennai,Tamil Nadu,438285,3.4
+SEL1130,Yasmin Mehta Store,Ahmedabad,Gujarat,601516,4.7
+SEL1131,Amit Chopra Store,Indore,Madhya Pradesh,658079,4.1
+SEL1132,Kavya Rao Store,Hubli,Karnataka,471578,3.4
+SEL1133,Kiran Mishra Store,Darbhanga,Bihar,552030,2.6
+SEL1134,Nikhil Gupta Store,Indore,Madhya Pradesh,873269,3.3
+SEL1135,Nikhil Pillai Store,Bhagalpur,Bihar,861139,4.6
+SEL1136,Divya Tiwari Store,Rajkot,Gujarat,882449,2.7
+SEL1137,Nikhil Naidu Store,Hubli,Karnataka,127650,3.9
+SEL1138,Tarun Mishra Store,Pune,Maharashtra,975595,3.8
+SEL1139,Arjun Malhotra Store,Hyderabad,Telangana,595225,
+SEL1140,Sanjay Iyer Store,Kollam,Kerala,672450,4.8
+SEL1141,Rahul Reddy Store,Ahmedabad,Gujarat,467869,4.4
+SEL1142,Gaurav Reddy Store,Saket,Delhi,820825,3.8
+SEL1143,Deepak Naidu Store,Howrah,West Bengal,221527,4.6
+SEL1144,Meera Agarwal Store,Coimbatore,Tamil Nadu,763320,4.3
+SEL1145,Lakshmi Das Store,Bhopal,Madhya Pradesh,452440,4.7
+SEL1146,Arjun Bose Store,Faridabad,Haryana,594959,4.3
+SEL1147,Pooja Patel Store,Belagavi,Karnataka,316318,4.4
+SEL1148,Tarun Iyer Store,Kollam,Kerala,503485,2.7
+SEL1149,Mohan Singh Store,Ghaziabad,Uttar Pradesh,274922,2.5
+SEL1150,Pankaj Chopra Store,Kanpur,Uttar Pradesh,294687,4.9
+SEL1151,Nikhil Sharma Store,Jabalpur,Madhya Pradesh,651856,3.1
+SEL1152,Varun Patel Store,Indore,Madhya Pradesh,352955,2.9
+SEL1153,Riya Rao Store,Sambalpur,Odisha,388804,2.9
+SEL1154,Varun Sharma Store,Gandhinagar,Gujarat,380924,4.3
+SEL1155,Deepak Joshi Store,Kanpur,Uttar Pradesh,799427,2.6
+SEL1156,Vijay Chopra Store,Hisar,Haryana,347624,
+SEL1157,Aisha Saxena Store,Gurugram,Haryana,410080,3.9
+SEL1158,Lakshmi Mehta Store,Kollam,Kerala,676039,2.9
+SEL1159,Sunita Chopra Store,Salem,Tamil Nadu,380007,2.8
+SEL1160,Sanjay Tiwari Store,Rohini,Delhi,790261,2.8
+SEL1161,Aarav Rao Store,Salem,Tamil Nadu,806972,3.1
+SEL1162,Aditi Singh Store,Varanasi,Uttar Pradesh,490153,4.1
+SEL1163,Vijay Malhotra Store,Lucknow,Uttar Pradesh,171808,3.0
+SEL1164,Pooja Tiwari Store,Patiala,Punjab,282996,4.2
+SEL1165,Kiran Gupta Store,Mumbai,Maharashtra,694593,4.9
+SEL1166,Sneha Verma Store,Patiala,Punjab,390511,4.7
+SEL1167,Manish Joshi Store,Jodhpur,Rajasthan,582729,4.5
+SEL1168,Sanjay Kumar Store,Gurugram,Haryana,,4.9
+SEL1169,Nisha Chopra Store,Warangal,Telangana,735420,4.0
+SEL1170,Aditi Tiwari Store,Udaipur,Rajasthan,641510,4.4
+SEL1171,Aisha Singh Store,Durgapur,West Bengal,610729,4.4
+SEL1172,Ishaan Agarwal Store,Jabalpur,Madhya Pradesh,,
+SEL1173,Neha Reddy Store,Cuttack,Odisha,193399,
+SEL1174,Anjali Malhotra Store,Janakpuri,Delhi,242988,3.2
+SEL1175,Tarun Naidu Store,Warangal,Telangana,432554,3.0
+SEL1176,Ishaan Agarwal Store,Karimnagar,Telangana,747258,
+SEL1177,Omkar Verma Store,Janakpuri,Delhi,366831,4.4
+SEL1178,Ravi Rao Store,Jalandhar,Punjab,311295,4.1
+SEL1179,Yasmin Joshi Store,Aurangabad,Maharashtra,615514,3.0
+SEL1180,Tarun Shah Store,New Delhi,Delhi,127820,4.6
+SEL1181,Lakshmi Naidu Store,Jaipur,Rajasthan,356543,5.0
+SEL1182,Rahul Bose Store,Rajkot,Gujarat,555005,4.4
+SEL1183,Manish Tiwari Store,Dwarka,Delhi,202139,2.7
+SEL1184,Vikram Gupta Store,Kanpur,Uttar Pradesh,463463,4.1
+SEL1185,Sunita Joshi Store,Faridabad,Haryana,274742,4.8
+SEL1186,Mohan Saxena Store,Gandhinagar,Gujarat,425518,
+SEL1187,Kiran Patel Store,Hyderabad,Telangana,798268,4.0
+SEL1188,Priya Verma Store,Coimbatore,Tamil Nadu,592558,3.1
+SEL1189,Lakshmi Malhotra Store,Coimbatore,Tamil Nadu,689152,4.7
+SEL1190,Nisha Tiwari Store,Rourkela,Odisha,237336,4.7
+SEL1191,Aisha Nair Store,Bhopal,Madhya Pradesh,531105,3.4
+SEL1192,Kiran Joshi Store,Udaipur,Rajasthan,645175,3.4
+SEL1193,Ravi Bose Store,Mysuru,Karnataka,768194,
+SEL1194,Zara Agarwal Store,Mumbai,Maharashtra,781698,3.3
+SEL1195,Neha Malhotra Store,Ambala,Haryana,110248,4.5
+SEL1196,Nikhil Mishra Store,Kollam,Kerala,138202,2.6
+SEL1197,Sneha Naidu Store,Thiruvananthapuram,Kerala,157118,3.0
+SEL1198,Ishaan Bose Store,Kollam,Kerala,753569,4.3
+SEL1199,Tanvi Saxena Store,New Delhi,Delhi,689545,
+SEL1200,Aditi Sharma Store,Rohini,Delhi,683980,5.0
+SEL1201,Ishaan Pillai Store,Kota,Rajasthan,,3.5
+SEL1202,Mohan Chopra Store,Kota,Rajasthan,112980,2.8
+SEL1203,Zara Joshi Store,Sambalpur,Odisha,518146,4.2
+SEL1204,Vikram Mehta Store,Chennai,Tamil Nadu,534017,2.7
+SEL1205,Riya Verma Store,Sambalpur,Odisha,838703,2.8
+SEL1206,Vijay Agarwal Store,Ambala,Haryana,459288,3.9
+SEL1207,Mohan Agarwal Store,Indore,Madhya Pradesh,913621,3.7
+SEL1208,Deepak Verma Store,Bhagalpur,Bihar,226661,3.2
+SEL1209,Riya Joshi Store,Siliguri,West Bengal,700088,3.7
+SEL1210,Sanjay Gupta Store,Ambala,Haryana,920625,4.7
+SEL1211,Gaurav Malhotra Store,Muzaffarpur,Bihar,597316,
+SEL1212,Lakshmi Chopra Store,Mangaluru,Karnataka,605924,
+SEL1213,Ravi Singh Store,Gaya,Bihar,,3.3
+SEL1214,Aditi Chopra Store,Jodhpur,Rajasthan,481741,4.0
+SEL1215,Sneha Pandey Store,Coimbatore,Tamil Nadu,527452,2.5
+SEL1216,Aisha Chopra Store,Janakpuri,Delhi,464239,4.3
+SEL1217,Mohan Patel Store,Rourkela,Odisha,719391,4.5
+SEL1218,Gaurav Reddy Store,Salem,Tamil Nadu,332587,2.8
+SEL1219,Arjun Iyer Store,Aurangabad,Maharashtra,171722,3.5
+SEL1220,Yasmin Joshi Store,Amritsar,Punjab,973961,2.9
+SEL1221,Vikram Tiwari Store,Nagpur,Maharashtra,619454,4.9
+SEL1222,Rajesh Reddy Store,Coimbatore,Tamil Nadu,883426,4.6
+SEL1223,Meera Rao Store,Warangal,Telangana,807886,2.6
+SEL1224,Meera Patel Store,Varanasi,Uttar Pradesh,109856,4.9
+SEL1225,Pooja Chopra Store,Ajmer,Rajasthan,147971,2.9
+SEL1226,Aditi Reddy Store,Khammam,Telangana,315327,2.7
+SEL1227,Anjali Das Store,Durgapur,West Bengal,268297,2.6
+SEL1228,Gaurav Naidu Store,Dwarka,Delhi,433450,
+SEL1229,Kavya Patel Store,Darbhanga,Bihar,346160,4.8
+SEL1230,Kavya Bose Store,Udaipur,Rajasthan,230226,2.7
+SEL1231,Aisha Shah Store,Salem,Tamil Nadu,347699,5.0
+SEL1232,Ananya Joshi Store,Panipat,Haryana,688165,3.3
+SEL1233,Zara Reddy Store,Kolkata,West Bengal,115003,4.2
+SEL1234,Nisha Joshi Store,Kolkata,West Bengal,790139,5.0
+SEL1235,Priya Das Store,Pune,Maharashtra,751113,2.5
+SEL1236,Ananya Reddy Store,Bhubaneswar,Odisha,136992,3.9
+SEL1237,Lakshmi Das Store,Janakpuri,Delhi,246376,4.1
+SEL1238,Ananya Tiwari Store,Hisar,Haryana,869285,
+SEL1239,Sneha Chopra Store,Nagpur,Maharashtra,938890,
+SEL1240,Pankaj Mehta Store,Rohini,Delhi,236035,4.1
+SEL1241,Aarav Tiwari Store,Kochi,Kerala,746341,2.6
+SEL1242,Sunita Chopra Store,Salem,Tamil Nadu,734709,4.8
+SEL1243,Ravi Malhotra Store,Dwarka,Delhi,878922,
+SEL1244,Vikram Bose Store,Rourkela,Odisha,821780,4.8
+SEL1245,Amit Mishra Store,New Delhi,Delhi,153721,4.6
+SEL1246,Ishaan Nair Store,Udaipur,Rajasthan,352141,2.5
+SEL1247,Nisha Kumar Store,Nagpur,Maharashtra,932605,3.6
+SEL1248,Varun Nair Store,Sambalpur,Odisha,733756,4.7
+SEL1249,Pooja Sharma Store,Patiala,Punjab,473472,3.4
+SEL1250,Ananya Das Store,Janakpuri,Delhi,319990,3.3
+SEL1251,Tarun Malhotra Store,Kollam,Kerala,311059,4.2
+SEL1252,Pooja Bose Store,Madurai,Tamil Nadu,421028,4.3
+SEL1253,Rohit Pandey Store,Kollam,Kerala,669739,4.1
+SEL1254,Mohan Iyer Store,Hyderabad,Telangana,110979,3.4
+SEL1255,Varun Bose Store,Sambalpur,Odisha,591610,2.7
+SEL1256,Nisha Malhotra Store,Agra,Uttar Pradesh,940858,
+SEL1257,Gaurav Patel Store,Madurai,Tamil Nadu,675722,
+SEL1258,Vijay Pillai Store,Mysuru,Karnataka,451903,4.5
+SEL1259,Meera Verma Store,Jaipur,Rajasthan,,
+SEL1260,Pankaj Agarwal Store,Rajkot,Gujarat,191797,3.7
+SEL1261,Gaurav Mehta Store,Tiruchirappalli,Tamil Nadu,217388,3.4
+SEL1262,Kavya Patel Store,New Delhi,Delhi,,2.7
+SEL1263,Sanjay Chopra Store,Hyderabad,Telangana,484889,3.3
+SEL1264,Sneha Joshi Store,Ludhiana,Punjab,398271,4.9
+SEL1265,Omkar Naidu Store,Nagpur,Maharashtra,437738,2.8
+SEL1266,Lakshmi Bose Store,Panipat,Haryana,226769,3.9
+SEL1267,Yasmin Tiwari Store,Jodhpur,Rajasthan,263932,4.9
+SEL1268,Omkar Naidu Store,Kozhikode,Kerala,379569,2.6
+SEL1269,Tarun Patel Store,Khammam,Telangana,412175,2.7
+SEL1270,Arjun Bose Store,Kanpur,Uttar Pradesh,572208,4.8
+SEL1271,Sneha Mishra Store,Thrissur,Kerala,648687,4.3
+SEL1272,Kavya Pillai Store,Janakpuri,Delhi,800283,3.9
+SEL1273,Zara Chopra Store,Jabalpur,Madhya Pradesh,596425,3.8
+SEL1274,Rajesh Iyer Store,Thrissur,Kerala,232636,4.9
+SEL1275,Gaurav Pandey Store,Hisar,Haryana,814068,2.6
+SEL1276,Nikhil Rao Store,Hubli,Karnataka,572174,3.2
+SEL1277,Nikhil Saxena Store,Kota,Rajasthan,963266,3.3
+SEL1278,Kiran Saxena Store,Varanasi,Uttar Pradesh,721189,2.8
+SEL1279,Yasmin Reddy Store,Durgapur,West Bengal,775523,3.4
+SEL1280,Aarav Singh Store,Kochi,Kerala,737019,3.4
+SEL1281,Sunita Pandey Store,Nizamabad,Telangana,364869,4.9
+SEL1282,Kiran Kumar Store,Patiala,Punjab,335992,3.6
+SEL1283,Ravi Reddy Store,Gandhinagar,Gujarat,469478,4.8
+SEL1284,Meera Reddy Store,Thrissur,Kerala,506127,4.5
+SEL1285,Sanjay Nair Store,Varanasi,Uttar Pradesh,510513,4.3
+SEL1286,Aarav Agarwal Store,Rourkela,Odisha,247179,3.3
+SEL1287,Pankaj Mehta Store,Hyderabad,Telangana,286769,3.6
+SEL1288,Nikhil Tiwari Store,Pune,Maharashtra,618696,2.6
+SEL1289,Vijay Tiwari Store,Udaipur,Rajasthan,152080,3.4
+SEL1290,Kiran Reddy Store,Sambalpur,Odisha,122107,4.7
+SEL1291,Gaurav Iyer Store,Jabalpur,Madhya Pradesh,648160,
+SEL1292,Sunita Iyer Store,Ujjain,Madhya Pradesh,992982,
+SEL1293,Amit Shah Store,Ghaziabad,Uttar Pradesh,275098,3.1
+SEL1294,Neha Chopra Store,Mumbai,Maharashtra,757648,3.0
+SEL1295,Deepak Malhotra Store,Mumbai,Maharashtra,757781,4.2
+SEL1296,Pooja Nair Store,Rourkela,Odisha,668450,4.1
+SEL1297,Pankaj Reddy Store,Gandhinagar,Gujarat,827839,3.0
+SEL1298,Tanvi Nair Store,Mysuru,Karnataka,689521,
+SEL1299,Nisha Sharma Store,Kollam,Kerala,567462,3.4
+SEL1300,Omkar Kumar Store,Ahmedabad,Gujarat,299645,4.7
+SEL1301,Manish Patel Store,Jodhpur,Rajasthan,650143,3.4
+SEL1302,Arjun Kumar Store,Sambalpur,Odisha,604355,3.1
+SEL1303,Neha Singh Store,Surat,Gujarat,607702,3.0
+SEL1304,Neha Verma Store,Jaipur,Rajasthan,268957,4.7
+SEL1305,Aditi Tiwari Store,Amritsar,Punjab,384247,4.7
+SEL1306,Nisha Patel Store,Kolkata,West Bengal,486987,3.6
+SEL1307,Rajesh Patel Store,Kozhikode,Kerala,893231,3.1
+SEL1308,Varun Agarwal Store,Kota,Rajasthan,738706,3.2
+SEL1309,Lakshmi Rao Store,Gurugram,Haryana,470054,3.5
+SEL1310,Mohan Mishra Store,Jalandhar,Punjab,317399,2.6
+SEL1311,Arjun Malhotra Store,Mumbai,Maharashtra,569884,2.7
+SEL1312,Rajesh Chopra Store,Hyderabad,Telangana,737780,4.8
+SEL1313,Rohit Bose Store,Rohini,Delhi,112178,4.4
+SEL1314,Vikram Singh Store,Kanpur,Uttar Pradesh,924548,4.5
+SEL1315,Nisha Pillai Store,Nizamabad,Telangana,653064,3.7
+SEL1316,Pankaj Das Store,Salem,Tamil Nadu,542979,3.4
+SEL1317,Ishaan Mishra Store,Bhopal,Madhya Pradesh,202175,2.7
+SEL1318,Manish Sharma Store,Thrissur,Kerala,148326,3.9
+SEL1319,Nisha Pandey Store,Rajkot,Gujarat,468269,4.4
+SEL1320,Vijay Agarwal Store,Hisar,Haryana,152042,3.0
+SEL1321,Kiran Kumar Store,Ludhiana,Punjab,354687,3.5
+SEL1322,Yasmin Agarwal Store,Rajkot,Gujarat,865516,4.8
+SEL1323,Lakshmi Shah Store,Kolkata,West Bengal,354192,4.6
+SEL1324,Aisha Bose Store,Berhampur,Odisha,911079,4.5
+SEL1325,Zara Bose Store,Nizamabad,Telangana,749124,2.6
+SEL1326,Divya Saxena Store,Nagpur,Maharashtra,239426,2.9
+SEL1327,Varun Naidu Store,Rohini,Delhi,472059,3.3
+SEL1328,Anjali Reddy Store,Amritsar,Punjab,890012,3.3
+SEL1329,Gaurav Kumar Store,Karimnagar,Telangana,332219,2.8
+SEL1330,Sunita Singh Store,Jaipur,Rajasthan,220854,3.2
+SEL1331,Arjun Naidu Store,Nagpur,Maharashtra,984326,3.6
+SEL1332,Pankaj Kumar Store,Udaipur,Rajasthan,839042,2.6
+SEL1333,Varun Agarwal Store,Saket,Delhi,895424,3.5
+SEL1334,Priya Naidu Store,Salem,Tamil Nadu,688719,3.7
+SEL1335,Sneha Chopra Store,Kozhikode,Kerala,531277,2.6
+SEL1336,Anjali Chopra Store,Belagavi,Karnataka,144300,4.2
+SEL1337,Vijay Malhotra Store,Lucknow,Uttar Pradesh,941572,2.7
+SEL1338,Omkar Naidu Store,Vadodara,Gujarat,893135,4.1
+SEL1339,Amit Sharma Store,Agra,Uttar Pradesh,197730,5.0
+SEL1340,Arjun Pandey Store,Thrissur,Kerala,281041,2.7
+SEL1341,Rohit Rao Store,Cuttack,Odisha,872216,3.2
+SEL1342,Vijay Saxena Store,Aurangabad,Maharashtra,222972,2.8
+SEL1343,Aisha Tiwari Store,Hyderabad,Telangana,156774,
+SEL1344,Vijay Mishra Store,Kochi,Kerala,401977,
+SEL1345,Kavya Rao Store,Cuttack,Odisha,745382,4.8
+SEL1346,Riya Rao Store,Salem,Tamil Nadu,823816,4.6
+SEL1347,Rohit Kumar Store,Durgapur,West Bengal,983379,
+SEL1348,Vikram Mishra Store,Cuttack,Odisha,680993,4.3
+SEL1349,Tarun Verma Store,Udaipur,Rajasthan,538046,
+SEL1350,Neha Singh Store,Mysuru,Karnataka,114384,3.1
+SEL1351,Sunita Pillai Store,Nashik,Maharashtra,673115,
+SEL1352,Deepak Shah Store,Vadodara,Gujarat,188459,2.6
+SEL1353,Pankaj Tiwari Store,Madurai,Tamil Nadu,290804,4.6
+SEL1354,Anjali Das Store,New Delhi,Delhi,234589,
+SEL1355,Sunita Malhotra Store,New Delhi,Delhi,948984,2.6
+SEL1356,Amit Rao Store,Patiala,Punjab,409081,2.7
+SEL1357,Aditi Patel Store,Ambala,Haryana,611651,
+SEL1358,Manish Mishra Store,Salem,Tamil Nadu,672339,4.8
+SEL1359,Mohan Gupta Store,Asansol,West Bengal,560345,4.9
+SEL1360,Vijay Verma Store,Bhopal,Madhya Pradesh,674597,4.9
+SEL1361,Deepak Gupta Store,Cuttack,Odisha,137576,4.5
+SEL1362,Nisha Das Store,Kanpur,Uttar Pradesh,739666,3.2
+SEL1363,Sunita Rao Store,Howrah,West Bengal,111324,3.3
+SEL1364,Varun Mehta Store,Patiala,Punjab,253407,3.5
+SEL1365,Kavya Tiwari Store,Thrissur,Kerala,622696,
+SEL1366,Amit Agarwal Store,Jodhpur,Rajasthan,426787,4.8
+SEL1367,Sneha Agarwal Store,Gandhinagar,Gujarat,184804,
+SEL1368,Aditi Kumar Store,Nashik,Maharashtra,,3.3
+SEL1369,Manish Sharma Store,Kota,Rajasthan,480275,3.1
+SEL1370,Riya Pandey Store,Darbhanga,Bihar,548748,3.1
+SEL1371,Neha Shah Store,Sambalpur,Odisha,623091,
+SEL1372,Anjali Das Store,Warangal,Telangana,,3.1
+SEL1373,Rohit Pandey Store,Bhubaneswar,Odisha,338546,3.2
+SEL1374,Sneha Mehta Store,Kolkata,West Bengal,707637,4.4
+SEL1375,Manish Naidu Store,Madurai,Tamil Nadu,721783,3.9
+SEL1376,Manish Chopra Store,Rourkela,Odisha,897695,3.3
+SEL1377,Priya Rao Store,Lucknow,Uttar Pradesh,161509,4.0
+SEL1378,Aditi Gupta Store,Hyderabad,Telangana,620048,4.5
+SEL1379,Nikhil Joshi Store,Ujjain,Madhya Pradesh,892504,4.0
+SEL1380,Yasmin Chopra Store,Patiala,Punjab,,2.7
+SEL1381,Aarav Malhotra Store,Vadodara,Gujarat,465737,
+SEL1382,Nisha Iyer Store,Hisar,Haryana,916728,3.2
+SEL1383,Mohan Das Store,Faridabad,Haryana,765716,3.4
+SEL1384,Gaurav Mehta Store,Varanasi,Uttar Pradesh,828769,2.6
+SEL1385,Tarun Shah Store,Agra,Uttar Pradesh,505541,4.4
+SEL1386,Varun Joshi Store,Panipat,Haryana,961754,
+SEL1387,Kiran Reddy Store,Coimbatore,Tamil Nadu,902667,4.7
+SEL1388,Nikhil Verma Store,Salem,Tamil Nadu,654576,3.8
+SEL1389,Yasmin Agarwal Store,Mangaluru,Karnataka,884184,
+SEL1390,Sneha Kumar Store,Mysuru,Karnataka,439087,
+SEL1391,Nisha Patel Store,Salem,Tamil Nadu,121045,4.7
+SEL1392,Omkar Gupta Store,Gandhinagar,Gujarat,474557,4.9
+SEL1393,Deepak Iyer Store,Ujjain,Madhya Pradesh,956964,3.7
+SEL1394,Yasmin Agarwal Store,Surat,Gujarat,591545,4.1
+SEL1395,Sanjay Malhotra Store,Gurugram,Haryana,981997,4.8
+SEL1396,Tanvi Mishra Store,Warangal,Telangana,,
+SEL1397,Mohan Pandey Store,Jodhpur,Rajasthan,887918,2.6
+SEL1398,Zara Sharma Store,Thrissur,Kerala,993420,4.2
+SEL1399,Riya Das Store,Durgapur,West Bengal,543586,4.8
+SEL1400,Riya Agarwal Store,Muzaffarpur,Bihar,356371,4.5
+SEL1401,Pankaj Iyer Store,Salem,Tamil Nadu,151292,4.5
+SEL1402,Omkar Verma Store,Ambala,Haryana,,
+SEL1403,Tarun Gupta Store,New Delhi,Delhi,338005,4.3
+SEL1404,Rahul Rao Store,Gaya,Bihar,471134,2.6
+SEL1405,Amit Joshi Store,Salem,Tamil Nadu,355312,4.8
+SEL1406,Meera Agarwal Store,Ghaziabad,Uttar Pradesh,420870,4.8
+SEL1407,Varun Agarwal Store,Mysuru,Karnataka,715877,
+SEL1408,Gaurav Singh Store,Agra,Uttar Pradesh,244660,3.3
+SEL1409,Sunita Agarwal Store,Nizamabad,Telangana,871173,3.9
+SEL1410,Rohit Singh Store,Chennai,Tamil Nadu,346595,3.9
+SEL1411,Suresh Tiwari Store,Bhubaneswar,Odisha,231292,3.9
+SEL1412,Nikhil Singh Store,Gaya,Bihar,156090,3.5
+SEL1413,Gaurav Mishra Store,Rajkot,Gujarat,105228,5.0
+SEL1414,Nisha Naidu Store,Mumbai,Maharashtra,489899,4.7
+SEL1415,Aarav Nair Store,Kochi,Kerala,735413,
+SEL1416,Aarav Chopra Store,Patna,Bihar,493240,4.1
+SEL1417,Ananya Nair Store,Panipat,Haryana,580976,
+SEL1418,Meera Naidu Store,Bengaluru,Karnataka,496765,4.0
+SEL1419,Pankaj Patel Store,Gurugram,Haryana,714898,4.3
+SEL1420,Sneha Iyer Store,Muzaffarpur,Bihar,875013,4.5
+SEL1421,Ananya Naidu Store,Karimnagar,Telangana,821192,4.9
+SEL1422,Vikram Chopra Store,Panipat,Haryana,275548,4.6
+SEL1423,Rajesh Joshi Store,Patiala,Punjab,736548,2.8
+SEL1424,Ananya Bose Store,Mysuru,Karnataka,779405,3.9
+SEL1425,Sneha Joshi Store,Muzaffarpur,Bihar,193182,4.1
+SEL1426,Ishaan Patel Store,Udaipur,Rajasthan,451001,3.2
+SEL1427,Deepak Gupta Store,Nizamabad,Telangana,679239,3.7
+SEL1428,Rajesh Verma Store,Bengaluru,Karnataka,376290,4.8
+SEL1429,Gaurav Pillai Store,Hyderabad,Telangana,887555,3.1
+SEL1430,Meera Reddy Store,Warangal,Telangana,421407,3.3
+SEL1431,Sneha Bose Store,Hubli,Karnataka,439796,
+SEL1432,Sanjay Joshi Store,Kollam,Kerala,365043,2.7
+SEL1433,Pooja Pandey Store,Bathinda,Punjab,780340,4.7
+SEL1434,Yasmin Singh Store,Ajmer,Rajasthan,571191,3.3
+SEL1435,Ishaan Reddy Store,Mangaluru,Karnataka,755320,
+SEL1436,Omkar Sharma Store,Madurai,Tamil Nadu,988289,4.1
+SEL1437,Riya Naidu Store,Jalandhar,Punjab,205331,4.1
+SEL1438,Rohit Kumar Store,Patiala,Punjab,321277,4.9
+SEL1439,Gaurav Tiwari Store,Asansol,West Bengal,105692,2.6
+SEL1440,Amit Das Store,Janakpuri,Delhi,535306,4.3
+SEL1441,Aisha Pillai Store,Ujjain,Madhya Pradesh,,4.6
+SEL1442,Meera Pandey Store,Amritsar,Punjab,306470,4.0
+SEL1443,Pooja Agarwal Store,Patna,Bihar,130805,4.9
+SEL1444,Gaurav Saxena Store,Saket,Delhi,517210,3.5
+SEL1445,Divya Agarwal Store,Tiruchirappalli,Tamil Nadu,850728,4.4
+SEL1446,Varun Tiwari Store,Siliguri,West Bengal,378405,4.2
+SEL1447,Manish Sharma Store,Jabalpur,Madhya Pradesh,968033,2.6
+SEL1448,Manish Rao Store,Surat,Gujarat,899639,3.9
+SEL1449,Suresh Iyer Store,Durgapur,West Bengal,826479,3.2
+SEL1450,Suresh Pillai Store,Kanpur,Uttar Pradesh,301035,
+SEL1451,Aarav Mehta Store,Berhampur,Odisha,225627,4.7
+SEL1452,Nisha Nair Store,Hyderabad,Telangana,155377,4.1
+SEL1453,Tanvi Malhotra Store,Jodhpur,Rajasthan,,4.0
+SEL1454,Kiran Reddy Store,Rourkela,Odisha,676741,4.2
+SEL1455,Pooja Verma Store,Khammam,Telangana,867208,3.8
+SEL1456,Amit Pillai Store,Ujjain,Madhya Pradesh,743955,3.6
+SEL1457,Manish Das Store,Warangal,Telangana,104736,3.4
+SEL1458,Rahul Naidu Store,Berhampur,Odisha,,4.3
+SEL1459,Aisha Shah Store,Dwarka,Delhi,452586,4.4
+SEL1460,Deepak Das Store,Hisar,Haryana,494577,3.6
+SEL1461,Aisha Verma Store,Thrissur,Kerala,689332,2.6
+SEL1462,Zara Mehta Store,Ambala,Haryana,838864,3.9
+SEL1463,Kavya Reddy Store,Muzaffarpur,Bihar,738756,3.9
+SEL1464,Sunita Nair Store,Rourkela,Odisha,966797,
+SEL1465,Divya Kumar Store,Kota,Rajasthan,759579,3.4
+SEL1466,Kiran Reddy Store,Faridabad,Haryana,766408,
+SEL1467,Deepak Joshi Store,Warangal,Telangana,430654,3.7
+SEL1468,Anjali Rao Store,Darbhanga,Bihar,517405,4.5
+SEL1469,Sanjay Mehta Store,Ambala,Haryana,197826,4.1
+SEL1470,Tanvi Kumar Store,Rourkela,Odisha,,4.5
+SEL1471,Nikhil Mehta Store,Sambalpur,Odisha,424770,4.7
+SEL1472,Arjun Naidu Store,Madurai,Tamil Nadu,760963,3.1
+SEL1473,Nisha Pandey Store,Bhagalpur,Bihar,112077,4.6
+SEL1474,Vikram Mishra Store,Kota,Rajasthan,333024,4.3
+SEL1475,Sanjay Patel Store,Mumbai,Maharashtra,669815,3.9
+SEL1476,Vijay Singh Store,Gwalior,Madhya Pradesh,839656,3.9
+SEL1477,Yasmin Das Store,Udaipur,Rajasthan,736306,
+SEL1478,Vikram Mishra Store,Nashik,Maharashtra,787385,3.9
+SEL1479,Manish Gupta Store,Jalandhar,Punjab,905232,3.5
+SEL1480,Rajesh Chopra Store,Bhubaneswar,Odisha,874056,4.7
+SEL1481,Rajesh Mehta Store,Patiala,Punjab,228054,4.0
+SEL1482,Aisha Tiwari Store,Ajmer,Rajasthan,,3.2
+SEL1483,Zara Singh Store,Mumbai,Maharashtra,688118,2.9
+SEL1484,Lakshmi Sharma Store,Kochi,Kerala,553013,
+SEL1485,Pooja Mishra Store,Indore,Madhya Pradesh,145114,4.2
+SEL1486,Rajesh Reddy Store,Hyderabad,Telangana,607399,3.4
+SEL1487,Rohit Naidu Store,Warangal,Telangana,847397,2.9
+SEL1488,Nikhil Rao Store,Mumbai,Maharashtra,977061,4.3
+SEL1489,Deepak Shah Store,Hyderabad,Telangana,582558,3.2
+SEL1490,Aisha Verma Store,Salem,Tamil Nadu,461239,4.7
+SEL1491,Zara Bose Store,Varanasi,Uttar Pradesh,709621,4.3
+SEL1492,Rajesh Rao Store,Thiruvananthapuram,Kerala,323116,4.7
+SEL1493,Riya Pillai Store,Darbhanga,Bihar,616211,5.0
+SEL1494,Mohan Malhotra Store,Gaya,Bihar,663893,3.4
+SEL1495,Manish Mehta Store,Belagavi,Karnataka,101466,3.8
+SEL1496,Neha Chopra Store,Agra,Uttar Pradesh,607404,3.5
+SEL1497,Anjali Rao Store,Madurai,Tamil Nadu,241480,2.7
+SEL1498,Sanjay Mehta Store,Faridabad,Haryana,108684,3.5
+SEL1499,Rahul Naidu Store,Bathinda,Punjab,755892,3.6
+SEL1500,Deepak Das Store,Jabalpur,Madhya Pradesh,494364,2.9
+SEL1501,Anjali Tiwari Store,Nagpur,Maharashtra,758006,4.7
+SEL1502,Aditi Mehta Store,Kota,Rajasthan,584922,3.2
+SEL1503,Amit Bose Store,Thrissur,Kerala,,4.4
+SEL1504,Pooja Kumar Store,Ahmedabad,Gujarat,547064,
+SEL1505,Aarav Tiwari Store,Panipat,Haryana,193592,2.6
+SEL1506,Amit Naidu Store,Bathinda,Punjab,551999,5.0
+SEL1507,Aarav Verma Store,Mysuru,Karnataka,946500,2.8
+SEL1508,Aarav Patel Store,Asansol,West Bengal,655698,4.4
+SEL1509,Divya Singh Store,Gandhinagar,Gujarat,218873,4.0
+SEL1510,Pooja Shah Store,Bathinda,Punjab,951793,3.6
+SEL1511,Vikram Bose Store,Chennai,Tamil Nadu,937625,
+SEL1512,Priya Nair Store,Berhampur,Odisha,769531,3.3
+SEL1513,Manish Rao Store,Janakpuri,Delhi,853974,4.8
+SEL1514,Deepak Malhotra Store,Ludhiana,Punjab,532577,4.8
+SEL1515,Neha Patel Store,Jaipur,Rajasthan,685496,4.0
+SEL1516,Ravi Sharma Store,Gandhinagar,Gujarat,395808,3.9
+SEL1517,Suresh Malhotra Store,Jalandhar,Punjab,146612,
+SEL1518,Aditi Saxena Store,Kochi,Kerala,337319,4.4
+SEL1519,Ishaan Shah Store,Kollam,Kerala,439624,4.7
+SEL1520,Sneha Chopra Store,Gandhinagar,Gujarat,339152,4.3
+SEL1521,Yasmin Nair Store,Khammam,Telangana,234395,
+SEL1522,Anjali Iyer Store,Ujjain,Madhya Pradesh,954625,4.1
+SEL1523,Zara Saxena Store,Howrah,West Bengal,578773,3.0
+SEL1524,Sanjay Das Store,Sambalpur,Odisha,505506,5.0
+SEL1525,Kiran Mehta Store,Nizamabad,Telangana,321183,4.8
+SEL1526,Neha Das Store,Surat,Gujarat,708714,4.9
+SEL1527,Manish Sharma Store,Jalandhar,Punjab,610462,
+SEL1528,Rajesh Rao Store,Ahmedabad,Gujarat,151767,4.1
+SEL1529,Nisha Patel Store,Vadodara,Gujarat,,4.1
+SEL1530,Rahul Singh Store,Belagavi,Karnataka,329913,
+SEL1531,Neha Mehta Store,Ujjain,Madhya Pradesh,197322,4.7
+SEL1532,Sanjay Pillai Store,Gandhinagar,Gujarat,962909,4.5
+SEL1533,Sunita Patel Store,Aurangabad,Maharashtra,818194,4.3
+SEL1534,Nikhil Verma Store,Agra,Uttar Pradesh,421769,2.6
+SEL1535,Vikram Chopra Store,Varanasi,Uttar Pradesh,785766,5.0
+SEL1536,Suresh Kumar Store,Siliguri,West Bengal,393253,4.3
+SEL1537,Tarun Verma Store,Gandhinagar,Gujarat,234913,
+SEL1538,Pankaj Iyer Store,Bhubaneswar,Odisha,174888,2.7
+SEL1539,Vijay Tiwari Store,Janakpuri,Delhi,956647,4.2
+SEL1540,Arjun Malhotra Store,Indore,Madhya Pradesh,772904,4.4
+SEL1541,Kavya Tiwari Store,Ujjain,Madhya Pradesh,299838,2.7
+SEL1542,Anjali Gupta Store,Kota,Rajasthan,145685,2.7
+SEL1543,Pooja Bose Store,Thrissur,Kerala,963330,4.4
+SEL1544,Ravi Rao Store,Agra,Uttar Pradesh,772667,4.5
+SEL1545,Sunita Pandey Store,Bathinda,Punjab,347221,4.8
+SEL1546,Rohit Malhotra Store,New Delhi,Delhi,936750,4.4
+SEL1547,Divya Bose Store,Karimnagar,Telangana,708040,3.1
+SEL1548,Rahul Gupta Store,Asansol,West Bengal,264453,
+SEL1549,Neha Mehta Store,Dwarka,Delhi,655307,3.2
+SEL1550,Divya Rao Store,Karimnagar,Telangana,,
+SEL1551,Nikhil Naidu Store,Chennai,Tamil Nadu,408264,3.8
+SEL1552,Vijay Agarwal Store,Rajkot,Gujarat,113902,2.8
+SEL1553,Manish Chopra Store,Saket,Delhi,199956,4.8
+SEL1554,Rohit Gupta Store,Lucknow,Uttar Pradesh,269572,4.0
+SEL1555,Divya Reddy Store,Hyderabad,Telangana,206484,2.7
+SEL1556,Kiran Mishra Store,Sambalpur,Odisha,504394,
+SEL1557,Sneha Naidu Store,Pune,Maharashtra,645376,4.4
+SEL1558,Aisha Agarwal Store,Kolkata,West Bengal,759747,4.0
+SEL1559,Amit Malhotra Store,Bhubaneswar,Odisha,201699,3.1
+SEL1560,Mohan Gupta Store,Bhubaneswar,Odisha,354622,3.9
+SEL1561,Ravi Iyer Store,Gwalior,Madhya Pradesh,360942,3.3
+SEL1562,Ishaan Nair Store,Nagpur,Maharashtra,831249,3.8
+SEL1563,Kiran Naidu Store,Ludhiana,Punjab,,
+SEL1564,Sneha Agarwal Store,Hubli,Karnataka,781336,3.7
+SEL1565,Vijay Tiwari Store,Kanpur,Uttar Pradesh,794908,4.6
+SEL1566,Lakshmi Joshi Store,Gwalior,Madhya Pradesh,192937,3.0
+SEL1567,Sanjay Iyer Store,Ujjain,Madhya Pradesh,653828,2.5
+SEL1568,Meera Patel Store,Faridabad,Haryana,402181,2.9
+SEL1569,Sunita Sharma Store,Bengaluru,Karnataka,311987,4.6
+SEL1570,Pooja Saxena Store,Madurai,Tamil Nadu,315047,3.5
+SEL1571,Ravi Tiwari Store,Jaipur,Rajasthan,704682,4.3
+SEL1572,Anjali Rao Store,Dwarka,Delhi,125736,2.6
+SEL1573,Priya Patel Store,Kolkata,West Bengal,432877,2.9
+SEL1574,Ravi Saxena Store,Kochi,Kerala,648778,
+SEL1575,Kavya Saxena Store,Vadodara,Gujarat,566698,4.3
+SEL1576,Amit Kumar Store,Ahmedabad,Gujarat,684214,4.5
+SEL1577,Varun Patel Store,Gwalior,Madhya Pradesh,883986,4.1
+SEL1578,Suresh Naidu Store,Mangaluru,Karnataka,118880,4.4
+SEL1579,Kiran Shah Store,Jodhpur,Rajasthan,137959,2.9
+SEL1580,Vijay Malhotra Store,Howrah,West Bengal,629569,4.1
+SEL1581,Rahul Saxena Store,Berhampur,Odisha,489983,3.6
+SEL1582,Omkar Joshi Store,Amritsar,Punjab,471383,4.8
+SEL1583,Omkar Verma Store,Chennai,Tamil Nadu,562411,4.0
+SEL1584,Riya Joshi Store,Salem,Tamil Nadu,531369,3.9
+SEL1585,Pankaj Tiwari Store,Muzaffarpur,Bihar,829938,3.9
+SEL1586,Riya Malhotra Store,Bhagalpur,Bihar,459320,4.6
+SEL1587,Yasmin Chopra Store,Ambala,Haryana,238974,2.5
+SEL1588,Manish Patel Store,Agra,Uttar Pradesh,487895,4.7
+SEL1589,Rajesh Verma Store,Indore,Madhya Pradesh,828884,2.6
+SEL1590,Tarun Pandey Store,Chennai,Tamil Nadu,773216,4.0
+SEL1591,Suresh Pillai Store,Bathinda,Punjab,,3.8
+SEL1592,Vijay Naidu Store,Jalandhar,Punjab,487365,3.4
+SEL1593,Tanvi Nair Store,Patiala,Punjab,376930,2.8
+SEL1594,Amit Mishra Store,Mumbai,Maharashtra,398639,2.8
+SEL1595,Sunita Bose Store,Ghaziabad,Uttar Pradesh,554534,4.4
+SEL1596,Mohan Kumar Store,Kota,Rajasthan,291343,2.8
+SEL1597,Rohit Bose Store,Tiruchirappalli,Tamil Nadu,814106,4.2
+SEL1598,Arjun Patel Store,Kozhikode,Kerala,501836,
+SEL1599,Aisha Mishra Store,Mumbai,Maharashtra,803241,4.2
+SEL1600,Aditi Shah Store,Panipat,Haryana,345191,2.7
+SEL1601,Rahul Singh Store,Jalandhar,Punjab,390277,3.9
+SEL1602,Vijay Singh Store,Tiruchirappalli,Tamil Nadu,,4.6
+SEL1603,Rahul Das Store,Ludhiana,Punjab,804196,4.9
+SEL1604,Aarav Shah Store,Ahmedabad,Gujarat,234930,4.3
+SEL1605,Arjun Agarwal Store,Muzaffarpur,Bihar,377331,3.3
+SEL1606,Sunita Rao Store,Nashik,Maharashtra,146546,3.1
+SEL1607,Vijay Agarwal Store,Rourkela,Odisha,347378,4.5
+SEL1608,Divya Malhotra Store,Kollam,Kerala,610029,4.4
+SEL1609,Pooja Kumar Store,Nashik,Maharashtra,714902,3.7
+SEL1610,Sunita Chopra Store,Hisar,Haryana,249109,2.7
+SEL1611,Priya Agarwal Store,Thrissur,Kerala,786397,4.2
+SEL1612,Rohit Bose Store,Hyderabad,Telangana,599160,4.0
+SEL1613,Manish Chopra Store,Kanpur,Uttar Pradesh,446161,2.5
+SEL1614,Aisha Sharma Store,Bengaluru,Karnataka,797712,4.1
+SEL1615,Neha Pandey Store,Pune,Maharashtra,783872,2.8
+SEL1616,Meera Joshi Store,Pune,Maharashtra,342604,4.6
+SEL1617,Omkar Mishra Store,Berhampur,Odisha,373013,4.2
+SEL1618,Rohit Singh Store,Patna,Bihar,253284,2.6
+SEL1619,Ananya Gupta Store,Agra,Uttar Pradesh,405924,3.8
+SEL1620,Riya Das Store,Warangal,Telangana,483738,4.5
+SEL1621,Aisha Saxena Store,Ujjain,Madhya Pradesh,930917,4.6
+SEL1622,Manish Kumar Store,Belagavi,Karnataka,203582,2.7
+SEL1623,Divya Agarwal Store,Belagavi,Karnataka,313422,2.7
+SEL1624,Lakshmi Mehta Store,Belagavi,Karnataka,745858,4.4
+SEL1625,Mohan Mehta Store,Darbhanga,Bihar,335330,3.1
+SEL1626,Varun Das Store,Thiruvananthapuram,Kerala,249265,4.0
+SEL1627,Arjun Mehta Store,Hubli,Karnataka,644701,4.0
+SEL1628,Priya Pandey Store,Siliguri,West Bengal,156983,4.1
+SEL1629,Amit Pandey Store,Kolkata,West Bengal,,3.3
+SEL1630,Aditi Chopra Store,Pune,Maharashtra,524853,2.6
+SEL1631,Meera Sharma Store,Dwarka,Delhi,601048,3.8
+SEL1632,Rajesh Malhotra Store,Ludhiana,Punjab,261153,3.8
+SEL1633,Vijay Chopra Store,Hubli,Karnataka,516803,3.6
+SEL1634,Kavya Mehta Store,Gurugram,Haryana,471311,3.2
+SEL1635,Zara Pillai Store,Vadodara,Gujarat,255417,4.6
+SEL1636,Tarun Verma Store,Berhampur,Odisha,464676,3.4
+SEL1637,Priya Chopra Store,Lucknow,Uttar Pradesh,834242,2.8
+SEL1638,Sneha Kumar Store,Janakpuri,Delhi,359547,4.4
+SEL1639,Rohit Pandey Store,Varanasi,Uttar Pradesh,883785,4.1
+SEL1640,Ishaan Mehta Store,Rajkot,Gujarat,265071,
+SEL1641,Aarav Pandey Store,Sambalpur,Odisha,809399,2.9
+SEL1642,Tarun Mehta Store,Rajkot,Gujarat,353185,3.6
+SEL1643,Ravi Gupta Store,Gandhinagar,Gujarat,682791,2.7
+SEL1644,Rohit Shah Store,Hyderabad,Telangana,489396,3.1
+SEL1645,Pooja Naidu Store,Varanasi,Uttar Pradesh,952039,4.9
+SEL1646,Aarav Reddy Store,Aurangabad,Maharashtra,632612,2.9
+SEL1647,Kavya Chopra Store,Kozhikode,Kerala,628284,3.2
+SEL1648,Tanvi Pandey Store,Ludhiana,Punjab,274895,2.8
+SEL1649,Deepak Verma Store,Faridabad,Haryana,,
+SEL1650,Manish Tiwari Store,Ambala,Haryana,110309,
+SEL1651,Nisha Pandey Store,Rourkela,Odisha,521062,2.6
+SEL1652,Yasmin Naidu Store,Nagpur,Maharashtra,129190,4.7
+SEL1653,Lakshmi Rao Store,Nashik,Maharashtra,582201,2.9
+SEL1654,Tarun Verma Store,New Delhi,Delhi,611358,3.5
+SEL1655,Meera Naidu Store,Janakpuri,Delhi,255705,4.0
+SEL1656,Aarav Tiwari Store,Udaipur,Rajasthan,251295,3.7
+SEL1657,Pankaj Sharma Store,New Delhi,Delhi,334833,2.8
+SEL1658,Arjun Verma Store,Udaipur,Rajasthan,320959,4.5
+SEL1659,Vikram Tiwari Store,Kozhikode,Kerala,139399,4.2
+SEL1660,Meera Verma Store,Sambalpur,Odisha,941357,4.9
+SEL1661,Sneha Patel Store,Aurangabad,Maharashtra,718723,
+SEL1662,Nisha Das Store,Ambala,Haryana,935473,3.6
+SEL1663,Kiran Rao Store,Jodhpur,Rajasthan,615633,3.4
+SEL1664,Vikram Nair Store,Indore,Madhya Pradesh,976916,2.7
+SEL1665,Pooja Sharma Store,Lucknow,Uttar Pradesh,655903,
+SEL1666,Vijay Agarwal Store,Belagavi,Karnataka,888523,4.4
+SEL1667,Lakshmi Mishra Store,Varanasi,Uttar Pradesh,639302,3.2
+SEL1668,Riya Iyer Store,Ghaziabad,Uttar Pradesh,534141,3.7
+SEL1669,Manish Patel Store,Chennai,Tamil Nadu,295705,4.9
+SEL1670,Aditi Mishra Store,Karimnagar,Telangana,560661,2.5
+SEL1671,Anjali Gupta Store,Rourkela,Odisha,657255,3.8
+SEL1672,Pooja Bose Store,Kota,Rajasthan,771447,3.8
+SEL1673,Yasmin Patel Store,Jabalpur,Madhya Pradesh,174874,5.0
+SEL1674,Nikhil Iyer Store,Hisar,Haryana,683854,4.6
+SEL1675,Anjali Verma Store,Kochi,Kerala,367702,
+SEL1676,Pankaj Sharma Store,Berhampur,Odisha,339970,2.9
+SEL1677,Meera Pandey Store,Kota,Rajasthan,343101,2.6
+SEL1678,Ishaan Saxena Store,Kota,Rajasthan,195856,3.0
+SEL1679,Kavya Singh Store,Tiruchirappalli,Tamil Nadu,509690,3.0
+SEL1680,Vikram Nair Store,Patiala,Punjab,747554,2.7
+SEL1681,Aarav Saxena Store,Pune,Maharashtra,174664,3.8
+SEL1682,Deepak Iyer Store,Indore,Madhya Pradesh,963415,4.9
+SEL1683,Vijay Bose Store,Agra,Uttar Pradesh,207026,
+SEL1684,Rajesh Nair Store,Ludhiana,Punjab,358052,3.0
+SEL1685,Varun Saxena Store,New Delhi,Delhi,862097,
+SEL1686,Amit Singh Store,Indore,Madhya Pradesh,646049,5.0
+SEL1687,Sneha Agarwal Store,Gandhinagar,Gujarat,351067,
+SEL1688,Manish Shah Store,Jaipur,Rajasthan,976071,
+SEL1689,Kavya Iyer Store,Ahmedabad,Gujarat,922880,3.2
+SEL1690,Rajesh Tiwari Store,Patna,Bihar,933384,4.4
+SEL1691,Ravi Singh Store,Surat,Gujarat,946232,4.5
+SEL1692,Aisha Reddy Store,Surat,Gujarat,173811,3.2
+SEL1693,Pankaj Tiwari Store,Kanpur,Uttar Pradesh,151916,3.1
+SEL1694,Sanjay Verma Store,Darbhanga,Bihar,584249,4.2
+SEL1695,Manish Verma Store,Ahmedabad,Gujarat,837023,4.7
+SEL1696,Pankaj Iyer Store,Saket,Delhi,461859,2.6
+SEL1697,Nisha Shah Store,New Delhi,Delhi,943554,5.0
+SEL1698,Amit Nair Store,Bhopal,Madhya Pradesh,801470,3.0
+SEL1699,Aarav Rao Store,Muzaffarpur,Bihar,471535,3.4
+SEL1700,Sanjay Saxena Store,Hyderabad,Telangana,418018,
+SEL1701,Kiran Tiwari Store,Jabalpur,Madhya Pradesh,244381,2.6
+SEL1702,Pooja Bose Store,Gurugram,Haryana,694220,3.2
+SEL1703,Anjali Malhotra Store,Patna,Bihar,428583,
+SEL1704,Arjun Mehta Store,Hyderabad,Telangana,482670,
+SEL1705,Meera Pandey Store,Varanasi,Uttar Pradesh,488822,2.7
+SEL1706,Ananya Mehta Store,Asansol,West Bengal,584785,3.9
+SEL1707,Varun Pillai Store,Jaipur,Rajasthan,757504,3.5
+SEL1708,Mohan Rao Store,Gandhinagar,Gujarat,285478,5.0
+SEL1709,Tanvi Iyer Store,Rourkela,Odisha,802503,
+SEL1710,Rajesh Kumar Store,Indore,Madhya Pradesh,319266,3.4
+SEL1711,Gaurav Joshi Store,Bengaluru,Karnataka,750899,2.6
+SEL1712,Tarun Joshi Store,Coimbatore,Tamil Nadu,836298,4.8
+SEL1713,Arjun Pillai Store,Bengaluru,Karnataka,735865,4.1
+SEL1714,Anjali Tiwari Store,Indore,Madhya Pradesh,888176,4.0
+SEL1715,Divya Agarwal Store,Jaipur,Rajasthan,257519,2.6
+SEL1716,Sneha Naidu Store,Aurangabad,Maharashtra,217537,2.7
+SEL1717,Ananya Sharma Store,Coimbatore,Tamil Nadu,368298,4.5
+SEL1718,Tarun Nair Store,Bhagalpur,Bihar,421618,3.9
+SEL1719,Vikram Pillai Store,Agra,Uttar Pradesh,126094,3.0
+SEL1720,Yasmin Mishra Store,Panipat,Haryana,983531,3.9
+SEL1721,Gaurav Rao Store,Howrah,West Bengal,231638,4.9
+SEL1722,Vijay Nair Store,Bhagalpur,Bihar,157262,2.8
+SEL1723,Kiran Mehta Store,Kota,Rajasthan,112106,
+SEL1724,Lakshmi Gupta Store,Amritsar,Punjab,594197,4.4
+SEL1725,Vikram Naidu Store,Dwarka,Delhi,959459,2.9
+SEL1726,Omkar Mehta Store,Vadodara,Gujarat,725130,4.5
+SEL1727,Pooja Iyer Store,Aurangabad,Maharashtra,435463,4.4
+SEL1728,Kiran Iyer Store,Siliguri,West Bengal,913276,3.9
+SEL1729,Yasmin Tiwari Store,Kolkata,West Bengal,264226,4.4
+SEL1730,Ravi Tiwari Store,Dwarka,Delhi,672650,2.9
+SEL1731,Rajesh Mehta Store,Lucknow,Uttar Pradesh,631096,4.3
+SEL1732,Amit Singh Store,Bhopal,Madhya Pradesh,532477,4.1
+SEL1733,Ananya Saxena Store,Jodhpur,Rajasthan,895511,3.2
+SEL1734,Ananya Mehta Store,Khammam,Telangana,168623,4.2
+SEL1735,Priya Tiwari Store,Hisar,Haryana,401842,4.2
+SEL1736,Arjun Rao Store,Jalandhar,Punjab,,3.1
+SEL1737,Lakshmi Saxena Store,Jabalpur,Madhya Pradesh,432160,
+SEL1738,Anjali Kumar Store,Siliguri,West Bengal,249671,3.4
+SEL1739,Ananya Naidu Store,Nashik,Maharashtra,538498,3.5
+SEL1740,Deepak Nair Store,Panipat,Haryana,794071,4.6
+SEL1741,Sunita Singh Store,Hyderabad,Telangana,801017,3.6
+SEL1742,Anjali Patel Store,Amritsar,Punjab,817747,4.3
+SEL1743,Amit Reddy Store,Mangaluru,Karnataka,380772,3.7
+SEL1744,Mohan Joshi Store,Gurugram,Haryana,837268,2.7
+SEL1745,Yasmin Mishra Store,Indore,Madhya Pradesh,424209,4.1
+SEL1746,Ravi Das Store,Ujjain,Madhya Pradesh,335076,4.7
+SEL1747,Ananya Bose Store,Berhampur,Odisha,494243,3.8
+SEL1748,Ravi Nair Store,Ujjain,Madhya Pradesh,144759,4.3
+SEL1749,Sanjay Reddy Store,Cuttack,Odisha,432210,4.4
+SEL1750,Pooja Agarwal Store,Mysuru,Karnataka,167102,3.7
+SEL1751,Anjali Tiwari Store,Janakpuri,Delhi,216611,3.1
+SEL1752,Manish Tiwari Store,Chennai,Tamil Nadu,848825,4.7
+SEL1753,Sanjay Pillai Store,Kolkata,West Bengal,369946,
+SEL1754,Sanjay Nair Store,Ajmer,Rajasthan,418071,4.6
+SEL1755,Ananya Saxena Store,Rajkot,Gujarat,461360,
+SEL1756,Pankaj Das Store,New Delhi,Delhi,957198,2.8
+SEL1757,Deepak Patel Store,Bhopal,Madhya Pradesh,836329,3.5
+SEL1758,Gaurav Sharma Store,Ludhiana,Punjab,981685,3.0
+SEL1759,Rajesh Mishra Store,Faridabad,Haryana,129515,
+SEL1760,Omkar Agarwal Store,Hisar,Haryana,897148,4.5
+SEL1761,Aditi Pandey Store,Warangal,Telangana,931646,3.7
+SEL1762,Pankaj Tiwari Store,Kochi,Kerala,952227,2.7
+SEL1763,Aisha Pandey Store,Rohini,Delhi,933732,3.5
+SEL1764,Aisha Agarwal Store,Warangal,Telangana,943892,5.0
+SEL1765,Zara Sharma Store,Saket,Delhi,718123,3.0
+SEL1766,Vijay Iyer Store,Saket,Delhi,394701,3.5
+SEL1767,Divya Nair Store,Muzaffarpur,Bihar,980469,4.0
+SEL1768,Gaurav Das Store,Pune,Maharashtra,906817,3.0
+SEL1769,Varun Rao Store,Rourkela,Odisha,252670,4.9
+SEL1770,Rajesh Tiwari Store,Sambalpur,Odisha,,4.1
+SEL1771,Aarav Verma Store,Asansol,West Bengal,408108,3.1
+SEL1772,Ishaan Pillai Store,Coimbatore,Tamil Nadu,675126,3.6
+SEL1773,Neha Malhotra Store,Vadodara,Gujarat,159791,
+SEL1774,Priya Singh Store,Rohini,Delhi,721979,2.8
+SEL1775,Vikram Verma Store,Howrah,West Bengal,422297,3.2
+SEL1776,Meera Iyer Store,Pune,Maharashtra,,3.9
+SEL1777,Manish Tiwari Store,Mysuru,Karnataka,419522,2.7
+SEL1778,Anjali Rao Store,Jodhpur,Rajasthan,143327,2.6
+SEL1779,Pankaj Pillai Store,Vadodara,Gujarat,868539,
+SEL1780,Nisha Bose Store,Belagavi,Karnataka,291473,3.6
+SEL1781,Sneha Nair Store,Muzaffarpur,Bihar,482963,3.0
+SEL1782,Kiran Shah Store,Aurangabad,Maharashtra,742246,4.3
+SEL1783,Sunita Chopra Store,Durgapur,West Bengal,314217,2.7
+SEL1784,Omkar Das Store,Howrah,West Bengal,973322,3.2
+SEL1785,Priya Joshi Store,Cuttack,Odisha,422133,2.8
+SEL1786,Gaurav Kumar Store,Hyderabad,Telangana,551188,4.3
+SEL1787,Sunita Chopra Store,Ahmedabad,Gujarat,164590,4.1
+SEL1788,Arjun Malhotra Store,Aurangabad,Maharashtra,564905,3.0
+SEL1789,Ishaan Rao Store,Udaipur,Rajasthan,973306,3.9
+SEL1790,Aditi Malhotra Store,Tiruchirappalli,Tamil Nadu,179418,4.2
+SEL1791,Arjun Chopra Store,Jalandhar,Punjab,383497,2.6
+SEL1792,Neha Rao Store,Varanasi,Uttar Pradesh,845530,4.2
+SEL1793,Tanvi Verma Store,Hisar,Haryana,543154,
+SEL1794,Rajesh Saxena Store,Indore,Madhya Pradesh,519500,2.8
+SEL1795,Divya Tiwari Store,Faridabad,Haryana,606093,4.6
+SEL1796,Vijay Chopra Store,Bathinda,Punjab,951348,4.0
+SEL1797,Kiran Pillai Store,Saket,Delhi,148467,
+SEL1798,Lakshmi Joshi Store,Bhubaneswar,Odisha,278956,4.6
+SEL1799,Yasmin Patel Store,Chennai,Tamil Nadu,222798,3.2
+SEL1800,Meera Iyer Store,Mumbai,Maharashtra,608184,2.5
+SEL1801,Manish Mishra Store,Ambala,Haryana,425700,
+SEL1802,Deepak Shah Store,Durgapur,West Bengal,232616,3.2
+SEL1803,Suresh Nair Store,Gandhinagar,Gujarat,449718,4.1
+SEL1804,Divya Chopra Store,Howrah,West Bengal,882802,4.9
+SEL1805,Amit Mehta Store,Jaipur,Rajasthan,970234,3.1
+SEL1806,Aisha Tiwari Store,Vadodara,Gujarat,129986,5.0
+SEL1807,Sunita Pillai Store,Gandhinagar,Gujarat,421438,3.8
+SEL1808,Meera Sharma Store,Belagavi,Karnataka,670603,4.9
+SEL1809,Tanvi Pandey Store,Agra,Uttar Pradesh,195440,2.7
+SEL1810,Meera Shah Store,Belagavi,Karnataka,907941,3.8
+SEL1811,Omkar Sharma Store,Darbhanga,Bihar,,4.9
+SEL1812,Sunita Pandey Store,Kota,Rajasthan,301844,2.9
+SEL1813,Rahul Chopra Store,Madurai,Tamil Nadu,738149,3.2
+SEL1814,Manish Naidu Store,Tiruchirappalli,Tamil Nadu,374376,3.0
+SEL1815,Gaurav Iyer Store,Ludhiana,Punjab,515673,4.9
+SEL1816,Anjali Pillai Store,Ajmer,Rajasthan,318530,
+SEL1817,Rajesh Chopra Store,Patna,Bihar,477269,
+SEL1818,Suresh Mishra Store,Kanpur,Uttar Pradesh,324575,4.5
+SEL1819,Nikhil Agarwal Store,Gaya,Bihar,758862,3.8
+SEL1820,Yasmin Shah Store,Ahmedabad,Gujarat,871346,4.0
+SEL1821,Aditi Malhotra Store,Panipat,Haryana,789960,4.0
+SEL1822,Mohan Reddy Store,Bhopal,Madhya Pradesh,103125,4.0
+SEL1823,Nisha Mishra Store,Amritsar,Punjab,477455,3.6
+SEL1824,Manish Singh Store,Rourkela,Odisha,133520,4.9
+SEL1825,Anjali Pillai Store,Kanpur,Uttar Pradesh,841426,2.9
+SEL1826,Tanvi Tiwari Store,Khammam,Telangana,471465,4.9
+SEL1827,Ravi Iyer Store,Chennai,Tamil Nadu,543165,3.2
+SEL1828,Yasmin Pillai Store,Bhubaneswar,Odisha,697654,3.0
+SEL1829,Divya Agarwal Store,Panipat,Haryana,953558,4.1
+SEL1830,Lakshmi Reddy Store,Thiruvananthapuram,Kerala,531875,4.7
+SEL1831,Sunita Mehta Store,Saket,Delhi,380315,3.4
+SEL1832,Priya Reddy Store,Bathinda,Punjab,949899,2.7
+SEL1833,Amit Pillai Store,Thrissur,Kerala,247603,3.8
+SEL1834,Sanjay Agarwal Store,Tiruchirappalli,Tamil Nadu,981856,5.0
+SEL1835,Pankaj Naidu Store,Kota,Rajasthan,455932,
+SEL1836,Sanjay Sharma Store,Gaya,Bihar,205693,2.5
+SEL1837,Rahul Iyer Store,Gurugram,Haryana,385583,3.8
+SEL1838,Sneha Nair Store,Ujjain,Madhya Pradesh,763505,3.5
+SEL1839,Kavya Sharma Store,Indore,Madhya Pradesh,911497,2.7
+SEL1840,Omkar Pandey Store,Kochi,Kerala,203636,
+SEL1841,Varun Naidu Store,Hubli,Karnataka,204304,4.0
+SEL1842,Kiran Naidu Store,Kanpur,Uttar Pradesh,996463,2.9
+SEL1843,Aditi Naidu Store,Ahmedabad,Gujarat,933972,4.8
+SEL1844,Varun Iyer Store,Ajmer,Rajasthan,615383,3.9
+SEL1845,Ananya Shah Store,Thrissur,Kerala,478763,4.2
+SEL1846,Vikram Agarwal Store,Gandhinagar,Gujarat,185469,4.0
+SEL1847,Divya Singh Store,Ajmer,Rajasthan,303615,4.9
+SEL1848,Suresh Patel Store,Patna,Bihar,264093,4.7
+SEL1849,Divya Mehta Store,Muzaffarpur,Bihar,845075,
+SEL1850,Yasmin Sharma Store,Madurai,Tamil Nadu,475294,2.5
+SEL1851,Zara Rao Store,Hyderabad,Telangana,464095,3.7
+SEL1852,Kavya Iyer Store,Vadodara,Gujarat,432028,3.3
+SEL1853,Sneha Rao Store,Hisar,Haryana,203165,3.8
+SEL1854,Aditi Chopra Store,Cuttack,Odisha,672350,3.3
+SEL1855,Riya Joshi Store,Rourkela,Odisha,854354,4.7
+SEL1856,Ishaan Reddy Store,Agra,Uttar Pradesh,134456,2.9
+SEL1857,Rahul Nair Store,Lucknow,Uttar Pradesh,560022,2.6
+SEL1858,Nikhil Chopra Store,Mysuru,Karnataka,354921,3.4
+SEL1859,Ravi Shah Store,Kollam,Kerala,861155,2.8
+SEL1860,Zara Malhotra Store,Bhopal,Madhya Pradesh,186021,4.0
+SEL1861,Amit Mishra Store,Jaipur,Rajasthan,624130,3.7
+SEL1862,Pooja Iyer Store,Kanpur,Uttar Pradesh,171782,4.3
+SEL1863,Kavya Joshi Store,Surat,Gujarat,448635,2.7
+SEL1864,Pooja Rao Store,Aurangabad,Maharashtra,419693,4.4
+SEL1865,Mohan Pandey Store,Darbhanga,Bihar,,3.2
+SEL1866,Aisha Shah Store,Janakpuri,Delhi,362042,4.2
+SEL1867,Ishaan Tiwari Store,Hubli,Karnataka,161891,3.2
+SEL1868,Pooja Malhotra Store,Panipat,Haryana,760120,4.6
+SEL1869,Sunita Mishra Store,Chennai,Tamil Nadu,720744,4.6
+SEL1870,Suresh Sharma Store,Ajmer,Rajasthan,151220,3.3
+SEL1871,Riya Bose Store,Ujjain,Madhya Pradesh,421819,4.8
+SEL1872,Ishaan Mehta Store,Kollam,Kerala,499792,
+SEL1873,Tanvi Kumar Store,Berhampur,Odisha,220644,4.7
+SEL1874,Pankaj Agarwal Store,Saket,Delhi,205132,3.0
+SEL1875,Aditi Saxena Store,Gurugram,Haryana,628282,3.2
+SEL1876,Meera Naidu Store,Jaipur,Rajasthan,464638,4.7
+SEL1877,Manish Mishra Store,Kozhikode,Kerala,466762,2.7
+SEL1878,Nikhil Pillai Store,Udaipur,Rajasthan,766631,4.3
+SEL1879,Rajesh Joshi Store,Belagavi,Karnataka,640403,4.2
+SEL1880,Omkar Verma Store,Ghaziabad,Uttar Pradesh,574250,4.9
+SEL1881,Vijay Mishra Store,Lucknow,Uttar Pradesh,256807,4.9
+SEL1882,Rahul Joshi Store,Indore,Madhya Pradesh,943450,3.7
+SEL1883,Suresh Saxena Store,Asansol,West Bengal,943234,4.1
+SEL1884,Lakshmi Pillai Store,Asansol,West Bengal,666491,2.9
+SEL1885,Meera Saxena Store,Ambala,Haryana,967473,3.1
+SEL1886,Tanvi Bose Store,Darbhanga,Bihar,,3.9
+SEL1887,Kavya Tiwari Store,Bhagalpur,Bihar,,
+SEL1888,Ananya Bose Store,Patiala,Punjab,579992,3.0
+SEL1889,Pooja Tiwari Store,Ludhiana,Punjab,564532,2.6
+SEL1890,Nisha Pandey Store,Agra,Uttar Pradesh,454762,2.7
+SEL1891,Vikram Kumar Store,Bhagalpur,Bihar,371101,
+SEL1892,Kiran Singh Store,Asansol,West Bengal,195477,2.5
+SEL1893,Lakshmi Iyer Store,Patna,Bihar,650938,4.7
+SEL1894,Suresh Joshi Store,Saket,Delhi,599283,2.7
+SEL1895,Rohit Kumar Store,Jabalpur,Madhya Pradesh,109704,2.9
+SEL1896,Aarav Nair Store,Udaipur,Rajasthan,136842,3.4
+SEL1897,Kavya Nair Store,Bathinda,Punjab,168459,4.3
+SEL1898,Deepak Saxena Store,Lucknow,Uttar Pradesh,866450,4.3
+SEL1899,Nikhil Singh Store,Bathinda,Punjab,665221,3.1
+SEL1900,Kavya Bose Store,Patna,Bihar,149838,3.3
+SEL1901,Sneha Mehta Store,Rohini,Delhi,872939,4.6
+SEL1902,Ananya Mishra Store,Warangal,Telangana,513945,3.7
+SEL1903,Rahul Naidu Store,Karimnagar,Telangana,488738,3.6
+SEL1904,Sanjay Shah Store,Lucknow,Uttar Pradesh,258591,4.1
+SEL1905,Suresh Agarwal Store,Ajmer,Rajasthan,519553,3.6
+SEL1906,Anjali Shah Store,Vadodara,Gujarat,522877,3.6
+SEL1907,Vikram Mehta Store,Ujjain,Madhya Pradesh,165730,4.5
+SEL1908,Gaurav Kumar Store,Darbhanga,Bihar,633356,4.8
+SEL1909,Aarav Gupta Store,Siliguri,West Bengal,698212,3.9
+SEL1910,Sanjay Das Store,Kochi,Kerala,130898,3.2
+SEL1911,Ananya Patel Store,Muzaffarpur,Bihar,230409,4.9
+SEL1912,Nikhil Pandey Store,Mumbai,Maharashtra,548962,4.3
+SEL1913,Tarun Shah Store,Thrissur,Kerala,539158,
+SEL1914,Deepak Iyer Store,Ambala,Haryana,618013,4.0
+SEL1915,Vikram Mishra Store,Bhubaneswar,Odisha,791875,4.4
+SEL1916,Sunita Naidu Store,Howrah,West Bengal,914848,4.4
+SEL1917,Sunita Iyer Store,Kochi,Kerala,188875,4.5
+SEL1918,Ananya Rao Store,Janakpuri,Delhi,467848,4.9
+SEL1919,Kavya Das Store,Cuttack,Odisha,455253,3.5
+SEL1920,Gaurav Iyer Store,Salem,Tamil Nadu,510641,3.1
+SEL1921,Mohan Singh Store,Salem,Tamil Nadu,185462,
+SEL1922,Divya Naidu Store,Howrah,West Bengal,381193,4.4
+SEL1923,Ravi Reddy Store,Nashik,Maharashtra,173947,3.9
+SEL1924,Priya Pandey Store,Hyderabad,Telangana,867629,
+SEL1925,Sneha Bose Store,Sambalpur,Odisha,903803,3.1
+SEL1926,Mohan Das Store,Bhagalpur,Bihar,496311,
+SEL1927,Manish Mehta Store,Ambala,Haryana,377517,3.1
+SEL1928,Divya Reddy Store,Patna,Bihar,458482,4.5
+SEL1929,Yasmin Pillai Store,Chennai,Tamil Nadu,964433,3.6
+SEL1930,Gaurav Naidu Store,Indore,Madhya Pradesh,620412,5.0
+SEL1931,Neha Iyer Store,Kolkata,West Bengal,,4.2
+SEL1932,Ishaan Mishra Store,Durgapur,West Bengal,267297,4.4
+SEL1933,Manish Mehta Store,Vadodara,Gujarat,438449,2.6
+SEL1934,Vikram Gupta Store,Dwarka,Delhi,949823,4.3
+SEL1935,Pooja Gupta Store,Hisar,Haryana,593316,3.5
+SEL1936,Sanjay Naidu Store,Patiala,Punjab,197384,3.3
+SEL1937,Meera Saxena Store,Madurai,Tamil Nadu,609910,4.5
+SEL1938,Yasmin Pillai Store,Rajkot,Gujarat,264162,3.1
+SEL1939,Amit Pillai Store,Bhopal,Madhya Pradesh,803128,3.0
+SEL1940,Ishaan Malhotra Store,Salem,Tamil Nadu,496468,3.4
+SEL1941,Anjali Gupta Store,Gandhinagar,Gujarat,192473,4.1
+SEL1942,Yasmin Chopra Store,Cuttack,Odisha,987868,3.1
+SEL1943,Manish Iyer Store,New Delhi,Delhi,316919,3.9
+SEL1944,Aisha Reddy Store,Coimbatore,Tamil Nadu,381745,3.5
+SEL1945,Arjun Chopra Store,Rourkela,Odisha,625214,
+SEL1946,Rohit Agarwal Store,Aurangabad,Maharashtra,970730,
+SEL1947,Tanvi Pandey Store,Patiala,Punjab,750137,3.3
+SEL1948,Rahul Joshi Store,Darbhanga,Bihar,536239,3.2
+SEL1949,Gaurav Saxena Store,Mumbai,Maharashtra,383836,3.1
+SEL1950,Manish Pillai Store,Kochi,Kerala,364699,2.7
+SEL1951,Kavya Sharma Store,Bathinda,Punjab,,3.6
+SEL1952,Kavya Joshi Store,Gandhinagar,Gujarat,179860,3.1
+SEL1953,Zara Mehta Store,Surat,Gujarat,341601,4.9
+SEL1954,Kiran Patel Store,Jodhpur,Rajasthan,821111,4.0
+SEL1955,Anjali Chopra Store,Nizamabad,Telangana,689862,3.7
+SEL1956,Meera Malhotra Store,Tiruchirappalli,Tamil Nadu,119464,3.3
+SEL1957,Sanjay Nair Store,Dwarka,Delhi,617355,
+SEL1958,Anjali Verma Store,Cuttack,Odisha,852163,3.4
+SEL1959,Yasmin Joshi Store,Vadodara,Gujarat,529976,4.6
+SEL1960,Aarav Rao Store,Kanpur,Uttar Pradesh,827659,3.1
+SEL1961,Rahul Joshi Store,New Delhi,Delhi,396012,3.2
+SEL1962,Neha Mehta Store,Bengaluru,Karnataka,361611,
+SEL1963,Arjun Iyer Store,Coimbatore,Tamil Nadu,297921,4.8
+SEL1964,Ravi Gupta Store,Cuttack,Odisha,892064,4.2
+SEL1965,Priya Shah Store,Tiruchirappalli,Tamil Nadu,102514,2.7
+SEL1966,Ishaan Shah Store,Lucknow,Uttar Pradesh,597807,4.7
+SEL1967,Kiran Patel Store,Ambala,Haryana,224275,4.4
+SEL1968,Omkar Nair Store,Bhagalpur,Bihar,312248,3.1
+SEL1969,Mohan Pillai Store,Thiruvananthapuram,Kerala,640827,2.7
+SEL1970,Zara Nair Store,Siliguri,West Bengal,941595,4.3
+SEL1971,Tarun Chopra Store,Chennai,Tamil Nadu,192577,3.1
+SEL1972,Mohan Naidu Store,Kollam,Kerala,465166,3.8
+SEL1973,Gaurav Pillai Store,Ajmer,Rajasthan,502687,2.7
+SEL1974,Meera Joshi Store,Nizamabad,Telangana,590018,3.9
+SEL1975,Pankaj Gupta Store,Rohini,Delhi,282186,2.6
+SEL1976,Rajesh Mishra Store,Khammam,Telangana,313627,3.8
+SEL1977,Tarun Nair Store,Salem,Tamil Nadu,458718,4.6
+SEL1978,Riya Shah Store,Hyderabad,Telangana,783924,4.0
+SEL1979,Vijay Malhotra Store,Faridabad,Haryana,501148,4.7
+SEL1980,Deepak Saxena Store,Berhampur,Odisha,199053,
+SEL1981,Tarun Agarwal Store,Jodhpur,Rajasthan,868279,4.2
+SEL1982,Deepak Patel Store,Bhagalpur,Bihar,721991,3.4
+SEL1983,Tarun Singh Store,Panipat,Haryana,292022,3.2
+SEL1984,Kavya Singh Store,Mangaluru,Karnataka,454349,3.3
+SEL1985,Nisha Mishra Store,Salem,Tamil Nadu,766334,2.8
+SEL1986,Nisha Mehta Store,Lucknow,Uttar Pradesh,230390,3.1
+SEL1987,Kavya Reddy Store,Pune,Maharashtra,240887,3.5
+SEL1988,Gaurav Das Store,Hisar,Haryana,961905,3.4
+SEL1989,Rahul Mishra Store,Varanasi,Uttar Pradesh,739950,3.7
+SEL1990,Manish Gupta Store,Thiruvananthapuram,Kerala,833363,3.7
+SEL1991,Ishaan Kumar Store,Kollam,Kerala,946488,
+SEL1992,Mohan Mehta Store,Kanpur,Uttar Pradesh,807028,3.5
+SEL1993,Amit Chopra Store,Thiruvananthapuram,Kerala,577408,4.2
+SEL1994,Divya Bose Store,Kozhikode,Kerala,148678,4.7
+SEL1995,Aisha Agarwal Store,Kanpur,Uttar Pradesh,805508,3.6
+SEL1996,Tarun Pillai Store,Chennai,Tamil Nadu,,3.9
+SEL1997,Vijay Agarwal Store,Faridabad,Haryana,530221,4.2
+SEL1998,Tarun Gupta Store,Tiruchirappalli,Tamil Nadu,618060,3.7
+SEL1999,Ishaan Pandey Store,Kanpur,Uttar Pradesh,253334,
+SEL2000,Suresh Rao Store,Patna,Bihar,836256,3.2
+SEL2001,Varun Pillai Store,Darbhanga,Bihar,228381,2.6
+SEL2002,Manish Shah Store,Thrissur,Kerala,586329,4.2
+SEL2003,Pooja Reddy Store,Kota,Rajasthan,912270,3.2
+SEL2004,Ravi Verma Store,Sambalpur,Odisha,148012,4.6
+SEL2005,Mohan Das Store,Kollam,Kerala,590132,4.1
+SEL2006,Rohit Chopra Store,Hisar,Haryana,507293,
+SEL2007,Kiran Rao Store,Mumbai,Maharashtra,807406,4.7
+SEL2008,Vijay Patel Store,Muzaffarpur,Bihar,345054,3.6
+SEL2009,Lakshmi Naidu Store,Durgapur,West Bengal,615646,3.0
+SEL2010,Sneha Singh Store,Vadodara,Gujarat,353462,4.8
+SEL2011,Mohan Verma Store,Hisar,Haryana,176654,5.0
+SEL2012,Yasmin Sharma Store,Gurugram,Haryana,896981,3.0
+SEL2013,Aisha Verma Store,Patna,Bihar,590261,4.4
+SEL2014,Arjun Mehta Store,Lucknow,Uttar Pradesh,512827,2.7
+SEL2015,Tanvi Patel Store,Gwalior,Madhya Pradesh,524670,2.6
+SEL2016,Arjun Saxena Store,Mysuru,Karnataka,801696,4.2
+SEL2017,Rohit Patel Store,Indore,Madhya Pradesh,543269,3.1
+SEL2018,Ravi Chopra Store,Jaipur,Rajasthan,454869,4.7
+SEL2019,Sunita Kumar Store,Thiruvananthapuram,Kerala,,3.8
+SEL2020,Suresh Mehta Store,Dwarka,Delhi,283532,4.5
+SEL2021,Vikram Shah Store,Hyderabad,Telangana,155296,2.8
+SEL2022,Priya Iyer Store,Gwalior,Madhya Pradesh,626525,4.7
+SEL2023,Rohit Kumar Store,Ujjain,Madhya Pradesh,668764,3.0
+SEL2024,Kiran Rao Store,Faridabad,Haryana,316545,
+SEL2025,Vijay Kumar Store,Amritsar,Punjab,902077,4.0
+SEL2026,Meera Pandey Store,Ujjain,Madhya Pradesh,289318,2.7
+SEL2027,Anjali Verma Store,Aurangabad,Maharashtra,302550,4.9
+SEL2028,Aisha Nair Store,Jodhpur,Rajasthan,903566,3.3
+SEL2029,Riya Agarwal Store,Kanpur,Uttar Pradesh,341070,4.3
+SEL2030,Meera Saxena Store,Bhubaneswar,Odisha,500458,4.1
+SEL2031,Priya Shah Store,Bathinda,Punjab,209448,2.6
+SEL2032,Aarav Das Store,Nizamabad,Telangana,549442,4.7
+SEL2033,Vijay Naidu Store,Gurugram,Haryana,784561,3.3
+SEL2034,Ananya Pillai Store,Panipat,Haryana,885890,3.1
+SEL2035,Ravi Tiwari Store,Gandhinagar,Gujarat,961054,2.6
+SEL2036,Ananya Mishra Store,Bhopal,Madhya Pradesh,911789,
+SEL2037,Pooja Sharma Store,Ajmer,Rajasthan,,4.1
+SEL2038,Ravi Mishra Store,Amritsar,Punjab,428322,3.0
+SEL2039,Nikhil Iyer Store,Hyderabad,Telangana,679893,3.7
+SEL2040,Tarun Naidu Store,Kolkata,West Bengal,857000,4.5
+SEL2041,Anjali Rao Store,Janakpuri,Delhi,899518,4.9
+SEL2042,Aisha Singh Store,Jalandhar,Punjab,124866,4.3
+SEL2043,Suresh Sharma Store,Panipat,Haryana,462302,3.0
+SEL2044,Tarun Chopra Store,Chennai,Tamil Nadu,710071,3.5
+SEL2045,Nisha Pandey Store,Karimnagar,Telangana,732737,3.9
+SEL2046,Pooja Rao Store,Warangal,Telangana,,4.7
+SEL2047,Nisha Kumar Store,Aurangabad,Maharashtra,901931,3.9
+SEL2048,Kavya Kumar Store,Udaipur,Rajasthan,280076,3.7
+SEL2049,Rohit Reddy Store,Gurugram,Haryana,531363,3.1
+SEL2050,Nikhil Gupta Store,Hisar,Haryana,433239,3.7
+SEL2051,Aditi Sharma Store,Berhampur,Odisha,299519,3.3
+SEL2052,Zara Saxena Store,Agra,Uttar Pradesh,130931,3.9
+SEL2053,Yasmin Iyer Store,Ghaziabad,Uttar Pradesh,803049,
+SEL2054,Meera Gupta Store,Gaya,Bihar,481044,4.9
+SEL2055,Rahul Saxena Store,Patna,Bihar,336897,4.5
+SEL2056,Kiran Gupta Store,Agra,Uttar Pradesh,515794,4.6
+SEL2057,Ananya Mishra Store,Bhopal,Madhya Pradesh,233412,3.4
+SEL2058,Vikram Pandey Store,Gandhinagar,Gujarat,320468,4.2
+SEL2059,Neha Tiwari Store,Bathinda,Punjab,262045,3.5
+SEL2060,Omkar Pandey Store,Chennai,Tamil Nadu,184650,2.6
+SEL2061,Manish Iyer Store,Jaipur,Rajasthan,711506,4.7
+SEL2062,Varun Iyer Store,Jalandhar,Punjab,699584,2.6
+SEL2063,Varun Pillai Store,Khammam,Telangana,160477,2.8
+SEL2064,Suresh Gupta Store,Nizamabad,Telangana,360784,2.5
+SEL2065,Riya Pillai Store,Nagpur,Maharashtra,401706,2.7
+SEL2066,Zara Joshi Store,Cuttack,Odisha,127223,2.6
+SEL2067,Mohan Malhotra Store,Thrissur,Kerala,,4.2
+SEL2068,Ishaan Reddy Store,Varanasi,Uttar Pradesh,394219,4.6
+SEL2069,Kiran Shah Store,Aurangabad,Maharashtra,887962,4.5
+SEL2070,Suresh Rao Store,Mysuru,Karnataka,804422,4.1
+SEL2071,Pooja Bose Store,Mysuru,Karnataka,757154,4.5
+SEL2072,Arjun Nair Store,Howrah,West Bengal,716543,3.6
+SEL2073,Pankaj Rao Store,Howrah,West Bengal,226885,
+SEL2074,Vijay Patel Store,Thiruvananthapuram,Kerala,405019,3.6
+SEL2075,Aditi Saxena Store,Khammam,Telangana,599133,2.6
+SEL2076,Ananya Gupta Store,Kochi,Kerala,439272,4.3
+SEL2077,Rahul Malhotra Store,Gaya,Bihar,393140,4.6
+SEL2078,Tanvi Chopra Store,Jaipur,Rajasthan,183861,3.1
+SEL2079,Vijay Agarwal Store,Bhagalpur,Bihar,366643,3.3
+SEL2080,Divya Joshi Store,Dwarka,Delhi,116376,
+SEL2081,Anjali Tiwari Store,Dwarka,Delhi,558502,
+SEL2082,Nisha Pillai Store,Salem,Tamil Nadu,383968,4.7
+SEL2083,Meera Malhotra Store,Thrissur,Kerala,142730,3.7
+SEL2084,Neha Naidu Store,Hisar,Haryana,267170,
+SEL2085,Sneha Tiwari Store,Bathinda,Punjab,856286,3.2
+SEL2086,Riya Patel Store,Bengaluru,Karnataka,515702,
+SEL2087,Pankaj Mehta Store,Bathinda,Punjab,294162,3.4
+SEL2088,Amit Iyer Store,Warangal,Telangana,552378,3.8
+SEL2089,Pankaj Kumar Store,Asansol,West Bengal,448139,4.0
+SEL2090,Nikhil Verma Store,Rajkot,Gujarat,504370,3.1
+SEL2091,Meera Bose Store,Amritsar,Punjab,975756,3.3
+SEL2092,Kiran Pillai Store,Gwalior,Madhya Pradesh,510021,3.8
+SEL2093,Anjali Joshi Store,Mumbai,Maharashtra,100980,3.2
+SEL2094,Tarun Patel Store,Kota,Rajasthan,359936,
+SEL2095,Pankaj Rao Store,Kolkata,West Bengal,108332,4.6
+SEL2096,Varun Rao Store,Nashik,Maharashtra,573735,3.3
+SEL2097,Kavya Pillai Store,Ajmer,Rajasthan,491156,3.5
+SEL2098,Yasmin Naidu Store,Mumbai,Maharashtra,124734,3.9
+SEL2099,Divya Saxena Store,Jabalpur,Madhya Pradesh,946162,4.6
+SEL2100,Rohit Verma Store,Ambala,Haryana,418147,2.9
+SEL2101,Aditi Verma Store,Panipat,Haryana,680861,4.1
+SEL2102,Suresh Singh Store,Rourkela,Odisha,646075,3.4
+SEL2103,Vijay Kumar Store,Asansol,West Bengal,113269,4.7
+SEL2104,Yasmin Sharma Store,Varanasi,Uttar Pradesh,961454,4.2
+SEL2105,Deepak Kumar Store,Gandhinagar,Gujarat,143866,2.9
+SEL2106,Pooja Chopra Store,Thiruvananthapuram,Kerala,409979,3.2
+SEL2107,Mohan Chopra Store,Chennai,Tamil Nadu,320868,2.6
+SEL2108,Ishaan Pillai Store,Rourkela,Odisha,169327,4.4
+SEL2109,Kiran Chopra Store,Bhopal,Madhya Pradesh,153452,3.5
+SEL2110,Riya Pillai Store,Ahmedabad,Gujarat,490087,2.6
+SEL2111,Rajesh Rao Store,Rajkot,Gujarat,233511,2.5
+SEL2112,Lakshmi Saxena Store,Saket,Delhi,518558,4.9
+SEL2113,Nikhil Saxena Store,Bhopal,Madhya Pradesh,687327,
+SEL2114,Gaurav Sharma Store,Jalandhar,Punjab,,3.3
+SEL2115,Nikhil Tiwari Store,Madurai,Tamil Nadu,579308,3.8
+SEL2116,Arjun Pillai Store,Lucknow,Uttar Pradesh,824864,3.9
+SEL2117,Suresh Mehta Store,Bengaluru,Karnataka,127498,
+SEL2118,Meera Joshi Store,Thiruvananthapuram,Kerala,550318,3.3
+SEL2119,Riya Naidu Store,Bhubaneswar,Odisha,737887,3.5
+SEL2120,Kiran Sharma Store,Pune,Maharashtra,169857,3.0
+SEL2121,Kavya Naidu Store,Bengaluru,Karnataka,756185,2.6
+SEL2122,Ravi Sharma Store,Rourkela,Odisha,832916,2.9
+SEL2123,Pooja Saxena Store,Hyderabad,Telangana,398389,2.5
+SEL2124,Ishaan Kumar Store,Chennai,Tamil Nadu,207465,3.6
+SEL2125,Priya Joshi Store,Saket,Delhi,680008,4.2
+SEL2126,Varun Pandey Store,Mumbai,Maharashtra,202994,3.0
+SEL2127,Ishaan Pandey Store,Mumbai,Maharashtra,166776,3.8
+SEL2128,Ananya Pillai Store,Muzaffarpur,Bihar,900477,3.3
+SEL2129,Rohit Agarwal Store,Thiruvananthapuram,Kerala,293909,2.8
+SEL2130,Lakshmi Bose Store,Durgapur,West Bengal,192039,2.8
+SEL2131,Lakshmi Tiwari Store,Rourkela,Odisha,740100,4.0
+SEL2132,Lakshmi Verma Store,Darbhanga,Bihar,809297,2.8
+SEL2133,Sunita Joshi Store,Pune,Maharashtra,106520,3.9
+SEL2134,Zara Iyer Store,Sambalpur,Odisha,901468,3.0
+SEL2135,Yasmin Naidu Store,Jabalpur,Madhya Pradesh,984851,4.7
+SEL2136,Vijay Reddy Store,Kochi,Kerala,681389,2.6
+SEL2137,Divya Rao Store,Rohini,Delhi,173629,
+SEL2138,Ishaan Sharma Store,Nashik,Maharashtra,235083,4.4
+SEL2139,Riya Kumar Store,New Delhi,Delhi,444259,4.4
+SEL2140,Sunita Pandey Store,Nagpur,Maharashtra,308580,2.9
+SEL2141,Nikhil Das Store,Panipat,Haryana,405750,3.0
+SEL2142,Gaurav Nair Store,Asansol,West Bengal,540126,3.9
+SEL2143,Ravi Joshi Store,Dwarka,Delhi,741981,4.2
+SEL2144,Aisha Iyer Store,Jodhpur,Rajasthan,408123,4.4
+SEL2145,Varun Malhotra Store,Mangaluru,Karnataka,686020,4.1
+SEL2146,Meera Malhotra Store,Nashik,Maharashtra,453686,4.5
+SEL2147,Suresh Mehta Store,Berhampur,Odisha,658485,3.6
+SEL2148,Kavya Nair Store,Howrah,West Bengal,110797,3.9
+SEL2149,Aisha Reddy Store,Warangal,Telangana,585346,3.6
+SEL2150,Sanjay Agarwal Store,Rohini,Delhi,822059,4.4
+SEL2151,Manish Tiwari Store,Ludhiana,Punjab,172176,2.9
+SEL2152,Divya Chopra Store,Hyderabad,Telangana,310466,3.1
+SEL2153,Kavya Reddy Store,Ludhiana,Punjab,494798,4.6
+SEL2154,Yasmin Gupta Store,Bhubaneswar,Odisha,973792,4.3
+SEL2155,Nisha Gupta Store,Bengaluru,Karnataka,722821,4.3
+SEL2156,Deepak Verma Store,Saket,Delhi,216662,2.7
+SEL2157,Gaurav Verma Store,Muzaffarpur,Bihar,488666,
+SEL2158,Yasmin Sharma Store,Bhopal,Madhya Pradesh,358416,3.9
+SEL2159,Neha Kumar Store,Patna,Bihar,,
+SEL2160,Varun Rao Store,Madurai,Tamil Nadu,545643,3.6
+SEL2161,Neha Rao Store,Gurugram,Haryana,921302,3.9
+SEL2162,Rohit Gupta Store,Patiala,Punjab,645188,3.1
+SEL2163,Mohan Pandey Store,Rourkela,Odisha,586292,4.6
+SEL2164,Ravi Shah Store,Thiruvananthapuram,Kerala,884403,4.8
+SEL2165,Omkar Agarwal Store,Ghaziabad,Uttar Pradesh,253734,3.7
+SEL2166,Pooja Agarwal Store,Panipat,Haryana,,3.6
+SEL2167,Lakshmi Pillai Store,Panipat,Haryana,575237,3.3
+SEL2168,Zara Bose Store,Bathinda,Punjab,278316,3.2
+SEL2169,Ishaan Naidu Store,Jabalpur,Madhya Pradesh,984412,3.9
+SEL2170,Pankaj Malhotra Store,Warangal,Telangana,177538,2.9
+SEL2171,Mohan Malhotra Store,Dwarka,Delhi,206240,4.0
+SEL2172,Tarun Joshi Store,Gwalior,Madhya Pradesh,486783,3.9
+SEL2173,Sunita Rao Store,Gaya,Bihar,553255,4.2
+SEL2174,Nisha Sharma Store,Cuttack,Odisha,615441,3.1
+SEL2175,Aarav Rao Store,Rohini,Delhi,911413,4.3
+SEL2176,Rohit Joshi Store,Mangaluru,Karnataka,906380,2.5
+SEL2177,Neha Sharma Store,Ludhiana,Punjab,307221,3.8
+SEL2178,Amit Pandey Store,Patna,Bihar,702251,4.6
+SEL2179,Sunita Gupta Store,Kollam,Kerala,434589,4.3
+SEL2180,Vikram Singh Store,Mysuru,Karnataka,573937,4.6
+SEL2181,Ananya Reddy Store,Sambalpur,Odisha,597405,
+SEL2182,Tanvi Nair Store,Janakpuri,Delhi,639417,4.3
+SEL2183,Aisha Pillai Store,Gandhinagar,Gujarat,214828,3.7
+SEL2184,Anjali Rao Store,Lucknow,Uttar Pradesh,279464,3.3
+SEL2185,Manish Naidu Store,Mangaluru,Karnataka,257394,3.4
+SEL2186,Kiran Mehta Store,Vadodara,Gujarat,361921,2.8
+SEL2187,Gaurav Sharma Store,Gandhinagar,Gujarat,204481,4.2
+SEL2188,Aarav Joshi Store,Tiruchirappalli,Tamil Nadu,235754,4.1
+SEL2189,Meera Mishra Store,Kota,Rajasthan,473246,2.9
+SEL2190,Neha Mishra Store,Vadodara,Gujarat,651883,3.9
+SEL2191,Rohit Das Store,Nashik,Maharashtra,,2.8
+SEL2192,Priya Naidu Store,Bathinda,Punjab,262518,3.3
+SEL2193,Yasmin Verma Store,Panipat,Haryana,449047,2.6
+SEL2194,Vikram Patel Store,Kozhikode,Kerala,927553,4.1
+SEL2195,Meera Pillai Store,Patna,Bihar,439331,2.5
+SEL2196,Rohit Mehta Store,Kochi,Kerala,493628,3.2
+SEL2197,Vijay Iyer Store,Dwarka,Delhi,629295,3.2
+SEL2198,Ananya Kumar Store,Kota,Rajasthan,696502,4.4
+SEL2199,Gaurav Mishra Store,Thrissur,Kerala,880800,3.6
+SEL2200,Deepak Pandey Store,Patna,Bihar,888440,
+SEL2201,Pankaj Malhotra Store,Ghaziabad,Uttar Pradesh,470555,3.1
+SEL2202,Nisha Nair Store,Ambala,Haryana,922684,3.9
+SEL2203,Vijay Singh Store,Ajmer,Rajasthan,971628,2.9
+SEL2204,Zara Kumar Store,Aurangabad,Maharashtra,346259,5.0
+SEL2205,Rahul Iyer Store,Kochi,Kerala,412369,3.8
+SEL2206,Anjali Chopra Store,Surat,Gujarat,663401,4.7
+SEL2207,Nikhil Malhotra Store,Gaya,Bihar,226032,2.8
+SEL2208,Anjali Shah Store,Thiruvananthapuram,Kerala,770369,4.0
+SEL2209,Rohit Verma Store,Belagavi,Karnataka,366928,4.2
+SEL2210,Rahul Chopra Store,Sambalpur,Odisha,969087,
+SEL2211,Sneha Joshi Store,Gwalior,Madhya Pradesh,184696,3.7
+SEL2212,Omkar Joshi Store,Muzaffarpur,Bihar,559110,2.6
+SEL2213,Priya Pandey Store,Hisar,Haryana,245409,3.2
+SEL2214,Suresh Nair Store,Hisar,Haryana,271390,
+SEL2215,Rohit Verma Store,Gwalior,Madhya Pradesh,135141,3.3
+SEL2216,Pankaj Chopra Store,Panipat,Haryana,355751,2.7
+SEL2217,Kiran Rao Store,Muzaffarpur,Bihar,485704,2.5
+SEL2218,Sanjay Chopra Store,Gwalior,Madhya Pradesh,762584,3.8
+SEL2219,Arjun Verma Store,Panipat,Haryana,930557,4.3
+SEL2220,Manish Malhotra Store,Coimbatore,Tamil Nadu,554135,3.1
+SEL2221,Mohan Verma Store,Udaipur,Rajasthan,391811,4.2
+SEL2222,Nikhil Joshi Store,Rohini,Delhi,388130,
+SEL2223,Yasmin Joshi Store,Patiala,Punjab,274423,3.5
+SEL2224,Suresh Chopra Store,Mumbai,Maharashtra,879789,3.8
+SEL2225,Tarun Iyer Store,Muzaffarpur,Bihar,385594,
+SEL2226,Anjali Rao Store,Amritsar,Punjab,,3.4
+SEL2227,Gaurav Malhotra Store,Ambala,Haryana,989758,
+SEL2228,Gaurav Saxena Store,Siliguri,West Bengal,711274,3.4
+SEL2229,Nisha Rao Store,Rajkot,Gujarat,619473,3.8
+SEL2230,Rohit Tiwari Store,Dwarka,Delhi,328921,4.4
+SEL2231,Sneha Saxena Store,Ludhiana,Punjab,630043,4.9
+SEL2232,Ravi Chopra Store,Ahmedabad,Gujarat,,4.7
+SEL2233,Priya Patel Store,Jodhpur,Rajasthan,818123,4.8
+SEL2234,Kavya Iyer Store,Indore,Madhya Pradesh,347252,4.8
+SEL2235,Nisha Tiwari Store,Gandhinagar,Gujarat,889115,3.1
+SEL2236,Rahul Iyer Store,Sambalpur,Odisha,212326,4.9
+SEL2237,Varun Saxena Store,Dwarka,Delhi,948740,3.1
+SEL2238,Gaurav Das Store,Warangal,Telangana,480764,4.7
+SEL2239,Aarav Mehta Store,Ajmer,Rajasthan,212436,4.0
+SEL2240,Mohan Iyer Store,Asansol,West Bengal,841028,4.6
+SEL2241,Tanvi Kumar Store,New Delhi,Delhi,113130,5.0
+SEL2242,Rahul Pandey Store,Khammam,Telangana,177266,
+SEL2243,Aisha Rao Store,Mumbai,Maharashtra,376991,4.5
+SEL2244,Kavya Malhotra Store,Berhampur,Odisha,767107,3.0
+SEL2245,Tanvi Das Store,Pune,Maharashtra,721358,
+SEL2246,Vijay Sharma Store,Mysuru,Karnataka,347456,2.9
+SEL2247,Rajesh Patel Store,Cuttack,Odisha,,3.8
+SEL2248,Rahul Kumar Store,Gandhinagar,Gujarat,149354,3.8
+SEL2249,Yasmin Gupta Store,Cuttack,Odisha,120188,3.8
+SEL2250,Kiran Kumar Store,Rajkot,Gujarat,679184,4.3
+SEL2251,Ishaan Rao Store,Bengaluru,Karnataka,669110,3.5
+SEL2252,Deepak Reddy Store,Kanpur,Uttar Pradesh,892186,3.6
+SEL2253,Manish Tiwari Store,New Delhi,Delhi,741318,4.1
+SEL2254,Kavya Malhotra Store,Salem,Tamil Nadu,923639,4.2
+SEL2255,Rajesh Agarwal Store,Hyderabad,Telangana,277530,
+SEL2256,Ishaan Agarwal Store,Udaipur,Rajasthan,466702,2.6
+SEL2257,Zara Malhotra Store,Ghaziabad,Uttar Pradesh,615795,3.1
+SEL2258,Ishaan Mehta Store,Kollam,Kerala,684305,4.9
+SEL2259,Rahul Das Store,Hyderabad,Telangana,445606,4.8
+SEL2260,Ananya Singh Store,Muzaffarpur,Bihar,162852,4.1
+SEL2261,Tanvi Saxena Store,Siliguri,West Bengal,509665,3.0
+SEL2262,Tarun Pillai Store,Berhampur,Odisha,310286,2.7
+SEL2263,Anjali Gupta Store,Surat,Gujarat,217739,4.9
+SEL2264,Sanjay Saxena Store,Sambalpur,Odisha,453265,4.7
+SEL2265,Mohan Iyer Store,Faridabad,Haryana,349950,3.5
+SEL2266,Neha Verma Store,Vadodara,Gujarat,757982,4.1
+SEL2267,Sanjay Verma Store,Faridabad,Haryana,537959,4.8
+SEL2268,Pankaj Verma Store,Madurai,Tamil Nadu,136780,2.8
+SEL2269,Nikhil Das Store,Dwarka,Delhi,358655,4.1
+SEL2270,Pankaj Shah Store,Asansol,West Bengal,903248,4.8
+SEL2271,Kavya Verma Store,Salem,Tamil Nadu,148487,4.6
+SEL2272,Sanjay Saxena Store,Siliguri,West Bengal,627950,3.2
+SEL2273,Tarun Tiwari Store,Surat,Gujarat,581632,
+SEL2274,Anjali Mishra Store,Rajkot,Gujarat,340054,3.0
+SEL2275,Manish Shah Store,Hisar,Haryana,298741,3.0
+SEL2276,Tanvi Shah Store,Jaipur,Rajasthan,547564,2.7
+SEL2277,Aisha Iyer Store,Ludhiana,Punjab,340395,2.8
+SEL2278,Lakshmi Saxena Store,Ambala,Haryana,360061,
+SEL2279,Arjun Naidu Store,Hisar,Haryana,906013,3.2
+SEL2280,Suresh Reddy Store,Warangal,Telangana,452071,4.7
+SEL2281,Zara Das Store,Howrah,West Bengal,979745,4.6
+SEL2282,Vikram Agarwal Store,Rohini,Delhi,114768,2.8
+SEL2283,Rajesh Singh Store,Kolkata,West Bengal,663053,3.8
+SEL2284,Kavya Verma Store,Sambalpur,Odisha,227813,4.3
+SEL2285,Aditi Mehta Store,New Delhi,Delhi,397869,4.2
+SEL2286,Sneha Pandey Store,Belagavi,Karnataka,545991,2.8
+SEL2287,Priya Verma Store,Saket,Delhi,746967,3.3
+SEL2288,Rahul Mehta Store,Panipat,Haryana,514591,4.0
+SEL2289,Kavya Verma Store,Mangaluru,Karnataka,460477,4.0
+SEL2290,Divya Mehta Store,Muzaffarpur,Bihar,436503,4.5
+SEL2291,Vijay Sharma Store,Ujjain,Madhya Pradesh,372879,
+SEL2292,Ishaan Shah Store,Howrah,West Bengal,123631,3.7
+SEL2293,Rahul Bose Store,Thiruvananthapuram,Kerala,997483,4.6
+SEL2294,Arjun Nair Store,Coimbatore,Tamil Nadu,859457,
+SEL2295,Aditi Iyer Store,Muzaffarpur,Bihar,964472,2.8
+SEL2296,Zara Gupta Store,Salem,Tamil Nadu,627843,4.1
+SEL2297,Divya Chopra Store,Cuttack,Odisha,217247,
+SEL2298,Kiran Tiwari Store,Pune,Maharashtra,392688,
+SEL2299,Arjun Joshi Store,Nizamabad,Telangana,921653,3.6
+SEL2300,Amit Mehta Store,Asansol,West Bengal,494589,3.4
+SEL2301,Rahul Nair Store,Salem,Tamil Nadu,551056,4.1
+SEL2302,Vikram Pandey Store,Kolkata,West Bengal,798936,
+SEL2303,Pooja Agarwal Store,Jodhpur,Rajasthan,318573,4.8
+SEL2304,Ananya Das Store,Vadodara,Gujarat,348329,3.3
+SEL2305,Sunita Mehta Store,Gaya,Bihar,233183,
+SEL2306,Zara Iyer Store,Hyderabad,Telangana,212972,3.6
+SEL2307,Pooja Saxena Store,Gwalior,Madhya Pradesh,596236,3.8
+SEL2308,Ravi Nair Store,Aurangabad,Maharashtra,139783,2.6
+SEL2309,Aditi Pillai Store,Berhampur,Odisha,203453,4.5
+SEL2310,Nisha Naidu Store,Lucknow,Uttar Pradesh,324883,4.3
+SEL2311,Mohan Naidu Store,Berhampur,Odisha,858907,3.8
+SEL2312,Aisha Tiwari Store,Kolkata,West Bengal,183632,3.0
+SEL2313,Priya Joshi Store,Pune,Maharashtra,,4.8
+SEL2314,Aarav Saxena Store,Darbhanga,Bihar,820274,
+SEL2315,Meera Joshi Store,Surat,Gujarat,231351,3.1
+SEL2316,Ananya Verma Store,Gaya,Bihar,561360,4.3
+SEL2317,Priya Tiwari Store,Surat,Gujarat,666888,
+SEL2318,Gaurav Naidu Store,Durgapur,West Bengal,872609,2.8
+SEL2319,Sunita Das Store,Patna,Bihar,140314,
+SEL2320,Kiran Mishra Store,Nizamabad,Telangana,812639,
+SEL2321,Vijay Saxena Store,Indore,Madhya Pradesh,990260,4.8
+SEL2322,Tarun Reddy Store,Jaipur,Rajasthan,489557,4.9
+SEL2323,Ananya Patel Store,Karimnagar,Telangana,152287,4.2
+SEL2324,Pankaj Mishra Store,Coimbatore,Tamil Nadu,665439,4.5
+SEL2325,Ananya Saxena Store,Tiruchirappalli,Tamil Nadu,900470,3.8
+SEL2326,Riya Bose Store,Kota,Rajasthan,678139,2.6
+SEL2327,Ishaan Rao Store,Nizamabad,Telangana,438296,2.8
+SEL2328,Riya Mishra Store,Gwalior,Madhya Pradesh,660399,4.9
+SEL2329,Anjali Pillai Store,Jaipur,Rajasthan,735444,3.5
+SEL2330,Rajesh Mishra Store,Kochi,Kerala,356805,4.4
+SEL2331,Aditi Bose Store,Kozhikode,Kerala,623613,
+SEL2332,Divya Iyer Store,Asansol,West Bengal,544526,3.8
+SEL2333,Kiran Chopra Store,Karimnagar,Telangana,464674,2.9
+SEL2334,Vijay Rao Store,Hubli,Karnataka,,4.5
+SEL2335,Tarun Saxena Store,Hisar,Haryana,616202,2.9
+SEL2336,Sunita Bose Store,Coimbatore,Tamil Nadu,227872,4.3
+SEL2337,Arjun Saxena Store,Panipat,Haryana,791838,2.9
+SEL2338,Priya Shah Store,Kolkata,West Bengal,149772,4.5
+SEL2339,Anjali Tiwari Store,Amritsar,Punjab,607463,3.8
+SEL2340,Sneha Kumar Store,Ujjain,Madhya Pradesh,189130,3.5
+SEL2341,Sanjay Malhotra Store,Kochi,Kerala,210256,
+SEL2342,Lakshmi Patel Store,Belagavi,Karnataka,892856,4.2
+SEL2343,Deepak Naidu Store,Thrissur,Kerala,889227,2.7
+SEL2344,Divya Pandey Store,Nizamabad,Telangana,350980,
+SEL2345,Divya Chopra Store,Durgapur,West Bengal,754331,4.4
+SEL2346,Yasmin Das Store,Kollam,Kerala,783378,3.4
+SEL2347,Vikram Saxena Store,Khammam,Telangana,334003,4.9
+SEL2348,Riya Tiwari Store,Kota,Rajasthan,412748,4.6
+SEL2349,Ravi Rao Store,Vadodara,Gujarat,471581,3.2
+SEL2350,Vijay Kumar Store,Muzaffarpur,Bihar,913485,4.7
+SEL2351,Lakshmi Tiwari Store,Mumbai,Maharashtra,214866,
+SEL2352,Priya Mehta Store,Kolkata,West Bengal,787875,4.2
+SEL2353,Deepak Kumar Store,Indore,Madhya Pradesh,769179,
+SEL2354,Nikhil Gupta Store,Kota,Rajasthan,617771,
+SEL2355,Pankaj Verma Store,Chennai,Tamil Nadu,,2.6
+SEL2356,Suresh Rao Store,Bhubaneswar,Odisha,934108,3.1
+SEL2357,Nisha Shah Store,Hyderabad,Telangana,884784,3.8
+SEL2358,Zara Gupta Store,Darbhanga,Bihar,561236,4.0
+SEL2359,Vijay Iyer Store,Jalandhar,Punjab,725195,3.8
+SEL2360,Lakshmi Naidu Store,Berhampur,Odisha,344576,4.4
+SEL2361,Lakshmi Singh Store,Sambalpur,Odisha,784446,2.5
+SEL2362,Neha Agarwal Store,Howrah,West Bengal,723697,3.9
+SEL2363,Kiran Reddy Store,Mysuru,Karnataka,989928,4.0
+SEL2364,Pooja Das Store,Madurai,Tamil Nadu,848661,3.0
+SEL2365,Priya Bose Store,Varanasi,Uttar Pradesh,688393,4.1
+SEL2366,Omkar Pillai Store,Dwarka,Delhi,691400,4.1
+SEL2367,Priya Mishra Store,Kanpur,Uttar Pradesh,217789,3.8
+SEL2368,Kavya Agarwal Store,Dwarka,Delhi,652988,3.1
+SEL2369,Zara Bose Store,Ambala,Haryana,895367,3.5
+SEL2370,Aditi Verma Store,Bhubaneswar,Odisha,581776,3.2
+SEL2371,Varun Gupta Store,Nagpur,Maharashtra,498305,4.4
+SEL2372,Aisha Chopra Store,Nagpur,Maharashtra,615507,4.0
+SEL2373,Yasmin Shah Store,Mangaluru,Karnataka,130342,
+SEL2374,Mohan Shah Store,Ambala,Haryana,946274,3.9
+SEL2375,Gaurav Tiwari Store,Tiruchirappalli,Tamil Nadu,169159,4.8
+SEL2376,Arjun Iyer Store,Berhampur,Odisha,140770,4.6
+SEL2377,Deepak Agarwal Store,Hubli,Karnataka,886334,4.7
+SEL2378,Neha Verma Store,Kota,Rajasthan,529677,4.8
+SEL2379,Aarav Agarwal Store,Hubli,Karnataka,282176,3.0
+SEL2380,Anjali Iyer Store,Ujjain,Madhya Pradesh,562649,4.3
+SEL2381,Kiran Tiwari Store,Belagavi,Karnataka,247691,4.1
+SEL2382,Zara Reddy Store,Belagavi,Karnataka,595937,2.6
+SEL2383,Ishaan Iyer Store,Kozhikode,Kerala,922211,4.4
+SEL2384,Tanvi Nair Store,Gwalior,Madhya Pradesh,827561,3.0
+SEL2385,Arjun Das Store,Kochi,Kerala,537315,4.8
+SEL2386,Rohit Mehta Store,Kozhikode,Kerala,425535,4.6
+SEL2387,Aditi Tiwari Store,Nashik,Maharashtra,355459,
+SEL2388,Mohan Naidu Store,Rajkot,Gujarat,906256,4.2
+SEL2389,Yasmin Kumar Store,Dwarka,Delhi,381456,3.7
+SEL2390,Nikhil Reddy Store,Nagpur,Maharashtra,631609,
+SEL2391,Omkar Kumar Store,Jabalpur,Madhya Pradesh,809955,4.5
+SEL2392,Neha Chopra Store,Ajmer,Rajasthan,695710,2.7
+SEL2393,Ishaan Pillai Store,Berhampur,Odisha,310199,3.3
+SEL2394,Anjali Gupta Store,Udaipur,Rajasthan,552278,3.3
+SEL2395,Arjun Sharma Store,Jalandhar,Punjab,948108,2.8
+SEL2396,Vijay Tiwari Store,Ambala,Haryana,939658,4.9
+SEL2397,Vikram Mehta Store,Ludhiana,Punjab,346433,4.0
+SEL2398,Kiran Nair Store,Bhopal,Madhya Pradesh,263259,4.0
+SEL2399,Pooja Agarwal Store,Tiruchirappalli,Tamil Nadu,328598,3.5
+SEL2400,Tarun Saxena Store,Asansol,West Bengal,834260,4.4
+SEL2401,Pankaj Kumar Store,Ambala,Haryana,174017,3.7
+SEL2402,Neha Gupta Store,Berhampur,Odisha,390353,4.4
+SEL2403,Divya Das Store,Lucknow,Uttar Pradesh,489577,4.7
+SEL2404,Tanvi Das Store,Bhagalpur,Bihar,475398,4.1
+SEL2405,Vijay Singh Store,Bathinda,Punjab,289229,4.1
+SEL2406,Sanjay Bose Store,Coimbatore,Tamil Nadu,278998,4.5
+SEL2407,Aditi Chopra Store,Khammam,Telangana,663172,3.8
+SEL2408,Neha Bose Store,Indore,Madhya Pradesh,536184,4.5
+SEL2409,Ishaan Mishra Store,Jodhpur,Rajasthan,123158,2.7
+SEL2410,Mohan Das Store,Varanasi,Uttar Pradesh,,
+SEL2411,Ravi Pandey Store,Mumbai,Maharashtra,668209,4.8
+SEL2412,Neha Bose Store,Thiruvananthapuram,Kerala,965112,2.9
+SEL2413,Deepak Joshi Store,Cuttack,Odisha,463444,3.6
+SEL2414,Riya Saxena Store,Bhagalpur,Bihar,729100,3.7
+SEL2415,Yasmin Gupta Store,Mumbai,Maharashtra,961133,3.5
+SEL2416,Ananya Saxena Store,Bathinda,Punjab,567704,4.7
+SEL2417,Rajesh Iyer Store,Rohini,Delhi,883250,4.4
+SEL2418,Vikram Pillai Store,Pune,Maharashtra,372672,4.5
+SEL2419,Rahul Agarwal Store,Warangal,Telangana,,5.0
+SEL2420,Ananya Mishra Store,Kota,Rajasthan,754367,4.9
+SEL2421,Sunita Patel Store,Bengaluru,Karnataka,550136,4.7
+SEL2422,Sanjay Pillai Store,Hyderabad,Telangana,793341,3.9
+SEL2423,Zara Pillai Store,Agra,Uttar Pradesh,296230,3.3
+SEL2424,Pankaj Verma Store,Faridabad,Haryana,365050,
+SEL2425,Nikhil Mishra Store,Kozhikode,Kerala,793481,4.9
+SEL2426,Tarun Patel Store,Kollam,Kerala,280308,5.0
+SEL2427,Sneha Malhotra Store,Hubli,Karnataka,659861,4.0
+SEL2428,Lakshmi Kumar Store,Udaipur,Rajasthan,469702,4.3
+SEL2429,Yasmin Patel Store,Ambala,Haryana,396856,3.2
+SEL2430,Ananya Mehta Store,Patiala,Punjab,131864,3.0
+SEL2431,Meera Patel Store,New Delhi,Delhi,127628,4.1
+SEL2432,Sanjay Reddy Store,Madurai,Tamil Nadu,511019,
+SEL2433,Meera Reddy Store,Chennai,Tamil Nadu,,3.5
+SEL2434,Aarav Reddy Store,Jaipur,Rajasthan,520606,3.7
+SEL2435,Priya Verma Store,Ambala,Haryana,500714,4.8
+SEL2436,Rohit Rao Store,Surat,Gujarat,942329,
+SEL2437,Priya Rao Store,Ujjain,Madhya Pradesh,187588,3.1
+SEL2438,Suresh Singh Store,Indore,Madhya Pradesh,650271,2.8
+SEL2439,Sunita Singh Store,Salem,Tamil Nadu,401905,3.1
+SEL2440,Rajesh Naidu Store,Sambalpur,Odisha,625299,3.8
+SEL2441,Aarav Agarwal Store,Nizamabad,Telangana,829859,
+SEL2442,Rohit Shah Store,Belagavi,Karnataka,508205,3.8
+SEL2443,Riya Patel Store,New Delhi,Delhi,340901,4.8
+SEL2444,Tarun Reddy Store,Kota,Rajasthan,790056,4.1
+SEL2445,Aisha Nair Store,Siliguri,West Bengal,372249,3.7
+SEL2446,Ishaan Singh Store,Mangaluru,Karnataka,708988,4.4
+SEL2447,Aditi Nair Store,Janakpuri,Delhi,315115,4.9
+SEL2448,Kavya Iyer Store,Gandhinagar,Gujarat,677104,3.3
+SEL2449,Aisha Malhotra Store,Rohini,Delhi,691707,
+SEL2450,Sunita Pillai Store,Gurugram,Haryana,459876,3.0
+SEL2451,Ravi Singh Store,Cuttack,Odisha,646245,3.8
+SEL2452,Neha Bose Store,Patiala,Punjab,898962,3.7
+SEL2453,Lakshmi Patel Store,Hyderabad,Telangana,957962,3.1
+SEL2454,Tanvi Nair Store,Kollam,Kerala,825988,4.3
+SEL2455,Ravi Naidu Store,Madurai,Tamil Nadu,806957,3.2
+SEL2456,Omkar Das Store,Hubli,Karnataka,433432,4.4
+SEL2457,Gaurav Joshi Store,Hisar,Haryana,267783,4.6
+SEL2458,Pankaj Nair Store,New Delhi,Delhi,900584,4.7
+SEL2459,Kiran Nair Store,New Delhi,Delhi,384567,2.9
+SEL2460,Ravi Verma Store,Hisar,Haryana,618917,
+SEL2461,Anjali Agarwal Store,Agra,Uttar Pradesh,649950,3.8
+SEL2462,Lakshmi Mishra Store,Warangal,Telangana,341276,4.6
+SEL2463,Lakshmi Pandey Store,Coimbatore,Tamil Nadu,742171,3.5
+SEL2464,Anjali Kumar Store,Pune,Maharashtra,190355,4.1
+SEL2465,Riya Bose Store,Kochi,Kerala,824626,3.6
+SEL2466,Pooja Verma Store,Varanasi,Uttar Pradesh,976354,
+SEL2467,Lakshmi Naidu Store,Kolkata,West Bengal,843327,3.3
+SEL2468,Sunita Naidu Store,Muzaffarpur,Bihar,916006,4.4
+SEL2469,Amit Malhotra Store,Gurugram,Haryana,632581,4.3
+SEL2470,Aarav Kumar Store,Nashik,Maharashtra,634321,4.7
+SEL2471,Arjun Joshi Store,Siliguri,West Bengal,188629,4.0
+SEL2472,Nisha Mishra Store,Pune,Maharashtra,312807,4.4
+SEL2473,Divya Rao Store,Bathinda,Punjab,739912,
+SEL2474,Yasmin Agarwal Store,Bhagalpur,Bihar,899247,3.4
+SEL2475,Zara Chopra Store,Indore,Madhya Pradesh,270999,3.3
+SEL2476,Ishaan Iyer Store,Jabalpur,Madhya Pradesh,594500,2.9
+SEL2477,Pankaj Bose Store,Muzaffarpur,Bihar,848271,3.6
+SEL2478,Manish Naidu Store,Bathinda,Punjab,878599,4.5
+SEL2479,Ishaan Tiwari Store,Thiruvananthapuram,Kerala,732680,2.5
+SEL2480,Ananya Chopra Store,Bengaluru,Karnataka,220900,3.9
+SEL2481,Tarun Chopra Store,Tiruchirappalli,Tamil Nadu,745115,2.9
+SEL2482,Pankaj Joshi Store,Nashik,Maharashtra,988955,4.4
+SEL2483,Gaurav Nair Store,Pune,Maharashtra,842142,2.9
+SEL2484,Varun Patel Store,Jodhpur,Rajasthan,598752,2.9
+SEL2485,Sunita Kumar Store,Kochi,Kerala,140401,2.6
+SEL2486,Sneha Pandey Store,Khammam,Telangana,853008,3.6
+SEL2487,Sneha Sharma Store,Varanasi,Uttar Pradesh,609545,4.1
+SEL2488,Arjun Mehta Store,Bathinda,Punjab,393331,3.2
+SEL2489,Aisha Mishra Store,Gurugram,Haryana,493966,2.6
+SEL2490,Gaurav Reddy Store,Surat,Gujarat,313773,4.8
+SEL2491,Sneha Sharma Store,Amritsar,Punjab,249933,4.7
+SEL2492,Arjun Bose Store,Belagavi,Karnataka,362952,3.7
+SEL2493,Zara Gupta Store,Rourkela,Odisha,551017,4.6
+SEL2494,Vikram Rao Store,Ghaziabad,Uttar Pradesh,881230,4.5
+SEL2495,Pooja Rao Store,Rajkot,Gujarat,,3.9
+SEL2496,Aditi Reddy Store,Coimbatore,Tamil Nadu,605954,3.8
+SEL2497,Ravi Malhotra Store,Gwalior,Madhya Pradesh,774494,4.1
+SEL2498,Arjun Agarwal Store,Jodhpur,Rajasthan,839700,4.3
+SEL2499,Meera Singh Store,Thiruvananthapuram,Kerala,714030,4.6
+SEL2500,Suresh Bose Store,Amritsar,Punjab,580764,3.9
+SEL2501,Pooja Pandey Store,Thiruvananthapuram,Kerala,779635,4.4
+SEL2502,Manish Shah Store,Gwalior,Madhya Pradesh,358873,
+SEL2503,Mohan Patel Store,Surat,Gujarat,949115,4.4
+SEL2504,Meera Rao Store,Jabalpur,Madhya Pradesh,957449,2.6
+SEL2505,Tanvi Pillai Store,Jodhpur,Rajasthan,173373,4.1
+SEL2506,Sanjay Joshi Store,Karimnagar,Telangana,626564,4.3
+SEL2507,Ravi Reddy Store,Mysuru,Karnataka,985529,4.9
+SEL2508,Aditi Joshi Store,Patna,Bihar,580737,3.6
+SEL2509,Nisha Rao Store,Saket,Delhi,548572,2.8
+SEL2510,Mohan Iyer Store,Lucknow,Uttar Pradesh,686089,3.3
+SEL2511,Divya Tiwari Store,Sambalpur,Odisha,898474,3.5
+SEL2512,Kavya Iyer Store,Warangal,Telangana,818293,4.4
+SEL2513,Nikhil Pandey Store,Nashik,Maharashtra,815300,3.0
+SEL2514,Vikram Sharma Store,Gandhinagar,Gujarat,882476,2.9
+SEL2515,Kavya Mehta Store,Coimbatore,Tamil Nadu,272626,
+SEL2516,Rajesh Patel Store,Bhopal,Madhya Pradesh,476171,3.1
+SEL2517,Tarun Joshi Store,Nizamabad,Telangana,183904,4.8
+SEL2518,Lakshmi Das Store,Agra,Uttar Pradesh,170139,2.9
+SEL2519,Aarav Saxena Store,Udaipur,Rajasthan,806641,
+SEL2520,Anjali Reddy Store,Panipat,Haryana,750095,3.5
+SEL2521,Pooja Mehta Store,Nagpur,Maharashtra,639585,2.8
+SEL2522,Omkar Pandey Store,Ludhiana,Punjab,759264,2.8
+SEL2523,Omkar Agarwal Store,Jalandhar,Punjab,863854,4.8
+SEL2524,Aditi Pillai Store,Mysuru,Karnataka,198927,4.6
+SEL2525,Kiran Agarwal Store,Surat,Gujarat,567502,4.8
+SEL2526,Aisha Reddy Store,Karimnagar,Telangana,505092,3.3
+SEL2527,Ishaan Bose Store,Kochi,Kerala,355107,3.8
+SEL2528,Tarun Saxena Store,Jodhpur,Rajasthan,977748,3.1
+SEL2529,Manish Sharma Store,Kochi,Kerala,919981,3.5
+SEL2530,Yasmin Tiwari Store,Amritsar,Punjab,919595,4.5
+SEL2531,Arjun Mishra Store,Ambala,Haryana,153101,3.7
+SEL2532,Gaurav Rao Store,Aurangabad,Maharashtra,397502,2.8
+SEL2533,Amit Mehta Store,Jalandhar,Punjab,657021,2.5
+SEL2534,Anjali Reddy Store,Durgapur,West Bengal,387664,3.1
+SEL2535,Manish Patel Store,Jabalpur,Madhya Pradesh,943014,3.0
+SEL2536,Arjun Mishra Store,Muzaffarpur,Bihar,421200,4.5
+SEL2537,Anjali Malhotra Store,Pune,Maharashtra,372083,4.2
+SEL2538,Pankaj Saxena Store,Mangaluru,Karnataka,132110,4.6
+SEL2539,Ananya Das Store,Pune,Maharashtra,546065,3.5
+SEL2540,Arjun Iyer Store,Ambala,Haryana,628692,4.0
+SEL2541,Nikhil Agarwal Store,Gwalior,Madhya Pradesh,869889,3.5
+SEL2542,Aarav Pandey Store,Bhagalpur,Bihar,378626,3.1
+SEL2543,Sneha Pandey Store,Patiala,Punjab,428536,4.1
+SEL2544,Amit Mehta Store,Kanpur,Uttar Pradesh,,
+SEL2545,Ravi Reddy Store,Udaipur,Rajasthan,461587,3.1
+SEL2546,Rahul Gupta Store,Jaipur,Rajasthan,892573,4.8
+SEL2547,Sunita Shah Store,Siliguri,West Bengal,572418,2.8
+SEL2548,Priya Saxena Store,Amritsar,Punjab,787469,4.4
+SEL2549,Varun Das Store,Vadodara,Gujarat,327587,3.9
+SEL2550,Nisha Patel Store,Faridabad,Haryana,,
+SEL2551,Ravi Rao Store,Gandhinagar,Gujarat,459106,2.7
+SEL2552,Manish Pandey Store,Dwarka,Delhi,817532,3.5
+SEL2553,Vijay Shah Store,Aurangabad,Maharashtra,875228,4.5
+SEL2554,Ishaan Joshi Store,Bengaluru,Karnataka,623216,4.5
+SEL2555,Amit Das Store,Coimbatore,Tamil Nadu,677536,4.5
+SEL2556,Manish Pandey Store,Ludhiana,Punjab,487143,4.4
+SEL2557,Aditi Reddy Store,Tiruchirappalli,Tamil Nadu,591156,3.4
+SEL2558,Rajesh Sharma Store,Jaipur,Rajasthan,426039,4.3
+SEL2559,Mohan Das Store,Karimnagar,Telangana,252302,2.8
+SEL2560,Mohan Sharma Store,Aurangabad,Maharashtra,966931,
+SEL2561,Vikram Rao Store,Nizamabad,Telangana,954360,3.8
+SEL2562,Ananya Singh Store,Mumbai,Maharashtra,605346,3.9
+SEL2563,Mohan Gupta Store,Patiala,Punjab,482705,3.7
+SEL2564,Pankaj Patel Store,Ambala,Haryana,467880,
+SEL2565,Anjali Tiwari Store,Udaipur,Rajasthan,161016,
+SEL2566,Sanjay Mishra Store,Cuttack,Odisha,608574,
+SEL2567,Lakshmi Mehta Store,Bhagalpur,Bihar,261188,4.7
+SEL2568,Vijay Agarwal Store,Ujjain,Madhya Pradesh,596392,4.1
+SEL2569,Sanjay Naidu Store,Aurangabad,Maharashtra,258769,4.7
+SEL2570,Ravi Rao Store,Ambala,Haryana,523731,3.6
+SEL2571,Sunita Agarwal Store,Kochi,Kerala,377389,2.5
+SEL2572,Rahul Patel Store,Warangal,Telangana,465346,4.4
+SEL2573,Arjun Mehta Store,Bhubaneswar,Odisha,420178,3.9
+SEL2574,Kiran Nair Store,Patna,Bihar,646547,2.5
+SEL2575,Tanvi Iyer Store,Ahmedabad,Gujarat,943030,3.9
+SEL2576,Neha Sharma Store,Bhubaneswar,Odisha,385997,4.8
+SEL2577,Vikram Reddy Store,Rohini,Delhi,315405,3.0
+SEL2578,Pooja Bose Store,New Delhi,Delhi,933918,3.2
+SEL2579,Deepak Malhotra Store,Nashik,Maharashtra,571147,4.1
+SEL2580,Amit Patel Store,Gurugram,Haryana,532776,4.6
+SEL2581,Nikhil Chopra Store,Gurugram,Haryana,940857,4.1
+SEL2582,Varun Mehta Store,Aurangabad,Maharashtra,936697,4.2
+SEL2583,Rohit Joshi Store,Janakpuri,Delhi,675087,3.3
+SEL2584,Vijay Kumar Store,Asansol,West Bengal,865623,2.5
+SEL2585,Sunita Malhotra Store,Jaipur,Rajasthan,702686,4.6
+SEL2586,Tanvi Sharma Store,Ghaziabad,Uttar Pradesh,984549,5.0
+SEL2587,Rajesh Pillai Store,Janakpuri,Delhi,831071,
+SEL2588,Rajesh Kumar Store,Dwarka,Delhi,155236,3.5
+SEL2589,Sunita Naidu Store,Bengaluru,Karnataka,302097,3.4
+SEL2590,Arjun Malhotra Store,Vadodara,Gujarat,566039,
+SEL2591,Rajesh Tiwari Store,Kozhikode,Kerala,239991,5.0
+SEL2592,Pankaj Patel Store,Kanpur,Uttar Pradesh,939850,4.0
+SEL2593,Anjali Verma Store,Madurai,Tamil Nadu,417920,3.8
+SEL2594,Mohan Nair Store,Rajkot,Gujarat,256595,3.8
+SEL2595,Arjun Saxena Store,Chennai,Tamil Nadu,398651,3.0
+SEL2596,Rohit Mishra Store,Mysuru,Karnataka,620128,
+SEL2597,Meera Tiwari Store,Bhubaneswar,Odisha,754419,2.9
+SEL2598,Arjun Gupta Store,Kanpur,Uttar Pradesh,569072,3.0
+SEL2599,Omkar Chopra Store,Mysuru,Karnataka,215375,4.2
+SEL2600,Ishaan Nair Store,Hisar,Haryana,437548,4.7
+SEL2601,Aarav Reddy Store,Bhubaneswar,Odisha,893343,4.2
+SEL2602,Manish Shah Store,Kozhikode,Kerala,445200,
+SEL2603,Sunita Kumar Store,Bhopal,Madhya Pradesh,716322,4.2
+SEL2604,Sneha Pandey Store,Khammam,Telangana,832980,3.6
+SEL2605,Varun Patel Store,Patna,Bihar,349083,4.1
+SEL2606,Anjali Bose Store,Hyderabad,Telangana,912941,4.5
+SEL2607,Aisha Bose Store,Gaya,Bihar,548730,2.5
+SEL2608,Lakshmi Patel Store,Patiala,Punjab,394871,3.0
+SEL2609,Pooja Rao Store,Ambala,Haryana,152438,4.3
+SEL2610,Priya Singh Store,Rajkot,Gujarat,538768,3.5
+SEL2611,Nisha Joshi Store,Kanpur,Uttar Pradesh,607139,
+SEL2612,Tarun Das Store,Gurugram,Haryana,966006,4.2
+SEL2613,Omkar Gupta Store,Gandhinagar,Gujarat,410993,3.8
+SEL2614,Lakshmi Nair Store,Bengaluru,Karnataka,405861,4.6
+SEL2615,Tanvi Malhotra Store,Bhubaneswar,Odisha,183924,
+SEL2616,Mohan Agarwal Store,Durgapur,West Bengal,660457,4.2
+SEL2617,Nikhil Singh Store,Udaipur,Rajasthan,612317,3.6
+SEL2618,Riya Kumar Store,Berhampur,Odisha,799168,3.8
+SEL2619,Deepak Pandey Store,Udaipur,Rajasthan,526894,2.8
+SEL2620,Tarun Gupta Store,Hubli,Karnataka,598097,
+SEL2621,Sunita Bose Store,Ahmedabad,Gujarat,409679,
+SEL2622,Sunita Iyer Store,Panipat,Haryana,102136,3.3
+SEL2623,Vijay Rao Store,Saket,Delhi,899195,2.7
+SEL2624,Ananya Bose Store,Ahmedabad,Gujarat,597914,3.8
+SEL2625,Vijay Chopra Store,New Delhi,Delhi,581024,3.5
+SEL2626,Nisha Naidu Store,Gandhinagar,Gujarat,101052,2.7
+SEL2627,Deepak Reddy Store,Berhampur,Odisha,240643,
+SEL2628,Gaurav Singh Store,Kolkata,West Bengal,664413,2.7
+SEL2629,Sunita Nair Store,Gandhinagar,Gujarat,257655,2.9
+SEL2630,Kavya Singh Store,Aurangabad,Maharashtra,964666,3.7
+SEL2631,Sneha Sharma Store,Gwalior,Madhya Pradesh,707055,3.4
+SEL2632,Anjali Tiwari Store,Janakpuri,Delhi,926534,3.2
+SEL2633,Ananya Rao Store,Rajkot,Gujarat,542472,3.9
+SEL2634,Zara Shah Store,Saket,Delhi,651799,3.8
+SEL2635,Aisha Gupta Store,Mumbai,Maharashtra,706545,
+SEL2636,Riya Bose Store,Karimnagar,Telangana,689521,
+SEL2637,Arjun Kumar Store,Udaipur,Rajasthan,654591,3.7
+SEL2638,Sunita Naidu Store,Nashik,Maharashtra,492771,4.9
+SEL2639,Divya Iyer Store,Howrah,West Bengal,916937,4.5
+SEL2640,Kavya Sharma Store,Ajmer,Rajasthan,250967,2.8
+SEL2641,Kiran Das Store,Mumbai,Maharashtra,690201,3.2
+SEL2642,Nikhil Bose Store,Agra,Uttar Pradesh,809875,3.8
+SEL2643,Tanvi Patel Store,Thiruvananthapuram,Kerala,178202,3.7
+SEL2644,Yasmin Malhotra Store,Gandhinagar,Gujarat,107496,2.6
+SEL2645,Rohit Naidu Store,Saket,Delhi,364956,3.8
+SEL2646,Meera Chopra Store,Kanpur,Uttar Pradesh,,4.0
+SEL2647,Pankaj Nair Store,Thiruvananthapuram,Kerala,454070,3.7
+SEL2648,Aditi Chopra Store,New Delhi,Delhi,554636,4.7
+SEL2649,Suresh Sharma Store,Bathinda,Punjab,915770,3.9
+SEL2650,Gaurav Iyer Store,Thrissur,Kerala,702124,4.5
+SEL2651,Tanvi Rao Store,Chennai,Tamil Nadu,478256,4.0
+SEL2652,Pankaj Pandey Store,Nizamabad,Telangana,790413,4.8
+SEL2653,Rahul Agarwal Store,Jabalpur,Madhya Pradesh,754710,3.0
+SEL2654,Ravi Pandey Store,Belagavi,Karnataka,575650,4.6
+SEL2655,Omkar Naidu Store,Hubli,Karnataka,683951,3.6
+SEL2656,Gaurav Pillai Store,Mysuru,Karnataka,945868,
+SEL2657,Manish Iyer Store,Ajmer,Rajasthan,825087,3.9
+SEL2658,Nikhil Kumar Store,Warangal,Telangana,281447,2.8
+SEL2659,Yasmin Joshi Store,Panipat,Haryana,814010,3.6
+SEL2660,Sunita Mehta Store,Rohini,Delhi,745016,4.2
+SEL2661,Deepak Kumar Store,Mysuru,Karnataka,307608,4.7
+SEL2662,Ravi Bose Store,Indore,Madhya Pradesh,925115,3.0
+SEL2663,Vijay Pillai Store,Kanpur,Uttar Pradesh,646889,3.4
+SEL2664,Rahul Pandey Store,Bhopal,Madhya Pradesh,812066,3.4
+SEL2665,Ishaan Patel Store,Dwarka,Delhi,180277,3.8
+SEL2666,Ravi Saxena Store,Bhubaneswar,Odisha,902065,4.7
+SEL2667,Rohit Saxena Store,Bhubaneswar,Odisha,735850,
+SEL2668,Gaurav Tiwari Store,Belagavi,Karnataka,806143,2.9
+SEL2669,Tarun Pillai Store,Bhagalpur,Bihar,744757,
+SEL2670,Neha Pandey Store,Hisar,Haryana,,2.6
+SEL2671,Ravi Bose Store,Aurangabad,Maharashtra,382003,3.4
+SEL2672,Gaurav Bose Store,Saket,Delhi,289117,3.8
+SEL2673,Rahul Mehta Store,Howrah,West Bengal,988984,3.8
+SEL2674,Sanjay Gupta Store,Nizamabad,Telangana,678552,4.5
+SEL2675,Tanvi Sharma Store,Amritsar,Punjab,132794,4.5
+SEL2676,Rahul Mehta Store,Aurangabad,Maharashtra,119792,3.2
+SEL2677,Rajesh Rao Store,Hubli,Karnataka,906481,3.3
+SEL2678,Meera Joshi Store,Mangaluru,Karnataka,985367,5.0
+SEL2679,Gaurav Sharma Store,Gwalior,Madhya Pradesh,309195,3.5
+SEL2680,Sneha Pillai Store,Hubli,Karnataka,966052,2.9
+SEL2681,Vijay Pandey Store,Surat,Gujarat,841347,4.1
+SEL2682,Ravi Gupta Store,Tiruchirappalli,Tamil Nadu,299356,
+SEL2683,Rohit Pillai Store,Belagavi,Karnataka,,4.0
+SEL2684,Kiran Pillai Store,Bhopal,Madhya Pradesh,483899,4.6
+SEL2685,Nisha Patel Store,Bhopal,Madhya Pradesh,831212,2.9
+SEL2686,Aarav Patel Store,Rohini,Delhi,513635,3.6
+SEL2687,Anjali Naidu Store,Hisar,Haryana,328678,3.5
+SEL2688,Priya Joshi Store,Kota,Rajasthan,271515,5.0
+SEL2689,Manish Singh Store,Durgapur,West Bengal,818695,4.3
+SEL2690,Kavya Malhotra Store,Faridabad,Haryana,877470,2.7
+SEL2691,Kiran Verma Store,Tiruchirappalli,Tamil Nadu,273128,
+SEL2692,Pooja Iyer Store,Durgapur,West Bengal,362259,2.9
+SEL2693,Vikram Kumar Store,Jaipur,Rajasthan,795353,2.5
+SEL2694,Rahul Bose Store,Ghaziabad,Uttar Pradesh,,3.3
+SEL2695,Pooja Tiwari Store,Mysuru,Karnataka,845771,3.3
+SEL2696,Nisha Pandey Store,Bhopal,Madhya Pradesh,320742,3.1
+SEL2697,Rajesh Rao Store,Bhopal,Madhya Pradesh,490189,3.9
+SEL2698,Kavya Patel Store,Warangal,Telangana,830933,3.0
+SEL2699,Neha Pandey Store,Kollam,Kerala,183269,4.9
+SEL2700,Divya Mehta Store,Mumbai,Maharashtra,506305,4.3
+SEL2701,Zara Das Store,Varanasi,Uttar Pradesh,981759,
+SEL2702,Gaurav Das Store,Warangal,Telangana,839023,3.2
+SEL2703,Omkar Shah Store,Ludhiana,Punjab,326963,5.0
+SEL2704,Aditi Bose Store,Ludhiana,Punjab,275164,3.0
+SEL2705,Ishaan Agarwal Store,Muzaffarpur,Bihar,408590,2.8
+SEL2706,Ravi Mehta Store,Nashik,Maharashtra,542624,3.1
+SEL2707,Rajesh Singh Store,Salem,Tamil Nadu,307787,4.3
+SEL2708,Neha Patel Store,Durgapur,West Bengal,104235,3.8
+SEL2709,Ananya Iyer Store,Hyderabad,Telangana,383883,
+SEL2710,Divya Naidu Store,Asansol,West Bengal,659851,3.4
+SEL2711,Rahul Sharma Store,Bengaluru,Karnataka,715326,2.7
+SEL2712,Sunita Pillai Store,Amritsar,Punjab,213964,3.2
+SEL2713,Rahul Kumar Store,Khammam,Telangana,848115,2.9
+SEL2714,Deepak Gupta Store,Faridabad,Haryana,357512,3.1
+SEL2715,Aisha Gupta Store,Kozhikode,Kerala,381117,4.4
+SEL2716,Ananya Malhotra Store,Bhubaneswar,Odisha,159948,4.5
+SEL2717,Aarav Rao Store,Chennai,Tamil Nadu,895766,4.3
+SEL2718,Rahul Bose Store,Howrah,West Bengal,617131,4.2
+SEL2719,Meera Reddy Store,Salem,Tamil Nadu,,3.1
+SEL2720,Pankaj Reddy Store,Karimnagar,Telangana,388158,3.6
+SEL2721,Suresh Bose Store,Cuttack,Odisha,378418,
+SEL2722,Suresh Reddy Store,Saket,Delhi,250731,3.8
+SEL2723,Kiran Malhotra Store,Asansol,West Bengal,661524,4.6
+SEL2724,Vikram Rao Store,Panipat,Haryana,685005,
+SEL2725,Vijay Saxena Store,Bengaluru,Karnataka,733114,3.0
+SEL2726,Tarun Singh Store,Gurugram,Haryana,381939,3.6
+SEL2727,Arjun Patel Store,Gwalior,Madhya Pradesh,,2.9
+SEL2728,Tarun Mishra Store,Hyderabad,Telangana,607688,4.1
+SEL2729,Aisha Sharma Store,Ajmer,Rajasthan,757130,3.9
+SEL2730,Vijay Das Store,Kolkata,West Bengal,593075,4.6
+SEL2731,Vikram Verma Store,Kolkata,West Bengal,461423,3.8
+SEL2732,Sanjay Malhotra Store,Howrah,West Bengal,992787,4.5
+SEL2733,Mohan Chopra Store,Kochi,Kerala,131337,3.3
+SEL2734,Suresh Joshi Store,Muzaffarpur,Bihar,424198,4.2
+SEL2735,Sunita Nair Store,Cuttack,Odisha,142457,2.6
+SEL2736,Aisha Tiwari Store,Surat,Gujarat,720578,2.9
+SEL2737,Rajesh Singh Store,Bhopal,Madhya Pradesh,723165,3.6
+SEL2738,Mohan Saxena Store,Panipat,Haryana,245172,
+SEL2739,Sunita Nair Store,Nizamabad,Telangana,603011,
+SEL2740,Manish Sharma Store,Karimnagar,Telangana,786359,4.0
+SEL2741,Rohit Malhotra Store,Siliguri,West Bengal,922048,2.8
+SEL2742,Zara Naidu Store,Jodhpur,Rajasthan,704942,4.2
+SEL2743,Sneha Das Store,Rourkela,Odisha,373691,2.9
+SEL2744,Manish Malhotra Store,Mumbai,Maharashtra,431998,3.4
+SEL2745,Nisha Bose Store,Khammam,Telangana,361598,
+SEL2746,Tanvi Patel Store,Kozhikode,Kerala,197863,4.7
+SEL2747,Varun Reddy Store,Amritsar,Punjab,,4.2
+SEL2748,Lakshmi Bose Store,Bhopal,Madhya Pradesh,983548,2.7
+SEL2749,Priya Shah Store,Mangaluru,Karnataka,585363,4.6
+SEL2750,Pooja Sharma Store,Hisar,Haryana,344673,3.6
+SEL2751,Nisha Kumar Store,Gaya,Bihar,235972,4.4
+SEL2752,Tarun Tiwari Store,Mysuru,Karnataka,837701,4.4
+SEL2753,Omkar Verma Store,Cuttack,Odisha,558445,5.0
+SEL2754,Riya Pandey Store,Bathinda,Punjab,241828,3.4
+SEL2755,Divya Chopra Store,Vadodara,Gujarat,436202,4.7
+SEL2756,Kiran Kumar Store,Indore,Madhya Pradesh,910531,3.2
+SEL2757,Ananya Gupta Store,Asansol,West Bengal,848964,5.0
+SEL2758,Pankaj Pandey Store,Bhopal,Madhya Pradesh,345242,3.5
+SEL2759,Pankaj Bose Store,Patna,Bihar,713919,4.2
+SEL2760,Sanjay Iyer Store,Patna,Bihar,927460,5.0
+SEL2761,Rahul Bose Store,Lucknow,Uttar Pradesh,232593,3.0
+SEL2762,Priya Chopra Store,Ambala,Haryana,796784,4.1
+SEL2763,Nisha Naidu Store,Kolkata,West Bengal,212169,5.0
+SEL2764,Ananya Chopra Store,Mangaluru,Karnataka,307440,4.9
+SEL2765,Zara Verma Store,New Delhi,Delhi,375990,
+SEL2766,Sneha Saxena Store,Warangal,Telangana,295975,2.7
+SEL2767,Aditi Singh Store,Patna,Bihar,729494,3.6
+SEL2768,Tanvi Singh Store,Mangaluru,Karnataka,643174,4.4
+SEL2769,Tanvi Gupta Store,Vadodara,Gujarat,647875,4.5
+SEL2770,Lakshmi Mishra Store,Warangal,Telangana,140080,4.0
+SEL2771,Rajesh Naidu Store,Lucknow,Uttar Pradesh,344464,4.0
+SEL2772,Ravi Mishra Store,Hisar,Haryana,677809,2.8
+SEL2773,Pooja Malhotra Store,Kochi,Kerala,989322,3.6
+SEL2774,Zara Bose Store,Khammam,Telangana,609737,3.9
+SEL2775,Pankaj Nair Store,Aurangabad,Maharashtra,,4.2
+SEL2776,Anjali Rao Store,Jodhpur,Rajasthan,124714,2.7
+SEL2777,Amit Naidu Store,Asansol,West Bengal,655257,4.2
+SEL2778,Ravi Malhotra Store,Aurangabad,Maharashtra,515264,4.9
+SEL2779,Omkar Naidu Store,Ghaziabad,Uttar Pradesh,198835,4.5
+SEL2780,Rahul Mehta Store,Coimbatore,Tamil Nadu,667382,4.1
+SEL2781,Riya Nair Store,Nashik,Maharashtra,281944,
+SEL2782,Gaurav Nair Store,Gurugram,Haryana,,4.5
+SEL2783,Pooja Malhotra Store,Surat,Gujarat,750797,4.2
+SEL2784,Yasmin Iyer Store,New Delhi,Delhi,374640,3.9
+SEL2785,Neha Gupta Store,Hubli,Karnataka,967514,4.5
+SEL2786,Aditi Mehta Store,Durgapur,West Bengal,800756,4.2
+SEL2787,Suresh Bose Store,Kanpur,Uttar Pradesh,754358,
+SEL2788,Priya Pillai Store,Kanpur,Uttar Pradesh,380605,3.1
+SEL2789,Amit Naidu Store,Bhubaneswar,Odisha,,3.8
+SEL2790,Rajesh Saxena Store,Thiruvananthapuram,Kerala,361456,2.9
+SEL2791,Pankaj Saxena Store,Jaipur,Rajasthan,730160,2.7
+SEL2792,Suresh Tiwari Store,Kozhikode,Kerala,809987,
+SEL2793,Ravi Verma Store,Bengaluru,Karnataka,145218,3.4
+SEL2794,Nikhil Malhotra Store,Nizamabad,Telangana,143197,4.1
+SEL2795,Sanjay Naidu Store,Bhubaneswar,Odisha,812500,3.7
+SEL2796,Kiran Das Store,Agra,Uttar Pradesh,965734,4.3
+SEL2797,Vikram Sharma Store,Hisar,Haryana,483500,4.3
+SEL2798,Zara Verma Store,Janakpuri,Delhi,885865,4.3
+SEL2799,Pankaj Patel Store,Gurugram,Haryana,971119,3.9
+SEL2800,Nisha Gupta Store,Varanasi,Uttar Pradesh,273937,4.2
+SEL2801,Yasmin Rao Store,Karimnagar,Telangana,510273,4.9
+SEL2802,Arjun Mehta Store,Madurai,Tamil Nadu,512214,4.3
+SEL2803,Ananya Naidu Store,Chennai,Tamil Nadu,850127,4.4
+SEL2804,Anjali Verma Store,Kanpur,Uttar Pradesh,706015,3.2
+SEL2805,Divya Gupta Store,Belagavi,Karnataka,856477,3.7
+SEL2806,Priya Naidu Store,Hubli,Karnataka,139651,
+SEL2807,Anjali Saxena Store,Ghaziabad,Uttar Pradesh,324006,3.4
+SEL2808,Meera Pandey Store,Howrah,West Bengal,124176,3.6
+SEL2809,Yasmin Mehta Store,Ahmedabad,Gujarat,701150,4.0
+SEL2810,Nikhil Saxena Store,Belagavi,Karnataka,428924,
+SEL2811,Tanvi Tiwari Store,Varanasi,Uttar Pradesh,836999,4.6
+SEL2812,Ishaan Gupta Store,Hubli,Karnataka,136784,4.1
+SEL2813,Deepak Saxena Store,Kota,Rajasthan,945795,4.7
+SEL2814,Manish Saxena Store,New Delhi,Delhi,184203,
+SEL2815,Aditi Tiwari Store,Ambala,Haryana,689193,
+SEL2816,Lakshmi Iyer Store,Bhopal,Madhya Pradesh,902508,4.1
+SEL2817,Sanjay Verma Store,Asansol,West Bengal,577872,
+SEL2818,Ishaan Pandey Store,Rohini,Delhi,386873,4.2
+SEL2819,Rajesh Joshi Store,Jaipur,Rajasthan,867888,4.6
+SEL2820,Riya Saxena Store,Salem,Tamil Nadu,373256,4.8
+SEL2821,Arjun Malhotra Store,Madurai,Tamil Nadu,549523,3.3
+SEL2822,Nikhil Chopra Store,Rohini,Delhi,874639,2.7
+SEL2823,Sunita Malhotra Store,Ahmedabad,Gujarat,143560,4.1
+SEL2824,Rohit Singh Store,Hisar,Haryana,580472,2.8
+SEL2825,Sanjay Verma Store,Tiruchirappalli,Tamil Nadu,530011,4.7
+SEL2826,Aarav Gupta Store,Pune,Maharashtra,658364,
+SEL2827,Sanjay Mishra Store,Pune,Maharashtra,640633,4.3
+SEL2828,Zara Iyer Store,Nashik,Maharashtra,,4.8
+SEL2829,Rajesh Bose Store,Agra,Uttar Pradesh,725644,4.7
+SEL2830,Aarav Malhotra Store,Patiala,Punjab,725010,
+SEL2831,Nikhil Reddy Store,Ujjain,Madhya Pradesh,172655,4.3
+SEL2832,Zara Pillai Store,Mumbai,Maharashtra,531163,3.4
+SEL2833,Ishaan Chopra Store,Tiruchirappalli,Tamil Nadu,171676,2.6
+SEL2834,Amit Chopra Store,Thrissur,Kerala,639274,2.7
+SEL2835,Priya Bose Store,Udaipur,Rajasthan,797833,4.5
+SEL2836,Omkar Bose Store,Chennai,Tamil Nadu,844787,3.0
+SEL2837,Lakshmi Sharma Store,Kolkata,West Bengal,379483,
+SEL2838,Aarav Iyer Store,Hisar,Haryana,556723,4.0
+SEL2839,Aditi Nair Store,Nagpur,Maharashtra,692438,2.8
+SEL2840,Manish Rao Store,Belagavi,Karnataka,517857,5.0
+SEL2841,Varun Pillai Store,Belagavi,Karnataka,934661,4.5
+SEL2842,Nikhil Nair Store,Ahmedabad,Gujarat,762970,
+SEL2843,Aarav Iyer Store,Vadodara,Gujarat,413739,4.8
+SEL2844,Rohit Bose Store,Panipat,Haryana,759917,3.7
+SEL2845,Vijay Nair Store,Mangaluru,Karnataka,488011,
+SEL2846,Ravi Pandey Store,Kochi,Kerala,715853,4.6
+SEL2847,Rahul Reddy Store,Patiala,Punjab,274115,2.5
+SEL2848,Aditi Kumar Store,New Delhi,Delhi,710408,4.5
+SEL2849,Nikhil Shah Store,Karimnagar,Telangana,220007,4.5
+SEL2850,Sanjay Verma Store,Nizamabad,Telangana,532210,3.3
+SEL2851,Rajesh Iyer Store,Rohini,Delhi,877665,3.7
+SEL2852,Rajesh Iyer Store,Berhampur,Odisha,969741,2.8
+SEL2853,Kavya Mishra Store,Kolkata,West Bengal,820186,4.2
+SEL2854,Anjali Bose Store,Jodhpur,Rajasthan,274658,4.2
+SEL2855,Sanjay Shah Store,Jaipur,Rajasthan,647259,5.0
+SEL2856,Rohit Kumar Store,Rourkela,Odisha,190996,
+SEL2857,Sunita Rao Store,Sambalpur,Odisha,801859,3.6
+SEL2858,Meera Chopra Store,New Delhi,Delhi,777759,3.0
+SEL2859,Rajesh Nair Store,Mysuru,Karnataka,182655,4.5
+SEL2860,Manish Shah Store,Mysuru,Karnataka,177130,3.4
+SEL2861,Divya Mishra Store,Tiruchirappalli,Tamil Nadu,543988,4.9
+SEL2862,Nikhil Naidu Store,Agra,Uttar Pradesh,645091,3.2
+SEL2863,Rahul Pandey Store,Vadodara,Gujarat,319413,
+SEL2864,Vikram Shah Store,Darbhanga,Bihar,395287,4.1
+SEL2865,Tanvi Naidu Store,Thrissur,Kerala,392424,4.8
+SEL2866,Riya Gupta Store,Siliguri,West Bengal,572452,2.9
+SEL2867,Nikhil Naidu Store,Mysuru,Karnataka,425710,2.6
+SEL2868,Riya Kumar Store,Patna,Bihar,,
+SEL2869,Yasmin Mehta Store,Dwarka,Delhi,312799,2.8
+SEL2870,Vijay Verma Store,Madurai,Tamil Nadu,923934,4.0
+SEL2871,Sanjay Iyer Store,Salem,Tamil Nadu,825167,3.0
+SEL2872,Aisha Mehta Store,Surat,Gujarat,980904,2.9
+SEL2873,Rahul Nair Store,Ghaziabad,Uttar Pradesh,798989,2.9
+SEL2874,Neha Pillai Store,Gaya,Bihar,153366,4.3
+SEL2875,Ishaan Bose Store,Rohini,Delhi,212823,4.4
+SEL2876,Ananya Agarwal Store,Jalandhar,Punjab,,2.8
+SEL2877,Ishaan Gupta Store,Rohini,Delhi,892346,2.8
+SEL2878,Riya Mehta Store,Warangal,Telangana,166113,4.8
+SEL2879,Amit Malhotra Store,Thrissur,Kerala,843180,
+SEL2880,Divya Bose Store,Bhagalpur,Bihar,433631,4.5
+SEL2881,Yasmin Saxena Store,Gurugram,Haryana,661324,
+SEL2882,Sneha Rao Store,Udaipur,Rajasthan,441241,2.6
+SEL2883,Meera Chopra Store,Bhubaneswar,Odisha,473717,3.5
+SEL2884,Amit Kumar Store,Patna,Bihar,538960,3.9
+SEL2885,Tarun Agarwal Store,Ujjain,Madhya Pradesh,772405,3.4
+SEL2886,Aarav Mehta Store,Karimnagar,Telangana,456258,4.3
+SEL2887,Sanjay Gupta Store,Kanpur,Uttar Pradesh,328525,4.2
+SEL2888,Mohan Shah Store,Nagpur,Maharashtra,201552,3.6
+SEL2889,Vikram Singh Store,Patiala,Punjab,186518,2.7
+SEL2890,Suresh Patel Store,Jabalpur,Madhya Pradesh,215470,4.0
+SEL2891,Nisha Bose Store,Belagavi,Karnataka,425256,
+SEL2892,Divya Sharma Store,Khammam,Telangana,972502,3.5
+SEL2893,Rahul Sharma Store,Kanpur,Uttar Pradesh,386463,2.5
+SEL2894,Zara Das Store,Bengaluru,Karnataka,685131,3.8
+SEL2895,Ravi Joshi Store,Pune,Maharashtra,321064,4.2
+SEL2896,Yasmin Singh Store,Hubli,Karnataka,316921,3.9
+SEL2897,Nikhil Singh Store,Gandhinagar,Gujarat,483145,4.4
+SEL2898,Arjun Mishra Store,Gurugram,Haryana,144764,5.0
+SEL2899,Aarav Singh Store,Jalandhar,Punjab,398191,4.1
+SEL2900,Sanjay Singh Store,Jodhpur,Rajasthan,393449,3.1
+SEL2901,Pankaj Verma Store,Muzaffarpur,Bihar,795715,3.9
+SEL2902,Ishaan Verma Store,Darbhanga,Bihar,326231,3.1
+SEL2903,Varun Naidu Store,Agra,Uttar Pradesh,649813,3.3
+SEL2904,Kavya Bose Store,Agra,Uttar Pradesh,813639,
+SEL2905,Sanjay Pillai Store,Panipat,Haryana,914857,3.8
+SEL2906,Vijay Shah Store,Ujjain,Madhya Pradesh,536429,3.8
+SEL2907,Lakshmi Singh Store,Ahmedabad,Gujarat,820212,4.2
+SEL2908,Ishaan Mehta Store,Thrissur,Kerala,334296,3.6
+SEL2909,Deepak Das Store,Vadodara,Gujarat,763702,3.0
+SEL2910,Anjali Pillai Store,Jalandhar,Punjab,657167,3.7
+SEL2911,Deepak Patel Store,Ambala,Haryana,958764,4.5
+SEL2912,Yasmin Gupta Store,Kota,Rajasthan,856186,4.3
+SEL2913,Nikhil Patel Store,Kota,Rajasthan,405801,
+SEL2914,Manish Iyer Store,Kanpur,Uttar Pradesh,597168,4.9
+SEL2915,Aditi Kumar Store,Madurai,Tamil Nadu,534219,3.3
+SEL2916,Aisha Rao Store,Coimbatore,Tamil Nadu,909699,
+SEL2917,Aditi Bose Store,Khammam,Telangana,393927,2.6
+SEL2918,Aarav Reddy Store,Asansol,West Bengal,,4.8
+SEL2919,Vikram Kumar Store,Aurangabad,Maharashtra,250052,4.2
+SEL2920,Priya Gupta Store,Hyderabad,Telangana,262293,
+SEL2921,Sanjay Bose Store,Faridabad,Haryana,715346,4.2
+SEL2922,Gaurav Mishra Store,Patiala,Punjab,804263,3.2
+SEL2923,Zara Saxena Store,Durgapur,West Bengal,410955,3.1
+SEL2924,Priya Malhotra Store,Thiruvananthapuram,Kerala,907956,3.6
+SEL2925,Varun Mishra Store,Bhopal,Madhya Pradesh,498053,4.0
+SEL2926,Ravi Rao Store,Durgapur,West Bengal,749171,3.0
+SEL2927,Yasmin Nair Store,Faridabad,Haryana,693507,4.4
+SEL2928,Lakshmi Mehta Store,Kota,Rajasthan,292037,
+SEL2929,Ishaan Shah Store,Berhampur,Odisha,454509,2.5
+SEL2930,Zara Malhotra Store,Sambalpur,Odisha,195625,
+SEL2931,Sunita Verma Store,Gandhinagar,Gujarat,103084,3.6
+SEL2932,Anjali Saxena Store,Gandhinagar,Gujarat,865866,4.2
+SEL2933,Riya Mishra Store,Mangaluru,Karnataka,671706,4.7
+SEL2934,Anjali Iyer Store,Gandhinagar,Gujarat,480725,3.2
+SEL2935,Anjali Rao Store,Howrah,West Bengal,231663,4.2
+SEL2936,Vikram Gupta Store,Kochi,Kerala,116420,2.9
+SEL2937,Gaurav Iyer Store,Sambalpur,Odisha,860632,2.7
+SEL2938,Ravi Agarwal Store,Saket,Delhi,110542,4.8
+SEL2939,Anjali Chopra Store,Cuttack,Odisha,723056,4.7
+SEL2940,Lakshmi Kumar Store,Saket,Delhi,727347,
+SEL2941,Varun Agarwal Store,Pune,Maharashtra,883514,
+SEL2942,Vikram Singh Store,Jabalpur,Madhya Pradesh,303722,3.2
+SEL2943,Neha Mehta Store,Kota,Rajasthan,264972,3.9
+SEL2944,Suresh Chopra Store,Lucknow,Uttar Pradesh,696069,4.1
+SEL2945,Aisha Verma Store,Bhubaneswar,Odisha,458212,4.2
+SEL2946,Rahul Sharma Store,Nagpur,Maharashtra,332936,4.4
+SEL2947,Meera Sharma Store,Nizamabad,Telangana,883404,3.0
+SEL2948,Kavya Singh Store,Mangaluru,Karnataka,,3.2
+SEL2949,Zara Shah Store,Warangal,Telangana,773211,
+SEL2950,Varun Joshi Store,Khammam,Telangana,751421,2.7
+SEL2951,Deepak Das Store,Ahmedabad,Gujarat,542017,3.3
+SEL2952,Rohit Sharma Store,Jabalpur,Madhya Pradesh,881129,3.0
+SEL2953,Rajesh Joshi Store,Patna,Bihar,908975,3.7
+SEL2954,Tarun Iyer Store,Patna,Bihar,825118,4.6
+SEL2955,Kavya Mehta Store,Aurangabad,Maharashtra,631416,4.3
+SEL2956,Meera Joshi Store,Bathinda,Punjab,274253,4.4
+SEL2957,Aarav Bose Store,Tiruchirappalli,Tamil Nadu,999837,4.0
+SEL2958,Deepak Patel Store,Jalandhar,Punjab,744933,4.3
+SEL2959,Kiran Gupta Store,Coimbatore,Tamil Nadu,178812,3.0
+SEL2960,Mohan Das Store,Siliguri,West Bengal,976282,3.9
+SEL2961,Riya Kumar Store,Durgapur,West Bengal,775054,3.9
+SEL2962,Tanvi Rao Store,Panipat,Haryana,854840,4.1
+SEL2963,Rahul Patel Store,Indore,Madhya Pradesh,339964,4.4
+SEL2964,Tanvi Naidu Store,Varanasi,Uttar Pradesh,521199,4.9
+SEL2965,Tanvi Chopra Store,Jalandhar,Punjab,846133,4.3
+SEL2966,Ravi Shah Store,Gwalior,Madhya Pradesh,650371,4.8
+SEL2967,Aisha Naidu Store,Kollam,Kerala,899765,3.9
+SEL2968,Deepak Das Store,Warangal,Telangana,817082,3.2
+SEL2969,Deepak Patel Store,Patna,Bihar,139758,4.1
+SEL2970,Meera Iyer Store,Nizamabad,Telangana,863162,5.0
+SEL2971,Rajesh Das Store,Hubli,Karnataka,713490,4.3
+SEL2972,Lakshmi Chopra Store,Saket,Delhi,653936,4.9
+SEL2973,Suresh Agarwal Store,Lucknow,Uttar Pradesh,767497,2.6
+SEL2974,Pooja Gupta Store,Ludhiana,Punjab,916325,3.1
+SEL2975,Ravi Saxena Store,Bathinda,Punjab,,3.2
+SEL2976,Amit Das Store,Faridabad,Haryana,876438,3.6
+SEL2977,Arjun Rao Store,Muzaffarpur,Bihar,922005,2.6
+SEL2978,Suresh Iyer Store,Tiruchirappalli,Tamil Nadu,738661,4.8
+SEL2979,Divya Das Store,Jaipur,Rajasthan,400245,4.3
+SEL2980,Rahul Saxena Store,Coimbatore,Tamil Nadu,831099,2.7
+SEL2981,Mohan Iyer Store,Faridabad,Haryana,934593,2.9
+SEL2982,Meera Shah Store,Hyderabad,Telangana,701757,
+SEL2983,Aditi Mehta Store,Bathinda,Punjab,,4.8
+SEL2984,Kavya Chopra Store,Bhubaneswar,Odisha,231189,2.7
+SEL2985,Deepak Gupta Store,Nashik,Maharashtra,499084,3.6
+SEL2986,Amit Joshi Store,Siliguri,West Bengal,798897,
+SEL2987,Zara Sharma Store,Ahmedabad,Gujarat,646462,3.0
+SEL2988,Omkar Gupta Store,Rajkot,Gujarat,755779,4.3
+SEL2989,Tarun Mishra Store,Mumbai,Maharashtra,767842,4.6
+SEL2990,Nisha Malhotra Store,Karimnagar,Telangana,540793,4.8
+SEL2991,Aditi Patel Store,Asansol,West Bengal,607265,4.2
+SEL2992,Divya Tiwari Store,Aurangabad,Maharashtra,389477,2.7
+SEL2993,Omkar Patel Store,Thiruvananthapuram,Kerala,934038,3.4
+SEL2994,Vikram Iyer Store,Nagpur,Maharashtra,,3.6
+SEL2995,Priya Reddy Store,Patiala,Punjab,470695,3.2
+SEL2996,Aisha Sharma Store,Aurangabad,Maharashtra,618133,3.8
+SEL2997,Sanjay Bose Store,Hubli,Karnataka,509016,3.1
+SEL2998,Sneha Agarwal Store,Lucknow,Uttar Pradesh,167405,4.7
+SEL2999,Varun Malhotra Store,Gurugram,Haryana,571343,2.9
+SEL3000,Gaurav Pandey Store,Dwarka,Delhi,435410,3.6

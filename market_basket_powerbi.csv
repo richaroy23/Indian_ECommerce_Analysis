@@ -1,0 +1,29 @@
+Category A,Category B,Co-Purchases,Support,Conf A→B,Conf B→A,Lift
+Electronics,Sports & Fitness,12,0.0178,0.0845,0.1121,0.5315
+Clothing,Electronics,11,0.0163,0.0846,0.0775,0.401
+Books,Clothing,10,0.0149,0.1111,0.0769,0.5752
+Home & Kitchen,Sports & Fitness,9,0.0134,0.0818,0.0841,0.5146
+Beauty & Personal,Electronics,9,0.0134,0.0891,0.0634,0.4223
+Books,Sports & Fitness,9,0.0134,0.1,0.0841,0.629
+Electronics,Home & Kitchen,9,0.0134,0.0634,0.0818,0.3878
+Beauty & Personal,Books,8,0.0119,0.0792,0.0889,0.5923
+Clothing,Sports & Fitness,8,0.0119,0.0615,0.0748,0.3871
+Home & Kitchen,Toys & Baby,8,0.0119,0.0727,0.0941,0.5758
+Books,Electronics,7,0.0104,0.0778,0.0493,0.3686
+Electronics,Grocery & Food,7,0.0104,0.0493,0.1,0.4739
+Clothing,Home & Kitchen,7,0.0104,0.0538,0.0636,0.3294
+Sports & Fitness,Toys & Baby,6,0.0089,0.0561,0.0706,0.444
+Electronics,Toys & Baby,5,0.0074,0.0352,0.0588,0.2788
+Grocery & Food,Home & Kitchen,5,0.0074,0.0714,0.0455,0.437
+Books,Grocery & Food,4,0.0059,0.0444,0.0571,0.4273
+Beauty & Personal,Home & Kitchen,4,0.0059,0.0396,0.0364,0.2423
+Beauty & Personal,Toys & Baby,4,0.0059,0.0396,0.0471,0.3136
+Beauty & Personal,Sports & Fitness,4,0.0059,0.0396,0.0374,0.2491
+Beauty & Personal,Clothing,4,0.0059,0.0396,0.0308,0.205
+Books,Home & Kitchen,3,0.0045,0.0333,0.0273,0.2039
+Books,Toys & Baby,3,0.0045,0.0333,0.0353,0.2639
+Grocery & Food,Toys & Baby,3,0.0045,0.0429,0.0353,0.3393
+Beauty & Personal,Grocery & Food,3,0.0045,0.0297,0.0429,0.2856
+Clothing,Grocery & Food,2,0.003,0.0154,0.0286,0.1479
+Clothing,Toys & Baby,2,0.003,0.0154,0.0235,0.1218
+Grocery & Food,Sports & Fitness,2,0.003,0.0286,0.0187,0.1797

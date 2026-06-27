@@ -1,0 +1,266 @@
+customer_id,customer_name,customer_city,customer_state,Recency,Frequency,Monetary,R_score,F_score,M_score,RFM_Score,RFM_Total,Segment,clv_tier
+CUST00081,Arjun Pandey,Rohini,Delhi,72,2,44664.44,5,3,3,533,11,Potential Loyal,Premium
+CUST00169,Varun Pillai,Mumbai,Maharashtra,396,1,42951.37,2,1,2,212,5,About to Sleep,Premium
+CUST00298,Ravi Patel,Howrah,West Bengal,150,8,305860.39,4,5,5,455,14,Loyal Customers,Premium
+CUST00320,Suresh Sharma,Coimbatore,Tamil Nadu,307,2,57609.1,3,3,3,333,9,Potential Loyal,Premium
+CUST00379,Kiran Das,Surat,Gujarat,142,2,43790.759999999995,4,3,3,433,10,Potential Loyal,Premium
+CUST00395,Aarav Pandey,Amritsar,Punjab,489,1,117440.88,2,1,4,214,7,About to Sleep,Premium
+CUST00995,Pankaj Joshi,Surat,Gujarat,432,4,128756.81,2,4,4,244,10,At Risk,Premium
+CUST01173,Sneha Pillai,Ahmedabad,Gujarat,49,1,0.0,5,1,1,511,7,New Customers,Low
+CUST01184,Arjun Tiwari,Kanpur,Uttar Pradesh,340,1,3596.66,3,1,1,311,5,Need Attention,High
+CUST01412,Arjun Mishra,Bhopal,Madhya Pradesh,140,2,273377.85000000003,4,3,5,435,12,Potential Loyal,Premium
+CUST01476,Varun Bose,Jodhpur,Rajasthan,7,1,10622.02,5,1,1,511,7,New Customers,Premium
+CUST01543,Gaurav Shah,Jodhpur,Rajasthan,1090,1,277350.54,1,1,5,115,7,Hibernating,Premium
+CUST01661,Divya Tiwari,Indore,Madhya Pradesh,9,2,143011.05,5,3,4,534,12,Potential Loyal,Premium
+CUST01685,Meera Shah,Mangaluru,Karnataka,771,4,126847.03,1,4,4,144,9,At Risk,Premium
+CUST01877,Manish Mishra,Gaya,Bihar,134,1,25867.17,4,1,2,412,7,Promising,Premium
+CUST01899,Arjun Kumar,Amritsar,Punjab,549,7,223168.0,2,5,5,255,12,At Risk,Premium
+CUST01972,Varun Saxena,Udaipur,Rajasthan,118,1,73117.64,4,1,3,413,8,Promising,Premium
+CUST02096,Neha Nair,Surat,Gujarat,183,3,43734.979999999996,4,4,3,443,11,Loyal Customers,Premium
+CUST02164,Aarav Naidu,Dwarka,Delhi,265,4,133866.22,3,4,4,344,11,Loyal Customers,Premium
+CUST02198,Priya Nair,Ludhiana,Punjab,425,1,1668.44,2,1,1,211,4,About to Sleep,Medium
+CUST02205,Sneha Iyer,Ujjain,Madhya Pradesh,180,2,68666.29,4,3,3,433,10,Potential Loyal,Premium
+CUST02261,Suresh Das,Kanpur,Uttar Pradesh,82,2,30528.489999999998,4,3,2,432,9,Potential Loyal,Premium
+CUST02514,Rahul Saxena,Udaipur,Rajasthan,13,10,291020.27,5,5,5,555,15,Champions,Premium
+CUST02526,Yasmin Tiwari,Varanasi,Uttar Pradesh,304,1,59424.68,3,1,3,313,7,Need Attention,Premium
+CUST02722,Mohan Bose,Berhampur,Odisha,93,5,162278.18,4,5,5,455,14,Loyal Customers,Premium
+CUST02986,Rajesh Malhotra,Thiruvananthapuram,Kerala,628,1,60406.35,2,1,3,213,6,About to Sleep,Premium
+CUST03070,Nisha Iyer,Nizamabad,Telangana,365,1,9905.21,3,1,1,311,5,Need Attention,High
+CUST03354,Rahul Kumar,Asansol,West Bengal,870,1,21031.97,1,1,2,112,4,Hibernating,Premium
+CUST03417,Sanjay Patel,Khammam,Telangana,63,1,31638.7,5,1,2,512,8,New Customers,Premium
+CUST03588,Gaurav Das,Coimbatore,Tamil Nadu,965,1,82764.64,1,1,4,114,6,Hibernating,Premium
+CUST03625,Neha Nair,Nashik,Maharashtra,378,2,124546.68,3,3,4,334,10,Potential Loyal,Premium
+CUST03711,Sanjay Rao,Bengaluru,Karnataka,314,1,39189.49,3,1,2,312,6,Need Attention,Premium
+CUST03747,Ananya Rao,Ghaziabad,Uttar Pradesh,915,1,63165.16,1,1,3,113,5,Hibernating,Premium
+CUST03764,Gaurav Malhotra,Faridabad,Haryana,488,1,9880.14,2,1,1,211,4,About to Sleep,High
+CUST03995,Vikram Das,Dwarka,Delhi,44,2,16966.829999999998,5,3,1,531,9,Potential Loyal,Premium
+CUST04374,Amit Agarwal,Bhopal,Madhya Pradesh,172,2,103142.9,4,3,4,434,11,Potential Loyal,Premium
+CUST04476,Meera Rao,Ghaziabad,Uttar Pradesh,699,1,4868.15,1,1,1,111,3,Hibernating,High
+CUST04597,Manish Verma,Saket,Delhi,18,2,60738.020000000004,5,3,3,533,11,Potential Loyal,Premium
+CUST04610,Vikram Chopra,Udaipur,Rajasthan,482,2,23981.36,2,3,2,232,7,About to Sleep,Premium
+CUST04626,Aarav Bose,Salem,Tamil Nadu,145,1,27574.96,4,1,2,412,7,Promising,Premium
+CUST04645,Ravi Reddy,Patna,Bihar,185,4,192390.93,4,4,5,445,13,Loyal Customers,Premium
+CUST04673,Anjali Malhotra,Kolkata,West Bengal,807,1,4384.38,1,1,1,111,3,Hibernating,High
+CUST04685,Sneha Kumar,Hisar,Haryana,907,1,63637.48,1,1,3,113,5,Hibernating,Premium
+CUST04718,Rajesh Tiwari,Nizamabad,Telangana,47,2,178831.9,5,3,5,535,13,Potential Loyal,Premium
+CUST04943,Vikram Singh,Jalandhar,Punjab,750,3,63647.1,1,4,3,143,8,At Risk,Premium
+CUST05033,Gaurav Sharma,Hubli,Karnataka,61,1,111140.22,5,1,4,514,10,New Customers,Premium
+CUST05057,Vikram Mishra,Surat,Gujarat,350,2,68282.86,3,3,3,333,9,Potential Loyal,Premium
+CUST05073,Yasmin Mehta,Dwarka,Delhi,438,1,42683.73,2,1,2,212,5,About to Sleep,Premium
+CUST05082,Sneha Patel,Ajmer,Rajasthan,968,1,28316.79,1,1,2,112,4,Hibernating,Premium
+CUST05085,Vijay Das,Mangaluru,Karnataka,926,1,37757.62,1,1,2,112,4,Hibernating,Premium
+CUST05188,Anjali Rao,Hisar,Haryana,28,1,0.0,5,1,1,511,7,New Customers,Low
+CUST05312,Aarav Sharma,Kota,Rajasthan,290,2,66931.27,3,4,3,343,10,Loyal Customers,Premium
+CUST05440,Lakshmi Agarwal,Tiruchirappalli,Tamil Nadu,236,1,25240.6,3,1,2,312,6,Need Attention,Premium
+CUST05487,Tarun Sharma,Vadodara,Gujarat,73,1,81235.04,5,1,4,514,10,New Customers,Premium
+CUST05534,Neha Agarwal,Kota,Rajasthan,78,4,225407.95,5,4,5,545,14,Champions,Premium
+CUST05630,Sneha Pillai,Karimnagar,Telangana,750,2,85101.07,1,4,4,144,9,At Risk,Premium
+CUST05784,Gaurav Gupta,Hubli,Karnataka,10,2,90185.6,5,4,4,544,13,Champions,Premium
+CUST06192,Nikhil Rao,Ahmedabad,Gujarat,146,10,359224.4,4,5,5,455,14,Loyal Customers,Premium
+CUST06210,Anjali Tiwari,Coimbatore,Tamil Nadu,383,1,343254.48,2,1,5,215,8,About to Sleep,Premium
+CUST06395,Aarav Malhotra,Kota,Rajasthan,56,1,0.0,5,1,1,511,7,New Customers,Low
+CUST06444,Mohan Patel,Kollam,Kerala,622,1,13440.52,2,1,1,211,4,About to Sleep,Premium
+CUST06567,Nikhil Rao,Berhampur,Odisha,384,1,21891.78,2,1,2,212,5,About to Sleep,Premium
+CUST06726,Yasmin Pillai,Aurangabad,Maharashtra,292,1,28712.36,3,1,2,312,6,Need Attention,Premium
+CUST06748,Yasmin Agarwal,Dwarka,Delhi,564,1,55801.36,2,1,3,213,6,About to Sleep,Premium
+CUST06815,Arjun Patel,Dwarka,Delhi,556,1,41236.94,2,1,2,212,5,About to Sleep,Premium
+CUST06821,Rahul Saxena,Kozhikode,Kerala,701,1,8255.08,1,1,1,111,3,Hibernating,High
+CUST06882,Nikhil Singh,Sambalpur,Odisha,236,1,7218.86,3,1,1,311,5,Need Attention,High
+CUST07138,Zara Iyer,Berhampur,Odisha,765,1,78918.96,1,1,4,114,6,Hibernating,Premium
+CUST07223,Vijay Tiwari,Rajkot,Gujarat,71,1,24946.96,5,1,2,512,8,New Customers,Premium
+CUST07308,Nikhil Shah,Bathinda,Punjab,465,3,138048.23,2,4,4,244,10,At Risk,Premium
+CUST07487,Aarav Patel,Howrah,West Bengal,478,2,79658.54000000001,2,4,4,244,10,At Risk,Premium
+CUST07553,Priya Chopra,New Delhi,Delhi,245,9,239817.14,3,5,5,355,13,Loyal Customers,Premium
+CUST07620,Yasmin Agarwal,Belagavi,Karnataka,595,1,12636.84,2,1,1,211,4,About to Sleep,Premium
+CUST07919,Sneha Singh,Ajmer,Rajasthan,610,1,44978.99,2,1,3,213,6,About to Sleep,Premium
+CUST07927,Tanvi Pandey,Howrah,West Bengal,750,2,26843.07,1,4,2,142,7,At Risk,Premium
+CUST08250,Rohit Das,Rajkot,Gujarat,1011,1,96793.66,1,1,4,114,6,Hibernating,Premium
+CUST08286,Sanjay Mehta,Khammam,Telangana,918,1,8688.65,1,1,1,111,3,Hibernating,High
+CUST08440,Priya Sharma,Cuttack,Odisha,122,3,202815.21,4,4,5,445,13,Loyal Customers,Premium
+CUST08598,Deepak Saxena,Kozhikode,Kerala,248,2,197525.1,3,4,5,345,12,Loyal Customers,Premium
+CUST08789,Ishaan Kumar,Mangaluru,Karnataka,271,1,14196.94,3,1,1,311,5,Need Attention,Premium
+CUST08853,Nisha Sharma,Bengaluru,Karnataka,62,6,124592.92,5,5,4,554,14,Champions,Premium
+CUST08856,Zara Tiwari,Mangaluru,Karnataka,375,1,3284.99,3,1,1,311,5,Need Attention,High
+CUST08951,Riya Das,Hisar,Haryana,334,1,44747.25,3,1,3,313,7,Need Attention,Premium
+CUST09284,Deepak Chopra,Muzaffarpur,Bihar,125,1,68368.6,4,1,3,413,8,Promising,Premium
+CUST09401,Tarun Malhotra,Ahmedabad,Gujarat,72,3,116366.65000000001,5,4,4,544,13,Champions,Premium
+CUST09507,Meera Iyer,Faridabad,Haryana,311,4,52017.65,3,4,3,343,10,Loyal Customers,Premium
+CUST09579,Pooja Bose,Hubli,Karnataka,126,1,22346.65,4,1,2,412,7,Promising,Premium
+CUST09742,Manish Pillai,Rourkela,Odisha,235,1,12331.22,3,1,1,311,5,Need Attention,Premium
+CUST09753,Deepak Shah,Salem,Tamil Nadu,41,5,219959.03999999998,5,5,5,555,15,Champions,Premium
+CUST10165,Rahul Pandey,Khammam,Telangana,61,2,114449.88999999998,5,4,4,544,13,Champions,Premium
+CUST10192,Nisha Tiwari,Howrah,West Bengal,6,3,111001.53,5,4,4,544,13,Champions,Premium
+CUST10235,Arjun Naidu,Khammam,Telangana,434,2,108140.03,2,4,4,244,10,At Risk,Premium
+CUST10263,Ishaan Rao,Belagavi,Karnataka,566,1,12305.19,2,1,1,211,4,About to Sleep,Premium
+CUST10875,Rahul Shah,Mangaluru,Karnataka,14,5,167160.48,5,5,5,555,15,Champions,Premium
+CUST10915,Rajesh Iyer,Agra,Uttar Pradesh,328,4,162712.27000000002,3,5,5,355,13,Loyal Customers,Premium
+CUST10929,Anjali Chopra,Bhagalpur,Bihar,212,3,100126.43,4,4,4,444,12,Loyal Customers,Premium
+CUST10994,Priya Bose,Ambala,Haryana,238,1,46424.26,3,1,3,313,7,Need Attention,Premium
+CUST11026,Vijay Das,Rohini,Delhi,200,1,73953.38,4,1,3,413,8,Promising,Premium
+CUST11047,Kavya Kumar,Bhagalpur,Bihar,372,1,7003.08,3,2,1,321,6,Need Attention,High
+CUST11166,Sanjay Rao,Agra,Uttar Pradesh,313,2,73304.18,3,4,3,343,10,Loyal Customers,Premium
+CUST11285,Sunita Malhotra,Mumbai,Maharashtra,639,2,44092.96,2,4,3,243,9,At Risk,Premium
+CUST11442,Suresh Joshi,Patna,Bihar,113,1,54890.14,4,2,3,423,9,Promising,Premium
+CUST11554,Vikram Rao,Patiala,Punjab,74,1,96026.39,5,2,4,524,11,New Customers,Premium
+CUST11641,Pooja Chopra,Bathinda,Punjab,735,1,25869.13,1,2,2,122,5,Hibernating,Premium
+CUST11706,Sneha Chopra,Mysuru,Karnataka,933,1,6416.82,1,2,1,121,4,Hibernating,High
+CUST11897,Ravi Saxena,Vadodara,Gujarat,41,1,87779.09,5,2,4,524,11,New Customers,Premium
+CUST12155,Rahul Kumar,Lucknow,Uttar Pradesh,523,1,31003.55,2,2,2,222,6,About to Sleep,Premium
+CUST12169,Lakshmi Pillai,Bathinda,Punjab,354,5,133671.64,3,5,4,354,12,Loyal Customers,Premium
+CUST12257,Sneha Agarwal,Vadodara,Gujarat,1088,1,51423.06,1,2,3,123,6,Hibernating,Premium
+CUST12304,Suresh Singh,Tiruchirappalli,Tamil Nadu,1020,1,0.0,1,2,1,121,4,Hibernating,Low
+CUST12508,Aisha Gupta,Khammam,Telangana,54,11,149988.38,5,5,4,554,14,Champions,Premium
+CUST12589,Pooja Shah,Chennai,Tamil Nadu,830,1,29675.91,1,2,2,122,5,Hibernating,Premium
+CUST12591,Vikram Saxena,Saket,Delhi,93,1,80230.92,4,2,4,424,10,Promising,Premium
+CUST12596,Aditi Malhotra,Hisar,Haryana,252,1,90587.6,3,2,4,324,9,Need Attention,Premium
+CUST13192,Pooja Das,Rourkela,Odisha,703,1,62882.31,1,2,3,123,6,Hibernating,Premium
+CUST13212,Lakshmi Reddy,Darbhanga,Bihar,8,1,1519.97,5,2,1,521,8,New Customers,Medium
+CUST13344,Aarav Malhotra,Janakpuri,Delhi,801,1,18120.11,1,2,2,122,5,Hibernating,Premium
+CUST13389,Riya Reddy,Mysuru,Karnataka,251,3,169660.0,3,4,5,345,12,Loyal Customers,Premium
+CUST13420,Tarun Rao,Salem,Tamil Nadu,273,5,186320.83000000002,3,5,5,355,13,Loyal Customers,Premium
+CUST13452,Tanvi Patel,Durgapur,West Bengal,728,1,30085.68,1,2,2,122,5,Hibernating,Premium
+CUST13586,Deepak Patel,Mangaluru,Karnataka,220,5,149471.41,3,5,4,354,12,Loyal Customers,Premium
+CUST13720,Aarav Mehta,Chennai,Tamil Nadu,704,1,34567.54,1,2,2,122,5,Hibernating,Premium
+CUST13990,Divya Joshi,Jalandhar,Punjab,242,1,87335.58,3,2,4,324,9,Need Attention,Premium
+CUST14143,Ravi Patel,Darbhanga,Bihar,710,1,58718.81,1,2,3,123,6,Hibernating,Premium
+CUST14287,Ananya Sharma,Khammam,Telangana,473,1,24922.73,2,2,2,222,6,About to Sleep,Premium
+CUST14350,Aarav Kumar,Khammam,Telangana,604,2,139691.78,2,4,4,244,10,At Risk,Premium
+CUST14741,Pankaj Gupta,New Delhi,Delhi,40,10,631471.76,5,5,5,555,15,Champions,Premium
+CUST14817,Lakshmi Gupta,Varanasi,Uttar Pradesh,361,3,115847.44,3,4,4,344,11,Loyal Customers,Premium
+CUST14879,Anjali Naidu,Salem,Tamil Nadu,148,3,121270.17,4,4,4,444,12,Loyal Customers,Premium
+CUST14978,Meera Malhotra,Nashik,Maharashtra,22,11,407203.54,5,5,5,555,15,Champions,Premium
+CUST15012,Aarav Nair,Warangal,Telangana,182,5,193716.37,4,5,5,455,14,Loyal Customers,Premium
+CUST15062,Suresh Gupta,Salem,Tamil Nadu,174,1,12120.37,4,2,1,421,7,Promising,Premium
+CUST15150,Rajesh Das,Bengaluru,Karnataka,376,3,276945.87,3,4,5,345,12,Loyal Customers,Premium
+CUST15162,Yasmin Bose,Amritsar,Punjab,281,6,186549.08000000002,3,5,5,355,13,Loyal Customers,Premium
+CUST15168,Ishaan Mishra,Kolkata,West Bengal,366,1,15695.91,3,2,1,321,6,Need Attention,Premium
+CUST15193,Yasmin Agarwal,Indore,Madhya Pradesh,7,2,20308.4,5,4,2,542,11,Champions,Premium
+CUST15470,Rohit Das,Faridabad,Haryana,209,5,99944.11,4,5,4,454,13,Loyal Customers,Premium
+CUST15579,Rahul Pillai,Darbhanga,Bihar,234,7,232330.39,3,5,5,355,13,Loyal Customers,Premium
+CUST15691,Gaurav Tiwari,Muzaffarpur,Bihar,156,4,188421.65000000002,4,5,5,455,14,Loyal Customers,Premium
+CUST15995,Tarun Sharma,Warangal,Telangana,66,10,331845.96,5,5,5,555,15,Champions,Premium
+CUST16045,Gaurav Sharma,Janakpuri,Delhi,123,1,6245.52,4,2,1,421,7,Promising,High
+CUST16359,Mohan Malhotra,Sambalpur,Odisha,235,4,79268.54,3,5,4,354,12,Loyal Customers,Premium
+CUST16388,Anjali Kumar,Janakpuri,Delhi,236,4,63390.49,3,5,3,353,11,Loyal Customers,Premium
+CUST16439,Deepak Shah,Kota,Rajasthan,23,1,27644.67,5,2,2,522,9,New Customers,Premium
+CUST16568,Zara Mishra,Gandhinagar,Gujarat,555,1,5881.88,2,2,1,221,5,About to Sleep,High
+CUST16632,Aditi Mehta,Bathinda,Punjab,83,10,436051.24,4,5,5,455,14,Loyal Customers,Premium
+CUST16650,Sunita Nair,Bathinda,Punjab,212,1,6170.64,4,2,1,421,7,Promising,High
+CUST16653,Sneha Rao,Jabalpur,Madhya Pradesh,864,1,41725.28,1,2,2,122,5,Hibernating,Premium
+CUST16762,Gaurav Chopra,Nashik,Maharashtra,332,2,81140.5,3,4,4,344,11,Loyal Customers,Premium
+CUST16837,Riya Saxena,Surat,Gujarat,218,5,159070.05,4,5,4,454,13,Loyal Customers,Premium
+CUST16948,Manish Malhotra,Hubli,Karnataka,91,1,0.0,4,2,1,421,7,Promising,Low
+CUST17060,Mohan Shah,Bhopal,Madhya Pradesh,650,1,38489.44,2,2,2,222,6,About to Sleep,Premium
+CUST17182,Vijay Pillai,Bathinda,Punjab,353,1,64224.6,3,2,3,323,8,Need Attention,Premium
+CUST17197,Aditi Iyer,Surat,Gujarat,315,1,19150.6,3,2,2,322,7,Need Attention,Premium
+CUST17205,Gaurav Malhotra,Coimbatore,Tamil Nadu,909,1,22877.96,1,2,2,122,5,Hibernating,Premium
+CUST17382,Rajesh Naidu,New Delhi,Delhi,375,1,44659.83,3,2,3,323,8,Need Attention,Premium
+CUST17441,Pankaj Bose,Ahmedabad,Gujarat,424,1,0.0,2,2,1,221,5,About to Sleep,Low
+CUST17464,Deepak Naidu,Bhagalpur,Bihar,76,3,133381.96,5,4,4,544,13,Champions,Premium
+CUST17467,Sneha Saxena,Faridabad,Haryana,704,1,7732.77,1,2,1,121,4,Hibernating,High
+CUST17692,Sanjay Singh,Jalandhar,Punjab,77,8,338392.51,5,5,5,555,15,Champions,Premium
+CUST18082,Aditi Mishra,Panipat,Haryana,931,1,44658.96,1,2,3,123,6,Hibernating,Premium
+CUST18122,Kavya Patel,Dwarka,Delhi,179,3,71295.09,4,4,3,443,11,Loyal Customers,Premium
+CUST18230,Pooja Shah,Kochi,Kerala,331,2,178980.34,3,4,5,345,12,Loyal Customers,Premium
+CUST18292,Kiran Shah,Tiruchirappalli,Tamil Nadu,567,2,192077.74,2,4,5,245,11,At Risk,Premium
+CUST18550,Kiran Rao,Thrissur,Kerala,170,6,241258.90999999997,4,5,5,455,14,Loyal Customers,Premium
+CUST18651,Kavya Patel,Kota,Rajasthan,892,1,47362.84,1,2,3,123,6,Hibernating,Premium
+CUST18929,Ishaan Pillai,Gaya,Bihar,19,12,408913.67000000004,5,5,5,555,15,Champions,Premium
+CUST19088,Meera Pandey,Varanasi,Uttar Pradesh,224,1,41578.75,3,2,2,322,7,Need Attention,Premium
+CUST19089,Aarav Iyer,Ambala,Haryana,29,7,390113.95999999996,5,5,5,555,15,Champions,Premium
+CUST19289,Deepak Singh,Ghaziabad,Uttar Pradesh,71,6,250652.97,5,5,5,555,15,Champions,Premium
+CUST19297,Meera Pandey,New Delhi,Delhi,515,1,30471.36,2,2,2,222,6,About to Sleep,Premium
+CUST19563,Aisha Pillai,Hisar,Haryana,399,1,38301.49,2,2,2,222,6,About to Sleep,Premium
+CUST19594,Tarun Malhotra,Bhopal,Madhya Pradesh,441,3,94968.51999999999,2,4,4,244,10,At Risk,Premium
+CUST19700,Arjun Pandey,Ahmedabad,Gujarat,167,1,94821.19,4,2,4,424,10,Promising,Premium
+CUST19727,Rahul Sharma,Jalandhar,Punjab,651,1,7219.06,1,2,1,121,4,Hibernating,High
+CUST19752,Omkar Patel,Siliguri,West Bengal,686,1,15607.74,1,2,1,121,4,Hibernating,Premium
+CUST19823,Mohan Saxena,Karimnagar,Telangana,288,1,1151.98,3,2,1,321,6,Need Attention,Medium
+CUST19891,Meera Shah,Jabalpur,Madhya Pradesh,935,1,7955.88,1,2,1,121,4,Hibernating,High
+CUST20089,Vikram Patel,Bengaluru,Karnataka,981,1,26527.9,1,2,2,122,5,Hibernating,Premium
+CUST20261,Pankaj Reddy,Bhopal,Madhya Pradesh,148,1,12219.43,4,2,1,421,7,Promising,Premium
+CUST20288,Meera Chopra,Bengaluru,Karnataka,140,3,120995.43,4,4,4,444,12,Loyal Customers,Premium
+CUST20320,Amit Naidu,Hubli,Karnataka,349,4,294429.06,3,5,5,355,13,Loyal Customers,Premium
+CUST20382,Deepak Agarwal,Surat,Gujarat,674,1,24988.03,1,2,2,122,5,Hibernating,Premium
+CUST20453,Mohan Chopra,Ujjain,Madhya Pradesh,307,1,32288.15,3,2,2,322,7,Need Attention,Premium
+CUST20470,Rohit Reddy,Bhagalpur,Bihar,666,1,4540.49,1,2,1,121,4,Hibernating,High
+CUST20696,Rohit Shah,Bengaluru,Karnataka,819,1,19672.49,1,2,2,122,5,Hibernating,Premium
+CUST20760,Ravi Nair,Rohini,Delhi,2,5,184236.33,5,5,5,555,15,Champions,Premium
+CUST20789,Ishaan Reddy,Kozhikode,Kerala,939,1,43633.02,1,2,2,122,5,Hibernating,Premium
+CUST20917,Rohit Kumar,Varanasi,Uttar Pradesh,876,1,121079.81,1,2,4,124,7,Hibernating,Premium
+CUST21016,Lakshmi Chopra,Rourkela,Odisha,175,2,43309.74,4,4,2,442,10,Loyal Customers,Premium
+CUST21039,Tanvi Malhotra,Ajmer,Rajasthan,632,2,13173.59,2,4,1,241,7,At Risk,Premium
+CUST21121,Manish Mehta,Kolkata,West Bengal,523,1,52876.55,2,3,3,233,8,About to Sleep,Premium
+CUST21383,Nikhil Mehta,Pune,Maharashtra,105,6,159505.13,4,5,5,455,14,Loyal Customers,Premium
+CUST21392,Amit Nair,Patna,Bihar,0,6,257497.64,5,5,5,555,15,Champions,Premium
+CUST21395,Sunita Kumar,Salem,Tamil Nadu,88,1,46238.21,4,3,3,433,10,Potential Loyal,Premium
+CUST21442,Aarav Chopra,Ajmer,Rajasthan,170,2,77187.01,4,4,3,443,11,Loyal Customers,Premium
+CUST21456,Vikram Gupta,Madurai,Tamil Nadu,420,1,68662.64,2,3,3,233,8,About to Sleep,Premium
+CUST21575,Suresh Kumar,Warangal,Telangana,145,5,224174.0,4,5,5,455,14,Loyal Customers,Premium
+CUST22180,Ananya Tiwari,Jodhpur,Rajasthan,899,1,13755.96,1,3,1,131,5,At Risk,Premium
+CUST22256,Kavya Verma,Gaya,Bihar,130,1,8567.19,4,3,1,431,8,Potential Loyal,High
+CUST22281,Varun Naidu,Madurai,Tamil Nadu,535,1,20312.96,2,3,2,232,7,About to Sleep,Premium
+CUST22371,Arjun Sharma,Salem,Tamil Nadu,477,1,83839.75,2,3,4,234,9,About to Sleep,Premium
+CUST22569,Mohan Tiwari,Coimbatore,Tamil Nadu,217,2,95776.77,4,4,4,444,12,Loyal Customers,Premium
+CUST22753,Aditi Reddy,Nagpur,Maharashtra,364,2,30890.34,3,4,2,342,9,Loyal Customers,Premium
+CUST22773,Nisha Mishra,Indore,Madhya Pradesh,997,1,95185.46,1,3,4,134,8,At Risk,Premium
+CUST22869,Sunita Rao,Kolkata,West Bengal,11,4,175703.26,5,5,5,555,15,Champions,Premium
+CUST22896,Aarav Verma,Jodhpur,Rajasthan,29,2,88606.58,5,4,4,544,13,Champions,Premium
+CUST23221,Gaurav Gupta,Cuttack,Odisha,15,9,233007.07,5,5,5,555,15,Champions,Premium
+CUST23334,Yasmin Joshi,Bhagalpur,Bihar,98,5,346689.78,4,5,5,455,14,Loyal Customers,Premium
+CUST23385,Aditi Mehta,Thrissur,Kerala,775,2,60402.38,1,4,3,143,8,At Risk,Premium
+CUST23439,Vijay Shah,Mysuru,Karnataka,486,1,21984.64,2,3,2,232,7,About to Sleep,Premium
+CUST23479,Sunita Verma,Rohini,Delhi,241,3,50484.72,3,4,3,343,10,Loyal Customers,Premium
+CUST23528,Aditi Mishra,Saket,Delhi,522,1,0.0,2,3,1,231,6,About to Sleep,Low
+CUST23537,Mohan Shah,Hubli,Karnataka,361,1,33770.76,3,3,2,332,8,Potential Loyal,Premium
+CUST23564,Varun Saxena,Darbhanga,Bihar,39,6,260997.7,5,5,5,555,15,Champions,Premium
+CUST23759,Rohit Pandey,Jabalpur,Madhya Pradesh,1044,1,10633.9,1,3,1,131,5,At Risk,Premium
+CUST23782,Aditi Singh,Sambalpur,Odisha,550,1,12276.49,2,3,1,231,6,About to Sleep,Premium
+CUST23807,Gaurav Patel,Gurugram,Haryana,18,7,233605.29000000004,5,5,5,555,15,Champions,Premium
+CUST23847,Rahul Mehta,Sambalpur,Odisha,281,1,48387.8,3,3,3,333,9,Potential Loyal,Premium
+CUST23852,Amit Kumar,Jaipur,Rajasthan,181,2,72995.93000000001,4,4,3,443,11,Loyal Customers,Premium
+CUST24138,Kiran Bose,Jaipur,Rajasthan,77,1,1573.02,5,3,1,531,9,Potential Loyal,Medium
+CUST24214,Vikram Naidu,Rajkot,Gujarat,443,1,62811.18,2,3,3,233,8,About to Sleep,Premium
+CUST24601,Pooja Saxena,Pune,Maharashtra,137,4,105071.73,4,5,4,454,13,Loyal Customers,Premium
+CUST25002,Kiran Verma,Bhubaneswar,Odisha,28,5,280074.8,5,5,5,555,15,Champions,Premium
+CUST25047,Ananya Nair,Muzaffarpur,Bihar,391,2,98306.75,2,4,4,244,10,At Risk,Premium
+CUST25085,Anjali Singh,Jabalpur,Madhya Pradesh,101,8,163051.36000000002,4,5,5,455,14,Loyal Customers,Premium
+CUST25473,Amit Patel,Nizamabad,Telangana,801,1,22115.57,1,3,2,132,6,At Risk,Premium
+CUST25643,Omkar Mishra,Hubli,Karnataka,65,2,69381.16,5,4,3,543,12,Champions,Premium
+CUST25729,Lakshmi Tiwari,Indore,Madhya Pradesh,99,1,59958.99,4,3,3,433,10,Potential Loyal,Premium
+CUST25967,Tarun Reddy,Rourkela,Odisha,149,8,241837.33,4,5,5,455,14,Loyal Customers,Premium
+CUST26005,Pooja Malhotra,Mumbai,Maharashtra,829,1,53422.83,1,3,3,133,7,At Risk,Premium
+CUST26195,Yasmin Saxena,Patiala,Punjab,63,6,209514.43,5,5,5,555,15,Champions,Premium
+CUST26203,Divya Agarwal,Ujjain,Madhya Pradesh,1054,1,37166.98,1,3,2,132,6,At Risk,Premium
+CUST26323,Omkar Sharma,Kolkata,West Bengal,26,5,112130.86000000002,5,5,4,554,14,Champions,Premium
+CUST26578,Mohan Iyer,Kochi,Kerala,460,2,94702.91,2,4,4,244,10,At Risk,Premium
+CUST26684,Ravi Chopra,Nashik,Maharashtra,137,1,14569.02,4,3,1,431,8,Potential Loyal,Premium
+CUST26701,Ishaan Iyer,Kozhikode,Kerala,101,1,1302.02,4,3,1,431,8,Potential Loyal,Medium
+CUST26729,Kiran Naidu,Chennai,Tamil Nadu,80,8,173278.25,5,5,5,555,15,Champions,Premium
+CUST26799,Sanjay Mehta,Mangaluru,Karnataka,516,1,59883.44,2,3,3,233,8,About to Sleep,Premium
+CUST26833,Aditi Sharma,Bhagalpur,Bihar,595,3,63543.82,2,4,3,243,9,At Risk,Premium
+CUST26980,Ananya Malhotra,Surat,Gujarat,273,1,20455.55,3,3,2,332,8,Potential Loyal,Premium
+CUST27203,Divya Joshi,Asansol,West Bengal,283,1,12232.27,3,3,1,331,7,Potential Loyal,Premium
+CUST27224,Sneha Patel,Amritsar,Punjab,275,1,5492.3,3,3,1,331,7,Potential Loyal,High
+CUST27461,Mohan Reddy,Ajmer,Rajasthan,199,4,70504.05,4,5,3,453,12,Loyal Customers,Premium
+CUST27470,Sunita Reddy,Rajkot,Gujarat,402,1,17473.9,2,3,2,232,7,About to Sleep,Premium
+CUST27505,Aisha Rao,Mangaluru,Karnataka,460,1,29147.4,2,3,2,232,7,About to Sleep,Premium
+CUST27618,Omkar Malhotra,Durgapur,West Bengal,434,1,45646.58,2,3,3,233,8,About to Sleep,Premium
+CUST27744,Arjun Tiwari,Rourkela,Odisha,654,2,47909.14,1,4,3,143,8,At Risk,Premium
+CUST27821,Ishaan Kumar,Amritsar,Punjab,517,3,25176.64,2,4,2,242,8,At Risk,Premium
+CUST27823,Lakshmi Verma,Nashik,Maharashtra,589,1,13955.27,2,3,1,231,6,About to Sleep,Premium
+CUST28004,Pooja Nair,Jalandhar,Punjab,398,1,24382.07,2,3,2,232,7,About to Sleep,Premium
+CUST28535,Tanvi Naidu,Faridabad,Haryana,589,1,2909.64,2,3,1,231,6,About to Sleep,High
+CUST28752,Nisha Pillai,Durgapur,West Bengal,296,1,58155.32,3,3,3,333,9,Potential Loyal,Premium
+CUST28756,Ravi Reddy,Khammam,Telangana,73,11,630766.88,5,5,5,555,15,Champions,Premium
+CUST28772,Omkar Naidu,Darbhanga,Bihar,686,2,76747.31,1,4,3,143,8,At Risk,Premium
+CUST28942,Ravi Singh,Kollam,Kerala,624,1,96156.38,2,3,4,234,9,About to Sleep,Premium
+CUST29298,Pankaj Bose,Mangaluru,Karnataka,846,1,23457.23,1,3,2,132,6,At Risk,Premium
+CUST29302,Riya Pillai,Udaipur,Rajasthan,45,1,0.0,5,3,1,531,9,Potential Loyal,Low
+CUST29425,Riya Pandey,Ajmer,Rajasthan,1089,1,1634.65,1,3,1,131,5,At Risk,Medium
+CUST29529,Suresh Sharma,Tiruchirappalli,Tamil Nadu,15,13,465781.59,5,5,5,555,15,Champions,Premium
+CUST29659,Arjun Patel,Kanpur,Uttar Pradesh,203,2,66275.44,4,4,3,443,11,Loyal Customers,Premium
+CUST29789,Lakshmi Rao,Jodhpur,Rajasthan,1059,1,22808.41,1,3,2,132,6,At Risk,Premium
+CUST29878,Aditi Joshi,Sambalpur,Odisha,31,14,494661.02,5,5,5,555,15,Champions,Premium
+CUST29890,Mohan Iyer,Agra,Uttar Pradesh,428,4,152960.19,2,5,4,254,11,At Risk,Premium
+CUST29998,Vikram Rao,Ghaziabad,Uttar Pradesh,141,1,85496.57,4,3,4,434,11,Potential Loyal,Premium
