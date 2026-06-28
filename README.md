@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Customer Insights & Analytics Dashboard
-### ReadyNest Corp — Data Analytics Internship | Week 2 
+### ReadyNest Corp — Machine Learning Internship | Week 2 
 
 ## 📌 Project Overview
 
