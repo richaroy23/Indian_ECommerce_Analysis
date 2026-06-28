@@ -53,7 +53,7 @@ This project presents a full end-to-end **data analytics pipeline** for an India
 │   └── market_basket_powerbi.csv
 │
 ├── 📊 Ecommerce_Analytics_Dashboard.pbix      # Power BI Dashboard file
-├── 📄 ReadyNest_Business_Insights_Report.docx # Final business report
+├── 📊 project_report_.pdf
 └── 📝 README.md
 ```
 
